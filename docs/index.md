@@ -1,6 +1,6 @@
 # Medulloblastoma subgroups from DNA methylation, with explanations
 
-A learning project on public data. Seven pages, each a notebook executed end to end,
+A learning project on public data. Eight pages, each a notebook executed end to end,
 from the question through quality control, classification, explanation, the test against
 gene expression, and the pathway and therapy angle. Code and tables:
 [github.com/robinson-vidva/mb-methylation-xai](https://github.com/robinson-vidva/mb-methylation-xai).
@@ -11,6 +11,7 @@ gene expression, and the pathway and therapy angle. Code and tables:
 - [4. Explainability](04_explainability.html): Integrated gradients: which CpGs carry each subgroup call and which genes they sit in.
 - [5. Methylation versus expression](05_methylation_vs_expression.html): Does promoter methylation at those sites track expression in the same tumours? Concordant genes per subgroup.
 - [6. Pathways and therapy](06_pathways_and_therapy.html): Pathway enrichment, then Open Targets: which concordant genes and which drivers have drugs.
-- [7. Conclusions](07_conclusions.html): Answers to the four questions, limits, reproducibility across operating systems, and next steps.
+- [7. Gene clusters and pathway flow](07_gene_clusters_and_pathway_flow.html): Gene clusters, a co-methylation network, pathway flow for Hedgehog, Wnt and the photoreceptor program, pathway activity per tumour.
+- [8. Conclusions](08_conclusions.html): Answers to the four questions, limits, reproducibility across operating systems, and next steps.
 
 Data: GSE85212, GSE85217 (Cavalli et al. 2017), GSE54880 (Hovestadt et al. 2013), GPL13534.

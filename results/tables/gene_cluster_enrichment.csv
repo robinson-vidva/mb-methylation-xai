@@ -1,0 +1,18 @@
+query,source,native,name,p_value,term_size,query_size,intersection_size
+cluster 6,GO:BP,GO:0007601,visual perception,1.3735488176305422e-12,191,71,17
+cluster 6,GO:BP,GO:0050953,sensory perception of light stimulus,1.6408586681714738e-12,193,71,17
+cluster 6,GO:BP,GO:0009583,detection of light stimulus,8.536552507251691e-09,58,71,10
+cluster 6,GO:BP,GO:0007602,phototransduction,5.814787844802104e-07,39,71,8
+cluster 6,GO:BP,GO:0009581,detection of external stimulus,1.378136308428906e-05,119,71,10
+cluster 6,KEGG,KEGG:04744,Phototransduction,1.4800427456983478e-05,27,71,5
+cluster 6,GO:BP,GO:0009582,detection of abiotic stimulus,1.764788401003266e-05,122,71,10
+cluster 6,REAC,REAC:R-HSA-2514859,"Inactivation, recovery and regulation of the phototransduction cascade",5.225312971748095e-05,26,71,5
+cluster 6,REAC,REAC:R-HSA-2485179,Activation of the phototransduction cascade,6.008170370858124e-05,11,71,4
+cluster 6,REAC,REAC:R-HSA-2514856,The phototransduction cascade,6.388673722438911e-05,27,71,5
+cluster 6,REAC,REAC:R-HSA-2187338,Visual phototransduction,0.0010206727160851625,82,71,6
+cluster 6,GO:BP,GO:0007600,sensory perception,0.00137519344220581,697,71,17
+cluster 6,GO:BP,GO:0009416,response to light stimulus,0.0037562220138498974,272,71,11
+cluster 6,GO:BP,GO:0009314,response to radiation,0.008971351559801062,366,71,12
+cluster 6,GO:BP,GO:0090596,sensory organ morphogenesis,0.0293076131089433,265,71,10
+cluster 6,GO:BP,GO:0042462,eye photoreceptor cell development,0.02980840369301983,34,71,5
+cluster 6,GO:BP,GO:0048592,eye morphogenesis,0.04803038402118625,158,71,8

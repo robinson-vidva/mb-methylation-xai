@@ -1,0 +1,97 @@
+{
+  "concordant_genes_used": 325,
+  "cluster_sizes": {
+    "1": 3,
+    "2": 66,
+    "3": 49,
+    "4": 1,
+    "5": 133,
+    "6": 73
+  },
+  "cluster_dominant_hypomethylated_group": {
+    "1": "SHH",
+    "2": "Group4",
+    "3": "Group4",
+    "4": "Group4",
+    "5": "SHH",
+    "6": "WNT"
+  },
+  "enriched_terms_per_cluster": {
+    "cluster 6": 17
+  },
+  "network": {
+    "nodes": 239,
+    "edges": 2723,
+    "negative_edges": 257,
+    "communities_min5": 4,
+    "dominant_group_per_community": {
+      "1": "SHH",
+      "2": "Group4",
+      "3": "SHH",
+      "4": "WNT"
+    }
+  },
+  "activity_genes_Hedgehog targets": [
+    "GLI1",
+    "PTCH1",
+    "HHIP",
+    "MYCN",
+    "SFRP1"
+  ],
+  "activity_genes_Wnt targets": [
+    "AXIN2",
+    "NKD1",
+    "LEF1",
+    "DKK1",
+    "SP5",
+    "NOTUM"
+  ],
+  "activity_genes_Photoreceptor program": [
+    "CRX",
+    "NRL",
+    "RCVRN",
+    "GNAT1",
+    "PDE6H",
+    "AIPL1",
+    "IMPG2",
+    "SAG"
+  ],
+  "activity_median_by_group": {
+    "Hedgehog targets | expression score": {
+      "Group3": -0.6129999756813049,
+      "Group4": -0.5720000267028809,
+      "SHH": 1.3609999418258667,
+      "WNT": -0.2809999883174896
+    },
+    "Hedgehog targets | promoter beta": {
+      "Group3": 0.13099999725818634,
+      "Group4": 0.12800000607967377,
+      "SHH": 0.1459999978542328,
+      "WNT": 0.164000004529953
+    },
+    "Wnt targets | expression score": {
+      "Group3": -0.28999999165534973,
+      "Group4": -0.375,
+      "SHH": -0.11100000143051147,
+      "WNT": 2.6489999294281006
+    },
+    "Wnt targets | promoter beta": {
+      "Group3": 0.1080000028014183,
+      "Group4": 0.08500000089406967,
+      "SHH": 0.15299999713897705,
+      "WNT": 0.09300000220537186
+    },
+    "Photoreceptor program | expression score": {
+      "Group3": 1.1030000448226929,
+      "Group4": -0.3269999921321869,
+      "SHH": -0.6880000233650208,
+      "WNT": -0.29600000381469727
+    },
+    "Photoreceptor program | promoter beta": {
+      "Group3": 0.3569999933242798,
+      "Group4": 0.5979999899864197,
+      "SHH": 0.6840000152587891,
+      "WNT": 0.5180000066757202
+    }
+  }
+}

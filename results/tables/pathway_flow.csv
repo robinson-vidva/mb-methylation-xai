@@ -1,0 +1,225 @@
+pathway,stage,gene,group,delta_promoter_beta,meth_fdr,delta_log2_expression,expr_fdr,concordant
+Hedgehog,ligand,SHH,WNT,0.0022,0.0488,0.0165,0.3098,False
+Hedgehog,ligand,SHH,SHH,0.0055,0.0008,0.0021,0.3755,False
+Hedgehog,ligand,SHH,Group3,0.0044,0.005,0.1568,0.0002,False
+Hedgehog,ligand,SHH,Group4,-0.0081,0.0,-0.1054,0.0063,False
+Hedgehog,co-receptor,BOC,WNT,-0.0424,0.0,1.2548,0.0,False
+Hedgehog,co-receptor,BOC,SHH,-0.1859,0.0,3.8632,0.0,True
+Hedgehog,co-receptor,BOC,Group3,0.0853,0.0,-2.3048,0.0,False
+Hedgehog,co-receptor,BOC,Group4,0.1182,0.0,-2.2506,0.0,True
+Hedgehog,co-receptor,CDON,WNT,0.0437,0.0,-0.0111,0.5946,False
+Hedgehog,co-receptor,CDON,SHH,0.0288,0.0,0.0608,0.385,False
+Hedgehog,co-receptor,CDON,Group3,-0.02,0.0007,0.1959,0.0016,False
+Hedgehog,co-receptor,CDON,Group4,-0.0268,0.0,-0.1701,0.0023,False
+Hedgehog,co-receptor,GAS1,WNT,-0.0199,0.0,0.1386,0.0023,False
+Hedgehog,co-receptor,GAS1,SHH,-0.0111,0.0,0.5295,0.0,False
+Hedgehog,co-receptor,GAS1,Group3,-0.0123,0.0,-0.3542,0.0,False
+Hedgehog,co-receptor,GAS1,Group4,0.0238,0.0,-0.2731,0.0,False
+Hedgehog,receptor,PTCH1,WNT,0.0564,0.0,-0.084,0.0448,False
+Hedgehog,receptor,PTCH1,SHH,-0.0743,0.0,1.8415,0.0,False
+Hedgehog,receptor,PTCH1,Group3,0.0564,0.0,-0.9519,0.0,False
+Hedgehog,receptor,PTCH1,Group4,0.0083,0.1977,-0.9324,0.0,False
+Hedgehog,receptor,PTCH2,WNT,0.0083,0.0014,-1.6962,0.0,False
+Hedgehog,receptor,PTCH2,SHH,-0.0077,0.0,1.8895,0.0,False
+Hedgehog,receptor,PTCH2,Group3,-0.0094,0.0007,-0.4093,0.0268,False
+Hedgehog,receptor,PTCH2,Group4,0.0096,0.0,-0.7635,0.0,False
+Hedgehog,receptor,HHIP,WNT,-0.0655,0.0,-1.0931,0.2458,False
+Hedgehog,receptor,HHIP,SHH,-0.0904,0.0,5.0397,0.0,False
+Hedgehog,receptor,HHIP,Group3,0.0203,0.0176,-1.7904,0.0,False
+Hedgehog,receptor,HHIP,Group4,0.086,0.0,-2.7675,0.0,False
+Hedgehog,transducer,SMO,WNT,-0.0028,0.0039,0.7048,0.0,False
+Hedgehog,transducer,SMO,SHH,-0.0031,0.0,0.5664,0.0,False
+Hedgehog,transducer,SMO,Group3,0.0045,0.0,-0.7799,0.0,False
+Hedgehog,transducer,SMO,Group4,0.0008,0.0029,-0.2308,0.0,False
+Hedgehog,transducer,SUFU,WNT,-0.0004,0.5475,0.295,0.0,False
+Hedgehog,transducer,SUFU,SHH,0.0002,0.8371,-0.0901,0.0325,False
+Hedgehog,transducer,SUFU,Group3,0.0001,0.6889,-0.2021,0.0,False
+Hedgehog,transducer,SUFU,Group4,-0.0,0.8287,0.1022,0.0006,False
+Hedgehog,transducer,KIF7,WNT,0.0175,0.0,0.5975,0.0,False
+Hedgehog,transducer,KIF7,SHH,-0.0184,0.0,0.2692,0.0,False
+Hedgehog,transducer,KIF7,Group3,0.0019,0.5318,-0.0952,0.029,False
+Hedgehog,transducer,KIF7,Group4,0.0085,0.0007,-0.3714,0.0,False
+Hedgehog,transcription factor,GLI1,WNT,-0.013,0.0,-0.499,0.0003,False
+Hedgehog,transcription factor,GLI1,SHH,-0.0207,0.0,1.9406,0.0,False
+Hedgehog,transcription factor,GLI1,Group3,0.0161,0.0,-0.6205,0.0006,False
+Hedgehog,transcription factor,GLI1,Group4,0.0118,0.0,-1.0821,0.0,False
+Hedgehog,transcription factor,GLI2,WNT,0.1308,0.0,1.2726,0.0,False
+Hedgehog,transcription factor,GLI2,SHH,-0.1394,0.0,3.4677,0.0,True
+Hedgehog,transcription factor,GLI2,Group3,0.175,0.0,-1.86,0.0,True
+Hedgehog,transcription factor,GLI2,Group4,-0.0362,0.7385,-2.2007,0.0,False
+Hedgehog,transcription factor,GLI3,WNT,0.0522,0.0,1.7294,0.0,False
+Hedgehog,transcription factor,GLI3,SHH,0.0175,0.0014,2.113,0.0,False
+Hedgehog,transcription factor,GLI3,Group3,-0.0509,0.0,-1.1023,0.0,False
+Hedgehog,transcription factor,GLI3,Group4,-0.0007,0.0443,-1.6853,0.0,False
+Hedgehog,target,MYCN,WNT,-0.0011,0.2106,0.8194,0.0,False
+Hedgehog,target,MYCN,SHH,-0.0,0.6719,1.931,0.0,False
+Hedgehog,target,MYCN,Group3,-0.0001,0.823,-1.0833,0.0,False
+Hedgehog,target,MYCN,Group4,0.0004,0.592,-1.2334,0.0,False
+Hedgehog,target,CCND1,WNT,0.0066,0.0001,0.3382,0.0,False
+Hedgehog,target,CCND1,SHH,0.0189,0.0,1.3471,0.0,False
+Hedgehog,target,CCND1,Group3,0.0037,0.0004,-0.6686,0.0,False
+Hedgehog,target,CCND1,Group4,-0.0205,0.0,-0.8355,0.0,False
+Hedgehog,target,CCND2,WNT,-0.0026,0.2429,-0.2329,0.0,False
+Hedgehog,target,CCND2,SHH,0.0096,0.0,-0.8812,0.0,False
+Hedgehog,target,CCND2,Group3,-0.0034,0.0017,0.3014,0.0,False
+Hedgehog,target,CCND2,Group4,-0.0051,0.0,0.6355,0.0,False
+Hedgehog,target,SFRP1,WNT,0.1375,0.0,-1.8665,0.0,True
+Hedgehog,target,SFRP1,SHH,0.2069,0.0,3.8088,0.0,False
+Hedgehog,target,SFRP1,Group3,-0.1236,0.0,-1.6973,0.0,False
+Hedgehog,target,SFRP1,Group4,-0.1444,0.0,-1.5219,0.0,False
+Wnt,ligand and antagonist,WNT1,WNT,-0.0179,0.0,-0.0124,0.8725,False
+Wnt,ligand and antagonist,WNT1,SHH,0.012,0.0,-0.0312,0.0201,False
+Wnt,ligand and antagonist,WNT1,Group3,-0.0022,0.8555,0.0204,0.6667,False
+Wnt,ligand and antagonist,WNT1,Group4,-0.0027,0.3665,0.0178,0.0661,False
+Wnt,ligand and antagonist,WNT3,WNT,0.006,0.2835,-0.5225,0.0,False
+Wnt,ligand and antagonist,WNT3,SHH,0.0125,0.0055,-0.4429,0.0,False
+Wnt,ligand and antagonist,WNT3,Group3,0.0141,0.3562,-0.0658,0.1734,False
+Wnt,ligand and antagonist,WNT3,Group4,-0.0214,0.0159,0.5935,0.0,False
+Wnt,ligand and antagonist,DKK1,WNT,-0.0498,0.0019,3.6942,0.0,False
+Wnt,ligand and antagonist,DKK1,SHH,0.1457,0.0,-0.5493,0.0,False
+Wnt,ligand and antagonist,DKK1,Group3,-0.0252,0.056,-0.1822,0.0364,False
+Wnt,ligand and antagonist,DKK1,Group4,-0.0905,0.0,-0.6796,0.0045,False
+Wnt,ligand and antagonist,DKK2,WNT,0.0044,0.0,5.5576,0.0,False
+Wnt,ligand and antagonist,DKK2,SHH,-0.0226,0.0,0.0032,0.0,False
+Wnt,ligand and antagonist,DKK2,Group3,0.0303,0.0,-0.8288,0.0075,False
+Wnt,ligand and antagonist,DKK2,Group4,-0.0014,0.0,-1.3766,0.0,False
+Wnt,ligand and antagonist,WIF1,WNT,0.0994,0.0,7.0722,0.0,False
+Wnt,ligand and antagonist,WIF1,SHH,-0.0037,0.1073,-0.4169,0.918,False
+Wnt,ligand and antagonist,WIF1,Group3,-0.0173,0.02,-1.155,0.0,False
+Wnt,ligand and antagonist,WIF1,Group4,-0.0199,0.0591,-1.3331,0.002,False
+Wnt,receptor,FZD7,WNT,-0.0927,0.0,1.7527,0.0,False
+Wnt,receptor,FZD7,SHH,-0.1199,0.0,1.3362,0.0,True
+Wnt,receptor,FZD7,Group3,-0.0094,0.5952,-0.0896,0.6095,False
+Wnt,receptor,FZD7,Group4,0.1388,0.0,-1.6702,0.0,True
+Wnt,receptor,LRP5,WNT,-0.0313,0.0693,0.6316,0.0,False
+Wnt,receptor,LRP5,SHH,0.044,0.0001,0.6455,0.0,False
+Wnt,receptor,LRP5,Group3,0.017,0.0078,-0.085,0.3676,False
+Wnt,receptor,LRP5,Group4,-0.0372,0.0,-0.7076,0.0,False
+Wnt,receptor,LRP6,WNT,0.001,0.1511,-0.1973,0.0,False
+Wnt,receptor,LRP6,SHH,0.0002,0.8834,0.1487,0.0,False
+Wnt,receptor,LRP6,Group3,-0.0004,0.5894,0.0956,0.0002,False
+Wnt,receptor,LRP6,Group4,-0.0003,0.6103,-0.1183,0.0,False
+Wnt,receptor,LGR5,WNT,-0.0005,0.8031,4.3808,0.0,False
+Wnt,receptor,LGR5,SHH,0.0007,0.7083,-1.2493,0.0,False
+Wnt,receptor,LGR5,Group3,-0.0001,0.8178,1.0319,0.0,False
+Wnt,receptor,LGR5,Group4,-0.0003,0.4594,-1.0813,0.0,False
+Wnt,destruction complex,APC,WNT,0.0018,0.5969,-0.7598,0.0,False
+Wnt,destruction complex,APC,SHH,0.0068,0.0,-0.0292,0.0806,False
+Wnt,destruction complex,APC,Group3,0.0007,0.3775,0.2714,0.0,False
+Wnt,destruction complex,APC,Group4,-0.0068,0.0075,0.1136,0.0009,False
+Wnt,destruction complex,AXIN1,WNT,0.0024,0.5452,0.185,0.0001,False
+Wnt,destruction complex,AXIN1,SHH,-0.0021,0.064,0.3807,0.0,False
+Wnt,destruction complex,AXIN1,Group3,0.0019,0.0647,-0.1561,0.0003,False
+Wnt,destruction complex,AXIN1,Group4,-0.0002,0.854,-0.2872,0.0,False
+Wnt,destruction complex,GSK3B,WNT,0.0001,0.7974,-0.2925,0.0,False
+Wnt,destruction complex,GSK3B,SHH,0.0008,0.0763,0.1242,0.0,False
+Wnt,destruction complex,GSK3B,Group3,-0.0007,0.1793,-0.1215,0.0,False
+Wnt,destruction complex,GSK3B,Group4,-0.0003,0.5132,0.0706,0.0002,False
+Wnt,destruction complex,CTNNB1,WNT,-0.0155,0.0,-0.0031,0.8463,False
+Wnt,destruction complex,CTNNB1,SHH,-0.0392,0.0,0.4244,0.0,False
+Wnt,destruction complex,CTNNB1,Group3,0.0046,0.101,-0.1358,0.0001,False
+Wnt,destruction complex,CTNNB1,Group4,0.0356,0.0,-0.2727,0.0,False
+Wnt,transcription factor,TCF7,WNT,-0.0728,0.0,1.6166,0.0,False
+Wnt,transcription factor,TCF7,SHH,-0.0015,0.0812,-0.6372,0.0,False
+Wnt,transcription factor,TCF7,Group3,-0.0197,0.0,0.0925,0.0,False
+Wnt,transcription factor,TCF7,Group4,0.0384,0.0,-0.0697,0.001,False
+Wnt,transcription factor,TCF7L2,WNT,-0.0092,0.0,0.5224,0.0,False
+Wnt,transcription factor,TCF7L2,SHH,-0.0039,0.0,1.1728,0.0,False
+Wnt,transcription factor,TCF7L2,Group3,0.0094,0.0,0.26,0.0538,False
+Wnt,transcription factor,TCF7L2,Group4,0.0006,0.2055,-1.332,0.0,False
+Wnt,transcription factor,LEF1,WNT,-0.0367,0.0,3.4791,0.0,False
+Wnt,transcription factor,LEF1,SHH,0.0345,0.0,1.4722,0.0,False
+Wnt,transcription factor,LEF1,Group3,0.0234,0.0,-1.3116,0.0,False
+Wnt,transcription factor,LEF1,Group4,-0.0313,0.0,-1.6085,0.0,False
+Wnt,target,AXIN2,WNT,-0.0178,0.0,2.7416,0.0,False
+Wnt,target,AXIN2,SHH,0.0318,0.0,-0.3263,0.0369,False
+Wnt,target,AXIN2,Group3,0.0071,0.0024,-0.3681,0.0001,False
+Wnt,target,AXIN2,Group4,-0.0252,0.0,-0.4274,0.0121,False
+Wnt,target,NKD1,WNT,-0.0025,0.0541,4.6873,0.0,False
+Wnt,target,NKD1,SHH,-0.0007,0.2994,-0.2786,0.0001,False
+Wnt,target,NKD1,Group3,0.0012,0.8764,-0.4303,0.7134,False
+Wnt,target,NKD1,Group4,0.0007,0.0201,-1.0914,0.0,False
+Wnt,target,SP5,WNT,-0.1601,0.0,3.1666,0.0,True
+Wnt,target,SP5,SHH,0.1472,0.0,-0.3959,0.0,False
+Wnt,target,SP5,Group3,-0.0255,0.4656,-0.4432,0.0027,False
+Wnt,target,SP5,Group4,-0.054,0.0083,-0.4664,0.3468,False
+Wnt,target,MYC,WNT,-0.0009,0.7404,2.4666,0.0,False
+Wnt,target,MYC,SHH,-0.0004,0.8936,-1.1738,0.0,False
+Wnt,target,MYC,Group3,0.0021,0.258,2.119,0.0,False
+Wnt,target,MYC,Group4,-0.0006,0.5728,-1.1735,0.0,False
+Wnt,target,NOTUM,WNT,0.152,0.0,2.5971,0.0,False
+Wnt,target,NOTUM,SHH,0.0587,0.0,-0.3428,0.0003,False
+Wnt,target,NOTUM,Group3,-0.0066,0.9108,-0.0911,0.0013,False
+Wnt,target,NOTUM,Group4,-0.0973,0.0,-0.5376,0.0,False
+Photoreceptor,transcription factor,OTX2,WNT,-0.1216,0.0628,1.1942,0.995,False
+Photoreceptor,transcription factor,OTX2,SHH,0.3968,0.0,-4.4023,0.0,True
+Photoreceptor,transcription factor,OTX2,Group3,-0.1455,0.0,1.7065,0.0,True
+Photoreceptor,transcription factor,OTX2,Group4,-0.203,0.0,2.2469,0.0,True
+Photoreceptor,transcription factor,CRX,WNT,-0.0439,0.0004,-0.6326,0.0607,False
+Photoreceptor,transcription factor,CRX,SHH,-0.0021,0.7639,-1.6584,0.0,False
+Photoreceptor,transcription factor,CRX,Group3,-0.0261,0.0,2.0085,0.0,False
+Photoreceptor,transcription factor,CRX,Group4,0.033,0.0,0.3605,0.0,False
+Photoreceptor,transcription factor,NRL,WNT,0.0421,0.1382,-0.4553,0.353,False
+Photoreceptor,transcription factor,NRL,SHH,0.0651,0.0,-1.6805,0.0,False
+Photoreceptor,transcription factor,NRL,Group3,-0.2148,0.0,2.6698,0.0,True
+Photoreceptor,transcription factor,NRL,Group4,0.0651,0.0,-0.0949,0.0134,False
+Photoreceptor,transcription factor,NR2E3,WNT,-0.1103,0.0,-0.5622,0.0056,False
+Photoreceptor,transcription factor,NR2E3,SHH,0.0639,0.0,-0.7885,0.0,False
+Photoreceptor,transcription factor,NR2E3,Group3,-0.1844,0.0,1.5407,0.0,True
+Photoreceptor,transcription factor,NR2E3,Group4,0.0989,0.0,-0.106,0.3267,False
+Photoreceptor,transcription factor,RORB,WNT,0.0123,0.002,-0.2334,0.0007,False
+Photoreceptor,transcription factor,RORB,SHH,-0.0006,0.1785,-0.3803,0.0,False
+Photoreceptor,transcription factor,RORB,Group3,0.0091,0.7871,-0.1528,0.0085,False
+Photoreceptor,transcription factor,RORB,Group4,-0.0094,0.0006,0.4966,0.0,False
+Photoreceptor,phototransduction,RHO,WNT,0.0605,0.0,-0.7212,0.0,False
+Photoreceptor,phototransduction,RHO,SHH,0.0517,0.0,-0.6364,0.0,False
+Photoreceptor,phototransduction,RHO,Group3,-0.1018,0.0,1.291,0.0,True
+Photoreceptor,phototransduction,RHO,Group4,-0.0006,0.0132,-0.0243,0.1209,False
+Photoreceptor,phototransduction,GNAT1,WNT,0.0255,0.0837,-0.9636,0.1229,False
+Photoreceptor,phototransduction,GNAT1,SHH,0.0728,0.0,-1.5337,0.0,False
+Photoreceptor,phototransduction,GNAT1,Group3,-0.1022,0.0,2.2378,0.0,True
+Photoreceptor,phototransduction,GNAT1,Group4,-0.0062,0.2,0.2244,0.0001,False
+Photoreceptor,phototransduction,GNGT1,WNT,0.0608,0.0009,-0.3192,0.272,False
+Photoreceptor,phototransduction,GNGT1,SHH,-0.0344,0.0066,-0.8149,0.0,False
+Photoreceptor,phototransduction,GNGT1,Group3,-0.1633,0.0,1.774,0.0,True
+Photoreceptor,phototransduction,GNGT1,Group4,0.1106,0.0,-0.3124,0.5427,False
+Photoreceptor,phototransduction,PDE6B,WNT,0.1358,0.0,-0.4159,0.1956,False
+Photoreceptor,phototransduction,PDE6B,SHH,0.0862,0.0,-0.3431,0.9797,False
+Photoreceptor,phototransduction,PDE6B,Group3,-0.0335,0.0321,1.3682,0.0,False
+Photoreceptor,phototransduction,PDE6B,Group4,-0.0981,0.0,-0.4244,0.0,False
+Photoreceptor,phototransduction,PDE6H,WNT,-0.0527,0.0004,-0.9026,0.0,False
+Photoreceptor,phototransduction,PDE6H,SHH,-0.0624,0.0,-1.2731,0.0,False
+Photoreceptor,phototransduction,PDE6H,Group3,-0.1493,0.0,2.2243,0.0,True
+Photoreceptor,phototransduction,PDE6H,Group4,0.1641,0.0,-0.0082,0.0,False
+Photoreceptor,phototransduction,SAG,WNT,-0.0955,0.0086,-0.7093,0.0012,False
+Photoreceptor,phototransduction,SAG,SHH,0.454,0.0,-1.0111,0.0,True
+Photoreceptor,phototransduction,SAG,Group3,-0.3488,0.0,2.0423,0.0,True
+Photoreceptor,phototransduction,SAG,Group4,-0.133,0.0,-0.1817,0.219,False
+Photoreceptor,phototransduction,RCVRN,WNT,0.0218,0.9185,-0.9936,0.0052,False
+Photoreceptor,phototransduction,RCVRN,SHH,0.0753,0.0,-1.9152,0.0,False
+Photoreceptor,phototransduction,RCVRN,Group3,-0.2023,0.0,2.6075,0.0,True
+Photoreceptor,phototransduction,RCVRN,Group4,0.0555,0.0,0.3258,0.0001,False
+Photoreceptor,phototransduction,GUCA1A,WNT,0.1394,0.0,-0.3729,0.0,False
+Photoreceptor,phototransduction,GUCA1A,SHH,-0.0648,0.0,-0.467,0.0,False
+Photoreceptor,phototransduction,GUCA1A,Group3,-0.0732,0.0,1.0757,0.0,False
+Photoreceptor,phototransduction,GUCA1A,Group4,0.0531,0.0,-0.1514,0.5051,False
+Photoreceptor,structure and chaperone,AIPL1,WNT,-0.0558,0.0008,-0.3722,0.3155,False
+Photoreceptor,structure and chaperone,AIPL1,SHH,0.267,0.0,-1.3139,0.0,True
+Photoreceptor,structure and chaperone,AIPL1,Group3,-0.33,0.0,2.422,0.0,True
+Photoreceptor,structure and chaperone,AIPL1,Group4,-0.0003,0.0008,-0.2781,0.762,False
+Photoreceptor,structure and chaperone,IMPG2,WNT,-0.2634,0.0,1.8738,0.0,True
+Photoreceptor,structure and chaperone,IMPG2,SHH,0.4776,0.0,-3.1971,0.0,True
+Photoreceptor,structure and chaperone,IMPG2,Group3,-0.5395,0.0,3.7491,0.0,True
+Photoreceptor,structure and chaperone,IMPG2,Group4,0.0236,0.0831,-0.2814,0.8555,False
+Photoreceptor,structure and chaperone,CRB1,WNT,-0.0435,0.0019,0.1192,0.0757,False
+Photoreceptor,structure and chaperone,CRB1,SHH,-0.0923,0.0,2.8276,0.0,False
+Photoreceptor,structure and chaperone,CRB1,Group3,0.1471,0.0,-1.0614,0.0,True
+Photoreceptor,structure and chaperone,CRB1,Group4,0.0008,0.0001,-1.7666,0.0,False
+Photoreceptor,structure and chaperone,PRPH2,WNT,-0.106,0.0,-1.4883,0.0,False
+Photoreceptor,structure and chaperone,PRPH2,SHH,0.2611,0.0,-1.8996,0.0,True
+Photoreceptor,structure and chaperone,PRPH2,Group3,-0.1483,0.0,1.6278,0.0,True
+Photoreceptor,structure and chaperone,PRPH2,Group4,-0.0918,0.0,1.094,0.0,False
+Photoreceptor,structure and chaperone,ROM1,WNT,-0.0294,0.0,-0.0501,0.0058,False
+Photoreceptor,structure and chaperone,ROM1,SHH,0.0308,0.0,-0.6455,0.0,False
+Photoreceptor,structure and chaperone,ROM1,Group3,0.0261,0.0,0.8625,0.0,False
+Photoreceptor,structure and chaperone,ROM1,Group4,-0.0324,0.0,0.023,0.0374,False

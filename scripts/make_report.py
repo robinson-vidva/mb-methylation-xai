@@ -17,7 +17,8 @@ PAGES = [
     ("04_explainability", "4. Explainability"),
     ("05_methylation_vs_expression", "5. Methylation versus expression"),
     ("06_pathways_and_therapy", "6. Pathways and therapy"),
-    ("07_conclusions", "7. Conclusions"),
+    ("07_gene_clusters_and_pathway_flow", "7. Gene clusters and pathway flow"),
+    ("08_conclusions", "8. Conclusions"),
 ]
 
 SETUP = ("import json\nimport pandas as pd\nfrom IPython.display import Image, display\n"
@@ -400,6 +401,101 @@ photoreceptor dependency that is already under preclinical study."""),
 ]
 
 # ----------------------------------------------------------------------------------------------
+P7N = [
+    ("md", """Pages 5 and 6 treat genes one at a time. This page asks how the concordant genes behave together,
+and where the changed genes sit inside the pathways that define the subgroups. Four parts: clustering,
+a network, pathway flow, and pathway activity per tumour.
+
+## 1. Gene clusters
+
+The concordant genes with both measurements were clustered by their promoter methylation across all
+763 tumours (hierarchical clustering, average linkage, correlation distance, six clusters). The
+expression panel uses the same gene order, so a block that is red (methylated) on the left should be
+blue (silent) on the right if methylation controls expression."""),
+    ("code", SETUP),
+    ("code", "display(Image(FIG / 'gene_clusters_heatmap.png'))\n"
+             "cl = pd.read_csv(TAB / 'gene_clusters.csv', index_col=0)\n"
+             "pd.crosstab(cl['cluster'], cl['hypomethylated_in'])[['WNT', 'SHH', 'Group3', 'Group4']]"),
+    ("code", "enr = pd.read_csv(TAB / 'gene_cluster_enrichment.csv')\n"
+             "enr.groupby('query').head(6)[['query', 'source', 'name', 'p_value', 'intersection_size', 'term_size']]"),
+    ("md", """The genes fall into subgroup blocks. One large cluster is hypomethylated in SHH and WNT tumours and
+methylated in Group 3 and Group 4. Another is hypomethylated in Group 4, and a third in Group 3 and WNT.
+The expression panel is the mirror image: where a block is unmethylated, the genes are expressed.
+Methylation of these genes is organised by lineage, not gene by gene. Only one cluster returns
+enriched terms, the Group 3 block, and the terms are visual perception and phototransduction: the
+photoreceptor program again, now as a co-methylated block rather than a list.
+
+## 2. Co-methylation network
+
+A network makes the same point with less structure imposed. Nodes are concordant genes. An edge
+joins two genes whose promoter methylation correlates across the 763 tumours with Spearman rho of
+at least 0.6; red dashed edges mark anti-correlation of -0.6 or stronger. Communities were found by
+greedy modularity. Node colour is the subgroup in which the gene is most hypomethylated; node size is
+the number of edges. The five most connected genes per community are labelled."""),
+    ("code", "display(Image(FIG / 'comethylation_network.png'))\n"
+             "net = pd.read_csv(TAB / 'network_communities.csv')\n"
+             "pd.crosstab(net['community'], net['hypomethylated_in'])[['WNT', 'SHH', 'Group3', 'Group4']]"),
+    ("code", "pd.read_csv(TAB / 'network_hubs.csv')"),
+    ("md", """Three large communities appear: two dominated by SHH genes and one by Group 3 and Group 4 genes.
+The anti-correlated edges run between the SHH community and the Group 3 and Group 4 community: the
+same gene is unmethylated in one lineage and methylated in the other. Hubs such as BOC (a Hedgehog
+co-receptor), SEMA6A and KCNIP1 on the SHH side, and RBM24, CER1 and SAG on the Group 3 and 4 side,
+are the genes whose methylation best summarises each block. These are candidate marker CpGs.
+
+## 3. Pathway flow
+
+A pathway is a chain: ligand, receptor, transducer, transcription factor, target genes. Where in the
+chain a subgroup changes tells how the pathway is switched on. Three pathways were examined: Hedgehog
+(the SHH subgroup), Wnt (the WNT subgroup), and the photoreceptor program (Group 3). Membership comes
+from KEGG through its public API. The table counts, per pathway and subgroup, members with increased
+or decreased expression, promoter changes, and concordant genes."""),
+    ("code", "ms = pd.read_csv(TAB / 'pathway_membership_summary.csv')\n"
+             "ms.set_index(['pathway', 'members', 'with_both_measurements', 'group'])"),
+    ("md", """The figure places a curated core of each pathway in signalling order. Left block: change in promoter
+beta per subgroup; right block: change in log2 expression. Numbers appear where the change passes
+FDR 0.05 and the threshold used on page 5; a box marks a concordant gene."""),
+    ("code", "display(Image(FIG / 'pathway_flow.png'))"),
+    ("code", "flow = pd.read_csv(TAB / 'pathway_flow.csv')\n"
+             "flow[flow['concordant']][['pathway', 'stage', 'gene', 'group', 'delta_promoter_beta', 'delta_log2_expression']].reset_index(drop=True)"),
+    ("md", """**Hedgehog in SHH tumours.** The output of the pathway is on: PTCH1, PTCH2, HHIP, GLI1, GLI2, MYCN,
+CCND1 and SFRP1 are all over-expressed. Almost none of their promoters change; only BOC and GLI2 are
+concordant. The ligand SHH, the transducers SMO, SUFU and KIF7 show nothing at either level. This is
+the signature of a pathway switched on by mutation (PTCH1, SMO or SUFU loss, upstream of the targets):
+the signal appears as target gene output, and methylation is silent.
+
+**Wnt in WNT tumours.** The same pattern. AXIN2, LEF1, NKD1, DKK1, DKK2, WIF1, SP5, NOTUM and MYC are
+strongly over-expressed, the classic beta-catenin target set, while the promoters of CTNNB1, APC and
+the destruction complex do not move. CTNNB1 mutation drives the subgroup, and the targets respond at
+the expression level. Only SP5 is concordant.
+
+**Photoreceptor program in Group 3.** Here the chain changes at every level and in both measurements.
+The transcription factors OTX2, NRL and NR2E3 are hypomethylated and expressed; the phototransduction
+genes RHO, GNAT1, GNGT1, PDE6H, SAG and RCVRN follow; the structural genes AIPL1, IMPG2 and PRPH2
+follow too. Seven of the 26 measured members are concordant in Group 3. The mirror image holds in SHH
+tumours, where OTX2, SAG, AIPL1, IMPG2 and PRPH2 are hypermethylated and silent. This is a program
+controlled by promoter methylation, not by a mutation.
+
+## 4. Pathway activity per tumour
+
+The same contrast, reduced to one number per tumour: the mean expression of each pathway's target
+genes, and the mean promoter methylation of the same genes."""),
+    ("code", "display(Image(FIG / 'pathway_activity.png'))\n"
+             "act = pd.read_csv(TAB / 'pathway_activity_scores.csv', index_col=0)\n"
+             "act.groupby('group')[[c for c in act.columns if '|' in c]].median().round(3).T"),
+    ("md", """Hedgehog and Wnt target expression is specific to SHH and WNT tumours, and the promoter methylation
+of those targets is flat across subgroups. The photoreceptor program is high in Group 3 and its
+promoters are clearly less methylated there than in every other subgroup.
+
+**What this means for therapy.** A pathway switched on by mutation is targeted at the mutated node.
+That is why SMO inhibitors work in SHH tumours and why the methylation state of Hedgehog targets adds
+nothing to that decision. A program switched on by demethylation is a different kind of target. Its
+promoter methylation is a per-tumour readout that could serve as a biomarker, and the program itself,
+here the NRL and CRX photoreceptor identity of Group 3, is a dependency that has been proposed as a
+therapeutic entry point. Which Group 3 tumours carry the program, and how strongly, is visible in the
+top right panel. This is as far as array data can go; it does not test any drug."""),
+]
+
+# ----------------------------------------------------------------------------------------------
 P7 = [
     ("md", f"""## Answers to the four questions
 
@@ -415,8 +511,11 @@ P7 = [
 4. **Pathways and therapy.** Concordant genes recover the Group 3 photoreceptor program, Wnt
    signalling in WNT and cell fate commitment in SHH. Few concordant genes have drugs, and those that do
    are mostly channels and stromal genes. The approved subgroup-specific drugs act on mutated drivers
-   (SMO, CDK6) whose promoters do not change. Methylation marks lineage and microenvironment; mutation
-   marks the current drug targets.
+   (SMO, CDK6) whose promoters do not change. The pathway flow analysis makes the distinction explicit:
+   Hedgehog and Wnt targets are over-expressed in SHH and WNT tumours with flat promoter methylation,
+   the signature of activation by mutation, while the Group 3 photoreceptor program is hypomethylated
+   and expressed along the whole chain, the signature of activation by demethylation. Methylation marks
+   lineage programs and microenvironment; mutation marks the current drug targets.
 
 ## What this project does not show
 
@@ -455,10 +554,10 @@ lists every difference. A stronger version would train several seeds and report 
 
 
 def main():
-    for i, cells in enumerate([P1, P2, P3, P4, P5, P6, P7]):
+    for i, cells in enumerate([P1, P2, P3, P4, P5, P6, P7N, P7]):
         build(i, cells)
     lines = ["# Medulloblastoma subgroups from DNA methylation, with explanations", "",
-             "A learning project on public data. Seven pages, each a notebook executed end to end,",
+             "A learning project on public data. Eight pages, each a notebook executed end to end,",
              "from the question through quality control, classification, explanation, the test against",
              "gene expression, and the pathway and therapy angle. Code and tables:",
              "[github.com/robinson-vidva/mb-methylation-xai](https://github.com/robinson-vidva/mb-methylation-xai).", ""]
@@ -469,6 +568,7 @@ def main():
         "Integrated gradients: which CpGs carry each subgroup call and which genes they sit in.",
         "Does promoter methylation at those sites track expression in the same tumours? Concordant genes per subgroup.",
         "Pathway enrichment, then Open Targets: which concordant genes and which drivers have drugs.",
+        "Gene clusters, a co-methylation network, pathway flow for Hedgehog, Wnt and the photoreceptor program, pathway activity per tumour.",
         "Answers to the four questions, limits, reproducibility across operating systems, and next steps.",
     ]
     for (stem, title), blurb in zip(PAGES, blurbs):
