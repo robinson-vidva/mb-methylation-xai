@@ -1,0 +1,7 @@
+task,model,balanced_accuracy,macro_f1,accuracy
+group,logreg,0.97,0.968,0.974
+group,rf,0.974,0.974,0.98
+group,mlp,0.97,0.968,0.974
+subtype,logreg,0.81,0.817,0.869
+subtype,rf,0.859,0.867,0.908
+subtype,mlp,0.859,0.84,0.863

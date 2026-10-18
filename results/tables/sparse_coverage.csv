@@ -1,0 +1,241 @@
+model,fraction_cpgs_observed,rep,n_cpgs,balanced_accuracy
+logistic regression,1.0,0,10000,0.970350052246604
+MLP,1.0,0,10000,0.970350052246604
+"MLP, masked-input training",1.0,0,10000,0.9789707419017764
+logistic regression,1.0,1,10000,0.970350052246604
+MLP,1.0,1,10000,0.970350052246604
+"MLP, masked-input training",1.0,1,10000,0.9789707419017764
+logistic regression,1.0,2,10000,0.970350052246604
+MLP,1.0,2,10000,0.970350052246604
+"MLP, masked-input training",1.0,2,10000,0.9789707419017764
+logistic regression,1.0,3,10000,0.970350052246604
+MLP,1.0,3,10000,0.970350052246604
+"MLP, masked-input training",1.0,3,10000,0.9789707419017764
+logistic regression,1.0,4,10000,0.970350052246604
+MLP,1.0,4,10000,0.970350052246604
+"MLP, masked-input training",1.0,4,10000,0.9789707419017764
+logistic regression,1.0,5,10000,0.970350052246604
+MLP,1.0,5,10000,0.970350052246604
+"MLP, masked-input training",1.0,5,10000,0.9789707419017764
+logistic regression,1.0,6,10000,0.970350052246604
+MLP,1.0,6,10000,0.970350052246604
+"MLP, masked-input training",1.0,6,10000,0.9789707419017764
+logistic regression,1.0,7,10000,0.970350052246604
+MLP,1.0,7,10000,0.970350052246604
+"MLP, masked-input training",1.0,7,10000,0.9789707419017764
+logistic regression,1.0,8,10000,0.970350052246604
+MLP,1.0,8,10000,0.970350052246604
+"MLP, masked-input training",1.0,8,10000,0.9789707419017764
+logistic regression,1.0,9,10000,0.970350052246604
+MLP,1.0,9,10000,0.970350052246604
+"MLP, masked-input training",1.0,9,10000,0.9789707419017764
+logistic regression,0.5,0,4971,0.9224137931034483
+MLP,0.5,0,4971,0.9224137931034483
+"MLP, masked-input training",0.5,0,4971,0.970350052246604
+logistic regression,0.5,1,5030,0.9224137931034483
+MLP,0.5,1,5030,0.9224137931034483
+"MLP, masked-input training",0.5,1,5030,0.9789707419017764
+logistic regression,0.5,2,5025,0.9396551724137931
+MLP,0.5,2,5025,0.9310344827586207
+"MLP, masked-input training",0.5,2,5025,0.9741379310344828
+logistic regression,0.5,3,5048,0.9224137931034483
+MLP,0.5,3,5048,0.9224137931034483
+"MLP, masked-input training",0.5,3,5048,0.9789707419017764
+logistic regression,0.5,4,5077,0.9482758620689655
+MLP,0.5,4,5077,0.9310344827586207
+"MLP, masked-input training",0.5,4,5077,0.970350052246604
+logistic regression,0.5,5,4896,0.9137931034482758
+MLP,0.5,5,4896,0.9224137931034483
+"MLP, masked-input training",0.5,5,4896,0.9789707419017764
+logistic regression,0.5,6,4987,0.9482758620689655
+MLP,0.5,6,4987,0.9482758620689655
+"MLP, masked-input training",0.5,6,4987,0.9789707419017764
+logistic regression,0.5,7,5068,0.9396551724137931
+MLP,0.5,7,5068,0.9310344827586207
+"MLP, masked-input training",0.5,7,5068,0.9617293625914315
+logistic regression,0.5,8,5079,0.9310344827586207
+MLP,0.5,8,5079,0.9310344827586207
+"MLP, masked-input training",0.5,8,5079,0.9741379310344828
+logistic regression,0.5,9,5048,0.9310344827586207
+MLP,0.5,9,5048,0.9310344827586207
+"MLP, masked-input training",0.5,9,5048,0.970350052246604
+logistic regression,0.2,0,1945,0.7252015226153157
+MLP,0.2,0,1945,0.49196708463949845
+"MLP, masked-input training",0.2,0,1945,0.970350052246604
+logistic regression,0.2,1,1978,0.764666368114644
+MLP,0.2,1,1978,0.4606191222570533
+"MLP, masked-input training",0.2,1,1978,0.9617293625914315
+logistic regression,0.2,2,1984,0.7438703537841469
+MLP,0.2,2,1984,0.46923981191222575
+"MLP, masked-input training",0.2,2,1984,0.9789707419017764
+logistic regression,0.2,3,2010,0.764666368114644
+MLP,0.2,3,2010,0.46923981191222575
+"MLP, masked-input training",0.2,3,2010,0.9751828631138976
+logistic regression,0.2,4,2047,0.7817118226600985
+MLP,0.2,4,2047,0.49490595611285265
+"MLP, masked-input training",0.2,4,2047,0.970350052246604
+logistic regression,0.2,5,2032,0.7958184057321989
+MLP,0.2,5,2032,0.5033307210031348
+"MLP, masked-input training",0.2,5,2032,0.9310344827586207
+logistic regression,0.2,6,2048,0.8189375279892521
+MLP,0.2,6,2048,0.5092084639498433
+"MLP, masked-input training",0.2,6,2048,0.970350052246604
+logistic regression,0.2,7,1988,0.7619234214061801
+MLP,0.2,7,1988,0.45219435736677116
+"MLP, masked-input training",0.2,7,1988,0.9655172413793103
+logistic regression,0.2,8,1991,0.7222626511419615
+MLP,0.2,8,1991,0.4804075235109718
+"MLP, masked-input training",0.2,8,1991,0.9789707419017764
+logistic regression,0.2,9,1941,0.7615315718763995
+MLP,0.2,9,1941,0.4690438871473354
+"MLP, masked-input training",0.2,9,1941,0.9617293625914315
+logistic regression,0.1,0,996,0.25
+MLP,0.1,0,996,0.25
+"MLP, masked-input training",0.1,0,996,0.9751828631138976
+logistic regression,0.1,1,972,0.25
+MLP,0.1,1,972,0.25
+"MLP, masked-input training",0.1,1,972,0.9224137931034483
+logistic regression,0.1,2,1032,0.25
+MLP,0.1,2,1032,0.25
+"MLP, masked-input training",0.1,2,1032,0.9137931034482758
+logistic regression,0.1,3,1016,0.25
+MLP,0.1,3,1016,0.25
+"MLP, masked-input training",0.1,3,1016,0.970350052246604
+logistic regression,0.1,4,1022,0.25
+MLP,0.1,4,1022,0.25
+"MLP, masked-input training",0.1,4,1022,0.9655172413793103
+logistic regression,0.1,5,1005,0.25
+MLP,0.1,5,1005,0.25
+"MLP, masked-input training",0.1,5,1005,0.9751828631138976
+logistic regression,0.1,6,993,0.25
+MLP,0.1,6,993,0.25
+"MLP, masked-input training",0.1,6,993,0.9789707419017764
+logistic regression,0.1,7,1008,0.25
+MLP,0.1,7,1008,0.25
+"MLP, masked-input training",0.1,7,1008,0.9617293625914315
+logistic regression,0.1,8,1007,0.25
+MLP,0.1,8,1007,0.25
+"MLP, masked-input training",0.1,8,1007,0.9224137931034483
+logistic regression,0.1,9,955,0.25
+MLP,0.1,9,955,0.25
+"MLP, masked-input training",0.1,9,955,0.9617293625914315
+logistic regression,0.05,0,517,0.25
+MLP,0.05,0,517,0.25
+"MLP, masked-input training",0.05,0,517,0.9051724137931034
+logistic regression,0.05,1,473,0.25
+MLP,0.05,1,473,0.25
+"MLP, masked-input training",0.05,1,473,0.9051724137931034
+logistic regression,0.05,2,549,0.25
+MLP,0.05,2,549,0.25
+"MLP, masked-input training",0.05,2,549,0.9610762800417973
+logistic regression,0.05,3,477,0.25
+MLP,0.05,3,477,0.25
+"MLP, masked-input training",0.05,3,477,0.9482758620689655
+logistic regression,0.05,4,471,0.25
+MLP,0.05,4,471,0.25
+"MLP, masked-input training",0.05,4,471,0.9224137931034483
+logistic regression,0.05,5,519,0.25
+MLP,0.05,5,519,0.25
+"MLP, masked-input training",0.05,5,519,0.9137931034482758
+logistic regression,0.05,6,553,0.25
+MLP,0.05,6,553,0.25
+"MLP, masked-input training",0.05,6,553,0.9751828631138976
+logistic regression,0.05,7,520,0.25
+MLP,0.05,7,520,0.25
+"MLP, masked-input training",0.05,7,520,0.98380355276907
+logistic regression,0.05,8,486,0.25
+MLP,0.05,8,486,0.25
+"MLP, masked-input training",0.05,8,486,0.9655172413793103
+logistic regression,0.05,9,499,0.25
+MLP,0.05,9,499,0.25
+"MLP, masked-input training",0.05,9,499,0.970350052246604
+logistic regression,0.02,0,191,0.25
+MLP,0.02,0,191,0.25
+"MLP, masked-input training",0.02,0,191,0.9224137931034483
+logistic regression,0.02,1,179,0.25
+MLP,0.02,1,179,0.25
+"MLP, masked-input training",0.02,1,179,0.9512147335423198
+logistic regression,0.02,2,197,0.25
+MLP,0.02,2,197,0.25
+"MLP, masked-input training",0.02,2,197,0.9617293625914315
+logistic regression,0.02,3,206,0.25
+MLP,0.02,3,206,0.25
+"MLP, masked-input training",0.02,3,206,0.9310344827586207
+logistic regression,0.02,4,202,0.25
+MLP,0.02,4,202,0.25
+"MLP, masked-input training",0.02,4,202,0.9051724137931034
+logistic regression,0.02,5,201,0.25
+MLP,0.02,5,201,0.25
+"MLP, masked-input training",0.02,5,201,0.9638192267502612
+logistic regression,0.02,6,231,0.25
+MLP,0.02,6,231,0.25
+"MLP, masked-input training",0.02,6,231,0.9789707419017764
+logistic regression,0.02,7,196,0.25
+MLP,0.02,7,196,0.25
+"MLP, masked-input training",0.02,7,196,0.9724399164054337
+logistic regression,0.02,8,196,0.25
+MLP,0.02,8,196,0.25
+"MLP, masked-input training",0.02,8,196,0.9234587251828631
+logistic regression,0.02,9,181,0.25
+MLP,0.02,9,181,0.25
+"MLP, masked-input training",0.02,9,181,0.9310344827586207
+logistic regression,0.01,0,95,0.25
+MLP,0.01,0,95,0.25
+"MLP, masked-input training",0.01,0,95,0.8700738916256158
+logistic regression,0.01,1,96,0.25
+MLP,0.01,1,96,0.25
+"MLP, masked-input training",0.01,1,96,0.9043234064785789
+logistic regression,0.01,2,94,0.25
+MLP,0.01,2,94,0.25
+"MLP, masked-input training",0.01,2,94,0.9551985370950888
+logistic regression,0.01,3,113,0.25
+MLP,0.01,3,113,0.25
+"MLP, masked-input training",0.01,3,113,0.8544932079414838
+logistic regression,0.01,4,99,0.25
+MLP,0.01,4,99,0.25
+"MLP, masked-input training",0.01,4,99,0.9325085833706523
+logistic regression,0.01,5,99,0.25
+MLP,0.01,5,99,0.25
+"MLP, masked-input training",0.01,5,99,0.853448275862069
+logistic regression,0.01,6,103,0.25
+MLP,0.01,6,103,0.25
+"MLP, masked-input training",0.01,6,103,0.7758620689655172
+logistic regression,0.01,7,80,0.25
+MLP,0.01,7,80,0.25
+"MLP, masked-input training",0.01,7,80,0.7822342886998059
+logistic regression,0.01,8,80,0.25
+MLP,0.01,8,80,0.25
+"MLP, masked-input training",0.01,8,80,0.9432191371846544
+logistic regression,0.01,9,96,0.25
+MLP,0.01,9,96,0.25
+"MLP, masked-input training",0.01,9,96,0.8799074488729661
+logistic regression,0.005,0,43,0.25
+MLP,0.005,0,43,0.25
+"MLP, masked-input training",0.005,0,43,0.5719043887147335
+logistic regression,0.005,1,44,0.25
+MLP,0.005,1,44,0.25
+"MLP, masked-input training",0.005,1,44,0.4252873563218391
+logistic regression,0.005,2,43,0.25
+MLP,0.005,2,43,0.25
+"MLP, masked-input training",0.005,2,43,0.6444805194805194
+logistic regression,0.005,3,51,0.25
+MLP,0.005,3,51,0.25
+"MLP, masked-input training",0.005,3,51,0.5178571428571428
+logistic regression,0.005,4,59,0.25
+MLP,0.005,4,59,0.25
+"MLP, masked-input training",0.005,4,59,0.5681165099268548
+logistic regression,0.005,5,58,0.25
+MLP,0.005,5,58,0.25
+"MLP, masked-input training",0.005,5,58,0.7979362591431557
+logistic regression,0.005,6,50,0.25
+MLP,0.005,6,50,0.25
+"MLP, masked-input training",0.005,6,50,0.8622648902821316
+logistic regression,0.005,7,68,0.25
+MLP,0.005,7,68,0.25
+"MLP, masked-input training",0.005,7,68,0.5966748768472906
+logistic regression,0.005,8,66,0.25
+MLP,0.005,8,66,0.25
+"MLP, masked-input training",0.005,8,66,0.8793103448275862
+logistic regression,0.005,9,61,0.25
+MLP,0.005,9,61,0.25
+"MLP, masked-input training",0.005,9,61,0.6993674429019257

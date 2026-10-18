@@ -1,0 +1,6 @@
+{
+  "mlp_group_test_ece": 0.023220618955450127,
+  "mlp_group_test_fraction_confidence_above_0.9": 0.9934640522875817,
+  "mlp_subtype_test_ece": 0.10308718622899522,
+  "mlp_subtype_test_fraction_confidence_above_0.9": 0.9019607843137255
+}

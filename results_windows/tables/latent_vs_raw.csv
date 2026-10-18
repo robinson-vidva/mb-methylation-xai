@@ -1,0 +1,5 @@
+task,features,cv_balanced_accuracy_mean,cv_balanced_accuracy_std
+group,"raw 10,000 CpGs",0.978,0.018
+group,autoencoder latent (16 dims),0.968,0.022
+subtype,"raw 10,000 CpGs",0.905,0.022
+subtype,autoencoder latent (16 dims),0.859,0.042

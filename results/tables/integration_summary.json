@@ -1,0 +1,23 @@
+{
+  "n_genes_tested": 15333,
+  "all_genes_median_rho": -0.032803856113549586,
+  "all_genes_fraction_rho_below_-0.3": 0.09606730581099589,
+  "top_genes_n": 85,
+  "top_genes_median_rho": -0.07452332604156746,
+  "top_promoter_genes_n": 22,
+  "top_promoter_genes_median_rho": -0.4857681297330989,
+  "top_promoter_genes_fraction_rho_below_-0.3": 0.5909090909090909,
+  "concordant_genes_per_group": {
+    "Group3": 63,
+    "Group4": 78,
+    "SHH": 129,
+    "WNT": 165
+  },
+  "enriched_terms_per_group": {
+    "Group3": 46,
+    "SHH": 1,
+    "WNT": 1
+  },
+  "drivers_in_top50": 0,
+  "drivers_differentially_expressed_fdr05": 20
+}

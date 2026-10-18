@@ -1,0 +1,109 @@
+{
+  "concordant_genes": 435,
+  "genes_with_open_targets_entry": 413,
+  "per_group_tier_counts": {
+    "WNT": {
+      "no tractability data": 129,
+      "druggable (pocket or family)": 19,
+      "approved drug": 12,
+      "clinical compound": 5
+    },
+    "SHH": {
+      "no tractability data": 98,
+      "druggable (pocket or family)": 17,
+      "clinical compound": 8,
+      "approved drug": 6
+    },
+    "Group3": {
+      "no tractability data": 46,
+      "druggable (pocket or family)": 10,
+      "approved drug": 5,
+      "clinical compound": 2
+    },
+    "Group4": {
+      "no tractability data": 57,
+      "druggable (pocket or family)": 10,
+      "approved drug": 6,
+      "clinical compound": 5
+    }
+  },
+  "per_group_switched_on_with_approved_or_clinical_drug": {
+    "WNT": [
+      "ABCA1",
+      "ATP1A2",
+      "CACNA2D4",
+      "COL6A3",
+      "DDR2",
+      "ENPP2",
+      "EPHA3",
+      "FAP",
+      "IL11RA",
+      "LGALS1",
+      "NOD2",
+      "SYK"
+    ],
+    "SHH": [
+      "BCHE",
+      "CA14",
+      "CHRNA1",
+      "COL1A2",
+      "FAP",
+      "FZD7",
+      "LAMA2",
+      "LGALS1",
+      "MAPK10",
+      "PDE1A",
+      "PTGDS"
+    ],
+    "Group3": [
+      "CACNA1S",
+      "CACNA2D4",
+      "CACNG5",
+      "IGF1",
+      "PDE6H"
+    ],
+    "Group4": [
+      "CACNA1A",
+      "KCNA5",
+      "PDE7B",
+      "SLC6A3"
+    ]
+  },
+  "per_group_switched_off_with_approved_or_clinical_drug": {
+    "WNT": [
+      "ALDH5A1",
+      "CACNA1E",
+      "HDAC9",
+      "KCNA5",
+      "SLC6A3"
+    ],
+    "SHH": [
+      "SLC6A3",
+      "TGFB3",
+      "TRAF3IP2"
+    ],
+    "Group3": [
+      "MMP14",
+      "PTGDS"
+    ],
+    "Group4": [
+      "CA14",
+      "COL1A2",
+      "COL6A3",
+      "DDR2",
+      "FAP",
+      "FZD7",
+      "LGALS1"
+    ]
+  },
+  "drivers_with_approved_drug": [
+    "CDK6",
+    "SMO"
+  ],
+  "concordant_genes_with_mb_association_above_0.3": [
+    [
+      "WNT",
+      "ZFHX3"
+    ]
+  ]
+}

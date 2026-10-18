@@ -1,0 +1,10 @@
+model,subset,n,balanced_accuracy,macro_f1,accuracy
+logreg,all,276,0.979,0.983,0.978
+logreg,frozen,107,0.967,0.97,0.963
+logreg,FFPE,169,0.988,0.991,0.988
+rf,all,276,0.976,0.98,0.975
+rf,frozen,107,0.967,0.97,0.963
+rf,FFPE,169,0.982,0.986,0.982
+mlp,all,276,0.983,0.986,0.982
+mlp,frozen,107,0.975,0.977,0.972
+mlp,FFPE,169,0.988,0.991,0.988

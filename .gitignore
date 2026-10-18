@@ -1,0 +1,11 @@
+data/raw/
+data/processed/*
+!data/processed/labels.csv
+!data/processed/external_labels.csv
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pt
+results/*.log
+results_windows/figures/
+HANDOFF_LOCAL.md

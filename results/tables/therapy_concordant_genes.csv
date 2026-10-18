@@ -1,0 +1,436 @@
+group,gene,direction,meth_delta,meth_fdr,expr_delta,expr_fdr,ensembl_id,mb_association_score,druggability_tier,sm_approved_drug,sm_clinical,sm_pocket_or_family,ab_approved_drug,ab_clinical,n_drugs_or_candidates,highest_clinical_stage,example_drugs,common_essential_gene
+Group3,PTGDS,"promoter hypermethylated, expression down",0.1915,0.0,-1.1969,0.0,ENSG00000107317,0.0101,approved drug,True,False,True,False,False,1,WITHDRAWAL,ANTRAFENINE (WITHDRAWAL),False
+Group3,CACNA1S,"promoter hypomethylated, expression up",-0.1319,0.0,1.277,0.0,ENSG00000081248,0.0015,approved drug,True,False,True,False,False,41,APPROVAL,"AMLODIPINE BENZOATE (APPROVAL; hypertensive disorder); MANIDIPINE 6300 (APPROVAL; aortic valve calcification, cardiovascular disorder); DILTIAZEM (PHASE_4; Anal fissure, Orthomyxoviridae infectious disease); CLEVIDIPINE (PHASE_4; Aortic dissection, aortic aneurysm)",False
+Group3,CACNA2D4,"promoter hypomethylated, expression up",-0.1252,0.0,2.3832,0.0,ENSG00000151062,0.0,approved drug,True,False,True,False,False,10,WITHDRAWAL,"TERODILINE (WITHDRAWAL; Polyuria, Urinary incontinence); GABAPENTIN (PHASE_4; Addictive alcohol use, Alzheimer disease); PHLOROGLUCINOL (APPROVAL; gastrointestinal disease, renal colic); IMAGABALIN (PHASE_3; generalized anxiety disorder)",False
+Group3,CACNG5,"promoter hypomethylated, expression up",-0.1181,0.0,1.3308,0.0,ENSG00000075429,0.0,approved drug,True,False,True,False,False,10,PHASE_3,"IMAGABALIN (PHASE_3; generalized anxiety disorder); PREGABALIN (WITHDRAWAL; Arthralgia, Atypical behavior); PHLOROGLUCINOL (APPROVAL; gastrointestinal disease, renal colic); SULOCTIDIL (WITHDRAWAL; cardiovascular disorder)",False
+Group3,PDE6H,"promoter hypomethylated, expression up",-0.1493,0.0,2.2243,0.0,ENSG00000139053,0.0,approved drug,True,False,True,False,False,2,PHASE_4,"PENTOXIFYLLINE (PHASE_4; AIDS, Abdominal pain); DIPYRIDAMOLE (PHASE_4; COVID-19, HIV infectious disease)",False
+Group3,IGF1,"promoter hypomethylated, expression up",-0.2057,0.0,1.0173,0.0,ENSG00000017427,0.1023,clinical compound,False,False,True,False,True,2,PHASE_2,"XENTUZUMAB (PHASE_2; breast cancer, desmoid tumor); DUSIGITUMAB (PHASE_2; breast cancer, hepatocellular carcinoma)",False
+Group3,MMP14,"promoter hypermethylated, expression down",0.1091,0.0,-1.0828,0.0,ENSG00000157227,0.0093,clinical compound,False,True,True,False,False,2,PHASE_2,"CTS-1027 (PHASE_2; chronic hepatitis C virus infection, hepatitis C virus infection); REBIMASTAT (PHASE_3; Kaposi's sarcoma, breast cancer)",False
+Group3,GLI2,"promoter hypermethylated, expression down",0.175,0.0,-1.86,0.0,ENSG00000074047,0.1949,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group3,TF,"promoter hypermethylated, expression down",0.1857,0.0,-1.111,0.0,ENSG00000091513,0.0168,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group3,RHO,"promoter hypomethylated, expression up",-0.1018,0.0,1.291,0.0,ENSG00000163914,0.0119,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group3,FABP7,"promoter hypermethylated, expression down",0.1499,0.0,-1.299,0.0,ENSG00000164434,0.0083,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group3,NR2E3,"promoter hypomethylated, expression up",-0.1844,0.0,1.5407,0.0,ENSG00000278570,0.0018,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group3,ABCA4,"promoter hypomethylated, expression up",-0.1536,0.0,2.0791,0.0,ENSG00000198691,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group3,CNGA1,"promoter hypomethylated, expression up",-0.1098,0.0,1.2316,0.0,ENSG00000198515,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group3,GRK1,"promoter hypomethylated, expression up",-0.1243,0.0,1.2814,0.0,ENSG00000185974,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group3,SLC1A7,"promoter hypomethylated, expression up",-0.1258,0.0,3.4181,0.0,ENSG00000162383,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group3,TULP1,"promoter hypomethylated, expression up",-0.2855,0.0,2.2305,0.0,ENSG00000112041,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group3,OTX2,"promoter hypomethylated, expression up",-0.1455,0.0,1.7065,0.0,ENSG00000165588,0.1231,no tractability data,False,False,False,False,False,0,,,False
+Group3,ZIC4,"promoter hypermethylated, expression down",0.1123,0.0,-1.2526,0.0,ENSG00000174963,0.0868,no tractability data,False,False,False,False,False,0,,,False
+Group3,IGFBPL1,"promoter hypermethylated, expression down",0.1618,0.0,-1.6215,0.0,ENSG00000137142,0.0369,no tractability data,False,False,False,False,False,0,,,False
+Group3,PRPH2,"promoter hypomethylated, expression up",-0.1483,0.0,1.6278,0.0,ENSG00000112619,0.036,no tractability data,False,False,False,False,False,0,,,False
+Group3,SCG5,"promoter hypermethylated, expression down",0.1811,0.0,-1.2683,0.0,ENSG00000166922,0.022,no tractability data,False,False,False,False,False,0,,,False
+Group3,NID2,"promoter hypermethylated, expression down",0.1569,0.0,-1.0667,0.0,ENSG00000087303,0.0194,no tractability data,False,False,False,False,False,0,,,False
+Group3,SAG,"promoter hypomethylated, expression up",-0.3488,0.0,2.0423,0.0,ENSG00000130561,0.0191,no tractability data,False,False,False,False,False,0,,,False
+Group3,IMPG2,"promoter hypomethylated, expression up",-0.5395,0.0,3.7491,0.0,ENSG00000081148,0.0126,no tractability data,False,False,False,False,False,0,,,False
+Group3,PRAME,"promoter hypomethylated, expression up",-0.1265,0.0,1.048,0.0,ENSG00000185686,0.0113,no tractability data,False,False,False,False,False,0,,,False
+Group3,ARHGAP28,"promoter hypomethylated, expression up",-0.1025,0.0,1.2346,0.0,ENSG00000088756,0.0074,no tractability data,False,False,False,False,False,0,,,False
+Group3,NRL,"promoter hypomethylated, expression up",-0.2148,0.0,2.6698,0.0,ENSG00000129535,0.0063,no tractability data,False,False,False,False,False,0,,,False
+Group3,RCVRN,"promoter hypomethylated, expression up",-0.2023,0.0,2.6075,0.0,ENSG00000109047,0.0052,no tractability data,False,False,False,False,False,0,,,False
+Group3,SLC16A4,"promoter hypermethylated, expression down",0.2428,0.0,-1.3743,0.0,ENSG00000168679,0.0052,no tractability data,False,False,False,False,False,0,,,False
+Group3,ELAVL4,"promoter hypermethylated, expression down",0.1626,0.0,-1.3588,0.0,ENSG00000162374,0.005,no tractability data,False,False,False,False,False,0,,,False
+Group3,CDH12,"promoter hypomethylated, expression up",-0.1552,0.0,1.1176,0.0,ENSG00000154162,0.0045,no tractability data,False,False,False,False,False,0,,,False
+Group3,GNGT1,"promoter hypomethylated, expression up",-0.1633,0.0,1.774,0.0,ENSG00000127928,0.0042,no tractability data,False,False,False,False,False,0,,,False
+Group3,GNB3,"promoter hypomethylated, expression up",-0.1242,0.0,2.292,0.0,ENSG00000111664,0.0037,no tractability data,False,False,False,False,False,0,,,False
+Group3,PDC,"promoter hypomethylated, expression up",-0.1092,0.0,1.1985,0.0,ENSG00000116703,0.003,no tractability data,False,False,False,False,False,0,,,False
+Group3,AIPL1,"promoter hypomethylated, expression up",-0.33,0.0,2.422,0.0,ENSG00000129221,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,AKAP6,"promoter hypermethylated, expression down",0.2113,0.0,-1.0993,0.0,ENSG00000151320,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,APBA2,"promoter hypermethylated, expression down",0.1058,0.0,-1.5932,0.0,ENSG00000034053,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,C2orf71,"promoter hypomethylated, expression up",-0.1777,0.0,2.1027,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,CLIP3,"promoter hypermethylated, expression down",0.1183,0.0,-1.118,0.0,ENSG00000105270,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,CPLX4,"promoter hypomethylated, expression up",-0.2034,0.0,1.976,0.0,ENSG00000166569,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,CRB1,"promoter hypermethylated, expression down",0.1471,0.0,-1.0614,0.0,ENSG00000134376,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,CSRNP3,"promoter hypomethylated, expression up",-0.1217,0.0,1.0789,0.0,ENSG00000178662,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,DAND5,"promoter hypomethylated, expression up",-0.1049,0.0,1.1381,0.0,ENSG00000179284,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,FAM198B,"promoter hypermethylated, expression down",0.1391,0.0,-1.3074,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,FRMPD2,"promoter hypomethylated, expression up",-0.1377,0.0,1.3689,0.0,ENSG00000170324,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,GNAT1,"promoter hypomethylated, expression up",-0.1022,0.0,2.2378,0.0,ENSG00000114349,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,GNGT2,"promoter hypomethylated, expression up",-0.1137,0.0,1.3265,0.0,ENSG00000167083,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,GSG1,"promoter hypomethylated, expression up",-0.1071,0.0,2.7317,0.0,ENSG00000111305,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,IFI44,"promoter hypomethylated, expression up",-0.2358,0.0,1.4192,0.0,ENSG00000137965,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,MPP4,"promoter hypomethylated, expression up",-0.2812,0.0,2.3162,0.0,ENSG00000082126,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,NTN5,"promoter hypomethylated, expression up",-0.1906,0.0,1.0801,0.0,ENSG00000142233,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,PALMD,"promoter hypomethylated, expression up",-0.1328,0.0,2.1149,0.0,ENSG00000099260,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,PHYHD1,"promoter hypomethylated, expression up",-0.1999,0.0,1.5484,0.0,ENSG00000175287,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,RAB34,"promoter hypermethylated, expression down",0.2338,0.0,-1.233,0.0,ENSG00000109113,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,RD3,"promoter hypomethylated, expression up",-0.1231,0.0,2.9718,0.0,ENSG00000198570,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,SAMD3,"promoter hypomethylated, expression up",-0.1299,0.0,2.2134,0.0,ENSG00000164483,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,SERP2,"promoter hypermethylated, expression down",0.2319,0.0,-1.1455,0.0,ENSG00000151778,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,SLC4A10,"promoter hypomethylated, expression up",-0.1557,0.0,1.3147,0.0,ENSG00000144290,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,SULT1C4,"promoter hypermethylated, expression down",0.1367,0.0,-1.1974,0.0,ENSG00000198075,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,TRIP10,"promoter hypomethylated, expression up",-0.1409,0.0,1.5898,0.0,ENSG00000125733,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,USH2A,"promoter hypomethylated, expression up",-0.1442,0.0,2.9056,0.0,ENSG00000042781,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group3,VWA5A,"promoter hypomethylated, expression up",-0.2033,0.0,1.0344,0.0,ENSG00000110002,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,DDR2,"promoter hypermethylated, expression down",0.2078,0.0,-1.0561,0.0,ENSG00000162733,0.1848,approved drug,True,False,True,False,False,1,PHASE_4,"REGORAFENIB (PHASE_4; Ewing sarcoma, Klatskin's tumor)",False
+Group4,CACNA1A,"promoter hypomethylated, expression up",-0.1216,0.0,1.4281,0.0,ENSG00000141837,0.0629,approved drug,True,False,True,False,False,11,PHASE_4,"GABAPENTIN (PHASE_4; Addictive alcohol use, Alzheimer disease); BEPRIDIL (APPROVAL; cardiovascular disorder); SULOCTIDIL (WITHDRAWAL; cardiovascular disorder); ELPETRIGINE (PHASE_1; bipolar disorder)",False
+Group4,SLC6A3,"promoter hypomethylated, expression up",-0.1694,0.0,2.7458,0.0,ENSG00000142319,0.0337,approved drug,True,False,True,False,False,41,PHASE_4,"LISDEXAMFETAMINE DIMESYLATE (PHASE_4; Alzheimer disease, Huntington disease); NOMIFENSINE (WITHDRAWAL; breast cancer, major depressive disorder); BUPROPION (PHASE_4; Agitation, Alzheimer disease); LIAFENSINE (PHASE_2; depressive disorder, major depressive disorder)",False
+Group4,KCNA5,"promoter hypomethylated, expression up",-0.1226,0.0,3.3094,0.0,ENSG00000130037,0.0052,approved drug,True,False,True,False,False,8,PHASE_4,"DALFAMPRIDINE (PHASE_4; Cognitive impairment, Gait disturbance); TEDISAMIL (APPROVAL; cardiac arrhythmia); AMIFAMPRIDINE PHOSPHATE (APPROVAL; Lambert-Eaton myasthenic syndrome, Muscle weakness); GUANIDINE HYDROCHLORIDE (APPROVAL; Increased muscle fatiguability, Muscle weakness)",False
+Group4,CA14,"promoter hypermethylated, expression down",0.1358,0.0,-1.0872,0.0,ENSG00000118298,0.0,approved drug,True,False,True,False,False,2,PHASE_4,"SULTHIAME (PHASE_4; childhood-onset epilepsy syndrome, epilepsy); ETHOXZOLAMIDE (WITHDRAWAL; duodenal ulcer)",False
+Group4,PDE7B,"promoter hypomethylated, expression up",-0.132,0.0,1.0476,0.0,ENSG00000171408,0.0,approved drug,True,False,True,False,False,4,PHASE_4,"PENTOXIFYLLINE (PHASE_4; AIDS, Abdominal pain); FLAVOXATE (PHASE_4; Polyuria, Urinary incontinence); DIPYRIDAMOLE (PHASE_4; COVID-19, HIV infectious disease); FLAVOXATE HYDROCHLORIDE (APPROVAL; dysuria, prostatitis)",False
+Group4,LGALS1,"promoter hypermethylated, expression down",0.12,0.0,-1.1239,0.0,ENSG00000100097,0.043,clinical compound,False,False,True,False,False,1,PHASE_2,"DAVANAT (PHASE_2; cholangiocarcinoma, colon carcinoma)",False
+Group4,COL1A2,"promoter hypermethylated, expression down",0.182,0.0,-1.2848,0.0,ENSG00000164692,0.0149,clinical compound,False,False,False,False,False,2,WITHDRAWAL,"COLLAGENASE CLOSTRIDIUM HISTOLYTICUM (WITHDRAWAL; Abnormality of connective tissue, Dupuytren Contracture); OCRIPLASMIN (WITHDRAWAL; age-related macular degeneration, deep vein thrombosis)",False
+Group4,FAP,"promoter hypermethylated, expression down",0.2732,0.0,-1.623,0.0,ENSG00000078098,0.0123,clinical compound,False,False,True,False,True,3,PHASE_3,"SIMLUKAFUSP ALFA (PHASE_3; cervical cancer, esophageal squamous cell carcinoma); F19 131I (PHASE_2; colorectal cancer); SIBROTUZUMAB (PHASE_2; colorectal cancer, metastatic colorectal cancer)",False
+Group4,COL6A3,"promoter hypermethylated, expression down",0.1017,0.0,-1.68,0.0,ENSG00000163359,0.0047,clinical compound,False,False,False,False,False,2,WITHDRAWAL,"COLLAGENASE CLOSTRIDIUM HISTOLYTICUM (WITHDRAWAL; Abnormality of connective tissue, Dupuytren Contracture); OCRIPLASMIN (WITHDRAWAL; age-related macular degeneration, deep vein thrombosis)",False
+Group4,FZD7,"promoter hypermethylated, expression down",0.1388,0.0,-1.6702,0.0,ENSG00000155760,0.0,clinical compound,False,False,False,False,True,1,PHASE_1,"VANTICTUMAB (PHASE_1; breast cancer, exocrine pancreatic carcinoma)",False
+Group4,CLIC1,"promoter hypermethylated, expression down",0.2602,0.0,-1.0821,0.0,ENSG00000213719,0.019,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group4,TF,"promoter hypomethylated, expression up",-0.1512,0.0,1.0801,0.0,ENSG00000091513,0.0168,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group4,TRPM3,"promoter hypomethylated, expression up",-0.1106,0.0,2.2265,0.0,ENSG00000083067,0.0155,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group4,WNK2,"promoter hypomethylated, expression up",-0.2127,0.0,1.1302,0.0,ENSG00000165238,0.0106,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group4,CAMKK1,"promoter hypermethylated, expression down",0.1732,0.0,-1.1011,0.0,ENSG00000004660,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group4,DAPK2,"promoter hypomethylated, expression up",-0.113,0.0,1.2067,0.0,ENSG00000035664,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group4,ISLR2,"promoter hypomethylated, expression up",-0.1824,0.0,1.383,0.0,ENSG00000167178,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group4,LRIG3,"promoter hypermethylated, expression down",0.1104,0.0,-2.258,0.0,ENSG00000139263,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group4,PAM,"promoter hypermethylated, expression down",0.1475,0.0,-1.2174,0.0,ENSG00000145730,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group4,VRK2,"promoter hypermethylated, expression down",0.3543,0.0,-1.4089,0.0,ENSG00000028116,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+Group4,OTX2,"promoter hypomethylated, expression up",-0.203,0.0,2.2469,0.0,ENSG00000165588,0.1231,no tractability data,False,False,False,False,False,0,,,False
+Group4,ACTC1,"promoter hypermethylated, expression down",0.1468,0.0,-1.2957,0.0,ENSG00000159251,0.0739,no tractability data,False,False,False,False,False,0,,,False
+Group4,LMX1A,"promoter hypomethylated, expression up",-0.1645,0.0,3.0226,0.0,ENSG00000162761,0.0573,no tractability data,False,False,False,False,False,0,,,False
+Group4,EYA1,"promoter hypermethylated, expression down",0.243,0.0,-2.8001,0.0,ENSG00000104313,0.0393,no tractability data,False,False,False,False,False,0,,,False
+Group4,BOC,"promoter hypermethylated, expression down",0.1182,0.0,-2.2506,0.0,ENSG00000144857,0.0235,no tractability data,False,False,False,False,False,0,,,False
+Group4,SCG5,"promoter hypermethylated, expression down",0.2222,0.0,-1.6496,0.0,ENSG00000166922,0.022,no tractability data,False,False,False,False,False,0,,,False
+Group4,NID2,"promoter hypomethylated, expression up",-0.1486,0.0,2.2037,0.0,ENSG00000087303,0.0194,no tractability data,False,False,False,False,False,0,,,False
+Group4,LGI1,"promoter hypomethylated, expression up",-0.1234,0.0,2.4472,0.0,ENSG00000108231,0.0156,no tractability data,False,False,False,False,False,0,,,False
+Group4,EOMES,"promoter hypomethylated, expression up",-0.1754,0.0,3.5604,0.0,ENSG00000163508,0.0123,no tractability data,False,False,False,False,False,0,,,False
+Group4,RBM24,"promoter hypomethylated, expression up",-0.1519,0.0,3.2617,0.0,ENSG00000112183,0.0111,no tractability data,False,False,False,False,False,0,,,False
+Group4,PRLR,"promoter hypermethylated, expression down",0.1032,0.0,-2.2943,0.0,ENSG00000113494,0.0085,no tractability data,False,False,False,False,False,0,,,False
+Group4,TBR1,"promoter hypomethylated, expression up",-0.1317,0.0,2.0897,0.0,ENSG00000136535,0.008,no tractability data,False,False,False,False,False,0,,,False
+Group4,CYYR1,"promoter hypermethylated, expression down",0.1187,0.0,-2.3078,0.0,ENSG00000166265,0.0078,no tractability data,False,False,False,False,False,0,,,False
+Group4,PDPN,"promoter hypermethylated, expression down",0.1188,0.0,-1.233,0.0,ENSG00000162493,0.0057,no tractability data,False,False,False,False,False,0,,,False
+Group4,PCSK1,"promoter hypermethylated, expression down",0.1129,0.0,-1.3512,0.0,ENSG00000175426,0.0055,no tractability data,False,False,False,False,False,0,,,False
+Group4,SLC14A1,"promoter hypermethylated, expression down",0.119,0.0,-1.3207,0.0,ENSG00000141469,0.0054,no tractability data,False,False,False,False,False,0,,,False
+Group4,MGP,"promoter hypermethylated, expression down",0.3313,0.0,-2.0078,0.0,ENSG00000111341,0.005,no tractability data,False,False,False,False,False,0,,,False
+Group4,INPP5F,"promoter hypomethylated, expression up",-0.1044,0.0,1.1353,0.0,ENSG00000198825,0.0048,no tractability data,False,False,False,False,False,0,,,False
+Group4,MTSS1,"promoter hypomethylated, expression up",-0.107,0.0,1.2132,0.0,ENSG00000170873,0.0026,no tractability data,False,False,False,False,False,0,,,False
+Group4,ANGPTL2,"promoter hypermethylated, expression down",0.1085,0.0,-2.0621,0.0,ENSG00000136859,0.0015,no tractability data,False,False,False,False,False,0,,,False
+Group4,AKAP6,"promoter hypermethylated, expression down",0.2587,0.0,-1.8634,0.0,ENSG00000151320,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,AKR1E2,"promoter hypomethylated, expression up",-0.2372,0.0,1.7266,0.0,ENSG00000165568,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,BMP5,"promoter hypermethylated, expression down",0.2268,0.0,-1.2856,0.0,ENSG00000112175,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,C8orf46,"promoter hypomethylated, expression up",-0.1211,0.0,1.2809,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,DAPL1,"promoter hypermethylated, expression down",0.2065,0.0,-1.4054,0.0,ENSG00000163331,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,DMGDH,"promoter hypomethylated, expression up",-0.1836,0.0,1.1035,0.0,ENSG00000132837,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,DMRTA1,"promoter hypermethylated, expression down",0.2835,0.0,-1.6843,0.0,ENSG00000176399,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,DSCAML1,"promoter hypomethylated, expression up",-0.1634,0.0,1.3334,0.0,ENSG00000177103,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,FAM198B,"promoter hypermethylated, expression down",0.222,0.0,-1.6562,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,GALM,"promoter hypermethylated, expression down",0.14,0.0,-1.3819,0.0,ENSG00000143891,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,GLYATL2,"promoter hypermethylated, expression down",0.1354,0.0,-1.31,0.0,ENSG00000156689,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,GPX8,"promoter hypermethylated, expression down",0.2,0.0,-1.0731,0.0,ENSG00000164294,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,H2AFJ,"promoter hypomethylated, expression up",-0.2408,0.0,1.2711,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,IFI44,"promoter hypermethylated, expression down",0.1965,0.0,-1.0107,0.0,ENSG00000137965,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,ITIH2,"promoter hypermethylated, expression down",0.1888,0.0,-1.2459,0.0,ENSG00000151655,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,ITPRIP,"promoter hypermethylated, expression down",0.2426,0.0,-1.0154,0.0,ENSG00000148841,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,JAKMIP2,"promoter hypermethylated, expression down",0.1172,0.0,-1.2821,0.0,ENSG00000176049,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,LHX5,"promoter hypomethylated, expression up",-0.1291,0.0,1.6828,0.0,ENSG00000089116,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,MPP3,"promoter hypomethylated, expression up",-0.109,0.0,2.7934,0.0,ENSG00000161647,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,MYOT,"promoter hypermethylated, expression down",0.105,0.0,-1.111,0.0,ENSG00000120729,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,PCDHB7,"promoter hypomethylated, expression up",-0.1031,0.0,1.5711,0.0,ENSG00000113212,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,PIRT,"promoter hypermethylated, expression down",0.1284,0.0,-1.6515,0.0,ENSG00000233670,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,PLCH1,"promoter hypermethylated, expression down",0.1402,0.0,-1.1006,0.0,ENSG00000114805,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,POU6F2,"promoter hypermethylated, expression down",0.1377,0.0,-1.7597,0.0,ENSG00000106536,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,PRELID2,"promoter hypermethylated, expression down",0.1088,0.0,-1.7747,0.0,ENSG00000186314,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,PTCHD2,"promoter hypomethylated, expression up",-0.1213,0.0,2.3625,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,RNF212,"promoter hypomethylated, expression up",-0.1222,0.0,1.2562,0.0,ENSG00000178222,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,SAMD3,"promoter hypomethylated, expression up",-0.1732,0.0,1.4286,0.0,ENSG00000164483,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,SEPP1,"promoter hypermethylated, expression down",0.1533,0.0,-1.0465,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,SERPINF1,"promoter hypermethylated, expression down",0.1684,0.0,-2.6523,0.0,ENSG00000132386,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,SERTAD4,"promoter hypermethylated, expression down",0.1794,0.0,-1.4451,0.0,ENSG00000082497,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,SLC38A1,"promoter hypomethylated, expression up",-0.1366,0.0,1.0742,0.0,ENSG00000111371,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,SOSTDC1,"promoter hypermethylated, expression down",0.2222,0.0,-1.1091,0.0,ENSG00000171243,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,SPAG6,"promoter hypomethylated, expression up",-0.1059,0.0,1.0289,0.0,ENSG00000077327,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,TSPYL5,"promoter hypomethylated, expression up",-0.1812,0.0,1.1138,0.0,ENSG00000180543,0.0,no tractability data,False,False,False,False,False,0,,,True
+Group4,ZNF154,"promoter hypomethylated, expression up",-0.2925,0.0,1.2522,0.0,ENSG00000179909,0.0,no tractability data,False,False,False,False,False,0,,,False
+Group4,ZSCAN12,"promoter hypomethylated, expression up",-0.273,0.0,1.013,0.0,ENSG00000158691,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,SLC6A3,"promoter hypermethylated, expression down",0.1024,0.0,-2.2124,0.0,ENSG00000142319,0.0337,approved drug,True,False,True,False,False,41,PHASE_4,"LISDEXAMFETAMINE DIMESYLATE (PHASE_4; Alzheimer disease, Huntington disease); NOMIFENSINE (WITHDRAWAL; breast cancer, major depressive disorder); BUPROPION (PHASE_4; Agitation, Alzheimer disease); LIAFENSINE (PHASE_2; depressive disorder, major depressive disorder)",False
+SHH,PDE1A,"promoter hypomethylated, expression up",-0.1986,0.0,2.4032,0.0,ENSG00000115252,0.0181,approved drug,True,False,True,False,False,2,PHASE_4,"PENTOXIFYLLINE (PHASE_4; AIDS, Abdominal pain); DIPYRIDAMOLE (PHASE_4; COVID-19, HIV infectious disease)",False
+SHH,PTGDS,"promoter hypomethylated, expression up",-0.3452,0.0,1.4697,0.0,ENSG00000107317,0.0101,approved drug,True,False,True,False,False,1,WITHDRAWAL,ANTRAFENINE (WITHDRAWAL),False
+SHH,BCHE,"promoter hypomethylated, expression up",-0.1014,0.0,2.2933,0.0,ENSG00000114200,0.0,approved drug,True,False,True,False,False,4,WITHDRAWAL,"RIVASTIGMINE (WITHDRAWAL; Alzheimer disease, Apathy); TACRINE (APPROVAL; Alzheimer disease, dementia); PROPANIDID (WITHDRAWAL); RIVASTIGMINE TARTRATE (APPROVAL; Parkinson disease, dementia)",False
+SHH,CA14,"promoter hypomethylated, expression up",-0.1234,0.0,2.4397,0.0,ENSG00000118298,0.0,approved drug,True,False,True,False,False,2,PHASE_4,"SULTHIAME (PHASE_4; childhood-onset epilepsy syndrome, epilepsy); ETHOXZOLAMIDE (WITHDRAWAL; duodenal ulcer)",False
+SHH,CHRNA1,"promoter hypomethylated, expression up",-0.1519,0.0,1.3578,0.0,ENSG00000138435,0.0,approved drug,True,False,True,False,False,21,PHASE_4,"CISATRACURIUM (PHASE_4; Muscle spasm, Myalgia); SUXAMETHONIUM (PHASE_4; depressive disorder, ischemic stroke); ROCURONIUM BROMIDE (PHASE_4; cardiac arrest, coronary artery disorder); DOXACURIUM (APPROVAL; muscle cramp)",False
+SHH,LGALS1,"promoter hypomethylated, expression up",-0.2282,0.0,1.4267,0.0,ENSG00000100097,0.043,clinical compound,False,False,True,False,False,1,PHASE_2,"DAVANAT (PHASE_2; cholangiocarcinoma, colon carcinoma)",False
+SHH,LAMA2,"promoter hypomethylated, expression up",-0.1178,0.0,1.1732,0.0,ENSG00000196569,0.0413,clinical compound,False,False,False,False,False,1,WITHDRAWAL,"OCRIPLASMIN (WITHDRAWAL; age-related macular degeneration, deep vein thrombosis)",False
+SHH,COL1A2,"promoter hypomethylated, expression up",-0.3524,0.0,1.4458,0.0,ENSG00000164692,0.0149,clinical compound,False,False,False,False,False,2,WITHDRAWAL,"COLLAGENASE CLOSTRIDIUM HISTOLYTICUM (WITHDRAWAL; Abnormality of connective tissue, Dupuytren Contracture); OCRIPLASMIN (WITHDRAWAL; age-related macular degeneration, deep vein thrombosis)",False
+SHH,MAPK10,"promoter hypomethylated, expression up",-0.1557,0.0,1.6341,0.0,ENSG00000109339,0.0136,clinical compound,False,True,True,False,False,5,PHASE_2,"CC-401 (PHASE_2; acute myeloid leukemia); BRIMAPITIDE (PHASE_3; Pain); TANZISERTIB (PHASE_2; discoid lupus erythematosus, idiopathic pulmonary fibrosis); BRIMAPITIDE, C-TERMINAL ACID (PHASE_3; nervous system disorder, sensorineural hearing loss disorder)",False
+SHH,FAP,"promoter hypomethylated, expression up",-0.3092,0.0,2.3281,0.0,ENSG00000078098,0.0123,clinical compound,False,False,True,False,True,3,PHASE_3,"SIMLUKAFUSP ALFA (PHASE_3; cervical cancer, esophageal squamous cell carcinoma); F19 131I (PHASE_2; colorectal cancer); SIBROTUZUMAB (PHASE_2; colorectal cancer, metastatic colorectal cancer)",False
+SHH,FZD7,"promoter hypomethylated, expression up",-0.1199,0.0,1.3362,0.0,ENSG00000155760,0.0,clinical compound,False,False,False,False,True,1,PHASE_1,"VANTICTUMAB (PHASE_1; breast cancer, exocrine pancreatic carcinoma)",False
+SHH,TGFB3,"promoter hypermethylated, expression down",0.1083,0.0,-1.7652,0.0,ENSG00000119699,0.0,clinical compound,False,False,False,False,True,3,PHASE_2,"FRESOLIMUMAB (PHASE_2; Proteinuria, anaplastic astrocytoma); LUSPATERCEPT (PHASE_4; Diamond-Blackfan anemia, anemia); BINTRAFUSP ALFA (PHASE_3; Kaposi's sarcoma, anal carcinoma)",False
+SHH,TRAF3IP2,"promoter hypermethylated, expression down",0.1483,0.0,-1.4962,0.0,ENSG00000056972,0.0,clinical compound,False,True,False,False,False,1,PHASE_4,"IGURATIMOD (PHASE_4; Sjogren syndrome, autoimmune thrombocytopenic purpura)",False
+SHH,DCC,"promoter hypomethylated, expression up",-0.1924,0.0,1.2633,0.0,ENSG00000187323,0.1975,druggable (pocket or family),False,False,True,False,False,0,,,False
+SHH,GLI2,"promoter hypomethylated, expression up",-0.1394,0.0,3.4677,0.0,ENSG00000074047,0.1949,druggable (pocket or family),False,False,True,False,False,0,,,False
+SHH,PRNP,"promoter hypermethylated, expression down",0.1029,0.0,-1.3012,0.0,ENSG00000171867,0.0619,druggable (pocket or family),False,False,True,False,False,0,,,False
+SHH,SLC6A5,"promoter hypermethylated, expression down",0.1233,0.0,-1.9329,0.0,ENSG00000165970,0.0366,druggable (pocket or family),False,False,True,False,False,0,,,False
+SHH,TRPM3,"promoter hypermethylated, expression down",0.1621,0.0,-3.0004,0.0,ENSG00000083067,0.0155,druggable (pocket or family),False,False,True,False,False,0,,,False
+SHH,WNK2,"promoter hypermethylated, expression down",0.1625,0.0,-1.0998,0.0,ENSG00000165238,0.0106,druggable (pocket or family),False,False,True,False,False,0,,,False
+SHH,CMKLR1,"promoter hypomethylated, expression up",-0.2841,0.0,1.3848,0.0,ENSG00000174600,0.0096,druggable (pocket or family),False,False,True,False,False,0,,,False
+SHH,VTN,"promoter hypermethylated, expression down",0.1378,0.0,-1.4991,0.0,ENSG00000109072,0.0096,druggable (pocket or family),False,False,True,False,False,0,,,False
+SHH,DAPK1,"promoter hypermethylated, expression down",0.1046,0.0,-1.9016,0.0,ENSG00000196730,0.0045,druggable (pocket or family),False,False,True,False,False,0,,,False
+SHH,ABCA4,"promoter hypermethylated, expression down",0.4047,0.0,-2.1706,0.0,ENSG00000198691,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+SHH,MYT1,"promoter hypermethylated, expression down",0.1103,0.0,-1.4574,0.0,ENSG00000196132,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+SHH,PAM,"promoter hypomethylated, expression up",-0.1714,0.0,1.5244,0.0,ENSG00000145730,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+SHH,QPCT,"promoter hypermethylated, expression down",0.2789,0.0,-1.1446,0.0,ENSG00000115828,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+SHH,SLC1A7,"promoter hypermethylated, expression down",0.215,0.0,-2.8341,0.0,ENSG00000162383,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+SHH,SLCO4C1,"promoter hypomethylated, expression up",-0.122,0.0,1.6854,0.0,ENSG00000173930,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+SHH,TESK2,"promoter hypermethylated, expression down",0.1412,0.0,-1.215,0.0,ENSG00000070759,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+SHH,TULP1,"promoter hypermethylated, expression down",0.238,0.0,-1.2768,0.0,ENSG00000112041,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+SHH,AFF3,"promoter hypomethylated, expression up",-0.1286,0.0,1.1786,0.0,ENSG00000144218,0.1848,no tractability data,False,False,False,False,False,0,,,False
+SHH,OTX2,"promoter hypermethylated, expression down",0.3968,0.0,-4.4023,0.0,ENSG00000165588,0.1231,no tractability data,False,False,False,False,False,0,,,False
+SHH,RREB1,"promoter hypermethylated, expression down",0.1016,0.0,-2.7739,0.0,ENSG00000124782,0.0528,no tractability data,False,False,False,False,False,0,,,False
+SHH,CLIP2,"promoter hypomethylated, expression up",-0.1243,0.0,1.2283,0.0,ENSG00000106665,0.0413,no tractability data,False,False,False,False,False,0,,,False
+SHH,EYA1,"promoter hypomethylated, expression up",-0.3294,0.0,5.0429,0.0,ENSG00000104313,0.0393,no tractability data,False,False,False,False,False,0,,,False
+SHH,PRPH2,"promoter hypermethylated, expression down",0.2611,0.0,-1.8996,0.0,ENSG00000112619,0.036,no tractability data,False,False,False,False,False,0,,,False
+SHH,KL,"promoter hypermethylated, expression down",0.1182,0.0,-1.8417,0.0,ENSG00000133116,0.033,no tractability data,False,False,False,False,False,0,,,False
+SHH,NDRG1,"promoter hypomethylated, expression up",-0.1125,0.0,1.3693,0.0,ENSG00000104419,0.0328,no tractability data,False,False,False,False,False,0,,,False
+SHH,NEUROG1,"promoter hypermethylated, expression down",0.1883,0.0,-4.7138,0.0,ENSG00000181965,0.0294,no tractability data,False,False,False,False,False,0,,,False
+SHH,SST,"promoter hypermethylated, expression down",0.1053,0.0,-1.2267,0.0,ENSG00000157005,0.0268,no tractability data,False,False,False,False,False,0,,,False
+SHH,BOC,"promoter hypomethylated, expression up",-0.1859,0.0,3.8632,0.0,ENSG00000144857,0.0235,no tractability data,False,False,False,False,False,0,,,False
+SHH,SCG5,"promoter hypomethylated, expression up",-0.3556,0.0,2.3999,0.0,ENSG00000166922,0.022,no tractability data,False,False,False,False,False,0,,,False
+SHH,SAG,"promoter hypermethylated, expression down",0.454,0.0,-1.0111,0.0,ENSG00000130561,0.0191,no tractability data,False,False,False,False,False,0,,,False
+SHH,GPX7,"promoter hypomethylated, expression up",-0.1122,0.0,1.1569,0.0,ENSG00000116157,0.0157,no tractability data,False,False,False,False,False,0,,,False
+SHH,LGI1,"promoter hypermethylated, expression down",0.1071,0.0,-2.3824,0.0,ENSG00000108231,0.0156,no tractability data,False,False,False,False,False,0,,,False
+SHH,ACSS3,"promoter hypomethylated, expression up",-0.1581,0.0,1.7803,0.0,ENSG00000111058,0.0127,no tractability data,False,False,False,False,False,0,,,False
+SHH,IMPG2,"promoter hypermethylated, expression down",0.4776,0.0,-3.1971,0.0,ENSG00000081148,0.0126,no tractability data,False,False,False,False,False,0,,,False
+SHH,EOMES,"promoter hypermethylated, expression down",0.1279,0.0,-3.2978,0.0,ENSG00000163508,0.0123,no tractability data,False,False,False,False,False,0,,,False
+SHH,RBM24,"promoter hypermethylated, expression down",0.1846,0.0,-2.2885,0.0,ENSG00000112183,0.0111,no tractability data,False,False,False,False,False,0,,,False
+SHH,GNG3,"promoter hypomethylated, expression up",-0.1139,0.0,2.923,0.0,ENSG00000162188,0.0102,no tractability data,False,False,False,False,False,0,,,False
+SHH,KLF11,"promoter hypermethylated, expression down",0.1419,0.0,-1.0662,0.0,ENSG00000172059,0.009,no tractability data,False,False,False,False,False,0,,,False
+SHH,TBR1,"promoter hypermethylated, expression down",0.2278,0.0,-3.981,0.0,ENSG00000136535,0.008,no tractability data,False,False,False,False,False,0,,,False
+SHH,CYYR1,"promoter hypomethylated, expression up",-0.1697,0.0,3.635,0.0,ENSG00000166265,0.0078,no tractability data,False,False,False,False,False,0,,,False
+SHH,PDPN,"promoter hypomethylated, expression up",-0.1406,0.0,2.4517,0.0,ENSG00000162493,0.0057,no tractability data,False,False,False,False,False,0,,,False
+SHH,SLC14A1,"promoter hypomethylated, expression up",-0.1586,0.0,1.9981,0.0,ENSG00000141469,0.0054,no tractability data,False,False,False,False,False,0,,,False
+SHH,HOOK1,"promoter hypermethylated, expression down",0.1474,0.0,-1.8722,0.0,ENSG00000134709,0.0053,no tractability data,False,False,False,False,False,0,,,False
+SHH,ELAVL4,"promoter hypomethylated, expression up",-0.1469,0.0,1.5418,0.0,ENSG00000162374,0.005,no tractability data,False,False,False,False,False,0,,,False
+SHH,MGP,"promoter hypomethylated, expression up",-0.2881,0.0,2.2621,0.0,ENSG00000111341,0.005,no tractability data,False,False,False,False,False,0,,,False
+SHH,GNB3,"promoter hypermethylated, expression down",0.2385,0.0,-2.3871,0.0,ENSG00000111664,0.0037,no tractability data,False,False,False,False,False,0,,,False
+SHH,MAB21L2,"promoter hypermethylated, expression down",0.3145,0.0,-1.4946,0.0,ENSG00000181541,0.003,no tractability data,False,False,False,False,False,0,,,False
+SHH,ANGPTL2,"promoter hypomethylated, expression up",-0.1007,0.0,2.9118,0.0,ENSG00000136859,0.0015,no tractability data,False,False,False,False,False,0,,,False
+SHH,ABCA9,"promoter hypomethylated, expression up",-0.3583,0.0,2.0935,0.0,ENSG00000154258,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,AIPL1,"promoter hypermethylated, expression down",0.267,0.0,-1.3139,0.0,ENSG00000129221,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,AKAP6,"promoter hypomethylated, expression up",-0.3754,0.0,2.2848,0.0,ENSG00000151320,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,AKR1E2,"promoter hypermethylated, expression down",0.1826,0.0,-1.192,0.0,ENSG00000165568,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,APBA2,"promoter hypomethylated, expression up",-0.2759,0.0,1.4388,0.0,ENSG00000034053,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,APCDD1,"promoter hypermethylated, expression down",0.1184,0.0,-1.0617,0.0,ENSG00000154856,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,ARL4C,"promoter hypomethylated, expression up",-0.1185,0.0,1.3118,0.0,ENSG00000188042,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,C1orf61,"promoter hypermethylated, expression down",0.1148,0.0,-1.3152,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,C2orf71,"promoter hypermethylated, expression down",0.1306,0.0,-1.3409,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,C6orf123,"promoter hypomethylated, expression up",-0.5596,0.0,1.5639,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,C7orf33,"promoter hypermethylated, expression down",0.5574,0.0,-1.2236,0.0,ENSG00000170279,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,CHN2,"promoter hypermethylated, expression down",0.1107,0.0,-2.7028,0.0,ENSG00000106069,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,CIDEB,"promoter hypomethylated, expression up",-0.1805,0.0,1.0788,0.0,ENSG00000136305,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,COL21A1,"promoter hypomethylated, expression up",-0.1181,0.0,1.8196,0.0,ENSG00000124749,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,CPLX4,"promoter hypermethylated, expression down",0.2789,0.0,-1.2983,0.0,ENSG00000166569,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,DAPL1,"promoter hypomethylated, expression up",-0.142,0.0,1.4118,0.0,ENSG00000163331,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,DMRTA1,"promoter hypomethylated, expression up",-0.2263,0.0,2.7664,0.0,ENSG00000176399,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,DSC2,"promoter hypermethylated, expression down",0.1448,0.0,-1.9685,0.0,ENSG00000134755,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,DSCAML1,"promoter hypermethylated, expression down",0.1531,0.0,-1.741,0.0,ENSG00000177103,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,DSCR8,"promoter hypermethylated, expression down",0.2259,0.0,-1.842,0.0,ENSG00000198054,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,EMP3,"promoter hypomethylated, expression up",-0.1216,0.0,1.3837,0.0,ENSG00000142227,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,EYS,"promoter hypermethylated, expression down",0.1341,0.0,-3.7769,0.0,ENSG00000188107,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,FAM198B,"promoter hypomethylated, expression up",-0.4089,0.0,3.3758,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,FEZF2,"promoter hypermethylated, expression down",0.3411,0.0,-1.6952,0.0,ENSG00000153266,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,FOXP2,"promoter hypomethylated, expression up",-0.149,0.0,1.0004,0.0,ENSG00000128573,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,FRMPD2,"promoter hypermethylated, expression down",0.2242,0.0,-1.1155,0.0,ENSG00000170324,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,GALM,"promoter hypomethylated, expression up",-0.12,0.0,1.4229,0.0,ENSG00000143891,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,H2AFJ,"promoter hypermethylated, expression down",0.1363,0.0,-1.1862,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,HIST1H3E,"promoter hypermethylated, expression down",0.2662,0.0,-1.3025,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,HIST1H3J,"promoter hypermethylated, expression down",0.2765,0.0,-1.1974,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,IGSF21,"promoter hypermethylated, expression down",0.1369,0.0,-2.8453,0.0,ENSG00000117154,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,ILVBL,"promoter hypermethylated, expression down",0.1951,0.0,-1.0482,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,JAKMIP2,"promoter hypomethylated, expression up",-0.1023,0.0,1.5666,0.0,ENSG00000176049,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,LRRC61,"promoter hypermethylated, expression down",0.2579,0.0,-1.3211,0.0,ENSG00000127399,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,MDFIC,"promoter hypomethylated, expression up",-0.3172,0.0,1.4935,0.0,ENSG00000135272,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,MPP4,"promoter hypermethylated, expression down",0.3775,0.0,-2.1623,0.0,ENSG00000082126,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,MS4A4A,"promoter hypomethylated, expression up",-0.1058,0.0,1.0362,0.0,ENSG00000110079,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,NRIP2,"promoter hypomethylated, expression up",-0.1207,0.0,3.3509,0.0,ENSG00000053702,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,ONECUT1,"promoter hypomethylated, expression up",-0.1249,0.0,1.7407,0.0,ENSG00000169856,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,PACSIN2,"promoter hypomethylated, expression up",-0.199,0.0,1.0435,0.0,ENSG00000100266,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,PART1,"promoter hypermethylated, expression down",0.3602,0.0,-1.3089,0.0,ENSG00000152931,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,PIRT,"promoter hypomethylated, expression up",-0.212,0.0,3.2586,0.0,ENSG00000233670,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,PLCH1,"promoter hypomethylated, expression up",-0.2077,0.0,2.0568,0.0,ENSG00000114805,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,POU6F2,"promoter hypomethylated, expression up",-0.2069,0.0,2.5926,0.0,ENSG00000106536,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,RASGEF1C,"promoter hypomethylated, expression up",-0.1318,0.0,1.1657,0.0,ENSG00000146090,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,RASSF9,"promoter hypomethylated, expression up",-0.2194,0.0,1.1884,0.0,ENSG00000198774,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,RHOJ,"promoter hypomethylated, expression up",-0.2317,0.0,1.1952,0.0,ENSG00000126785,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,RNF212,"promoter hypermethylated, expression down",0.1532,0.0,-1.2237,0.0,ENSG00000178222,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,SAMD3,"promoter hypermethylated, expression down",0.233,0.0,-2.4722,0.0,ENSG00000164483,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,SEMA6A,"promoter hypomethylated, expression up",-0.1277,0.0,2.7469,0.0,ENSG00000092421,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,SEPP1,"promoter hypomethylated, expression up",-0.2395,0.0,2.0085,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,SERPINF1,"promoter hypomethylated, expression up",-0.1433,0.0,1.5147,0.0,ENSG00000132386,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,SERTAD4,"promoter hypomethylated, expression up",-0.1776,0.0,1.0657,0.0,ENSG00000082497,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,SLC13A3,"promoter hypermethylated, expression down",0.1555,0.0,-2.0014,0.0,ENSG00000158296,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,SLC35D2,"promoter hypomethylated, expression up",-0.1565,0.0,1.1387,0.0,ENSG00000130958,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,SOSTDC1,"promoter hypomethylated, expression up",-0.293,0.0,1.801,0.0,ENSG00000171243,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,SRL,"promoter hypomethylated, expression up",-0.2048,0.0,1.1471,0.0,ENSG00000185739,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,SULT1C4,"promoter hypomethylated, expression up",-0.1113,0.0,2.0572,0.0,ENSG00000198075,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,SYT4,"promoter hypermethylated, expression down",0.1345,0.0,-1.7327,0.0,ENSG00000132872,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,TAC1,"promoter hypermethylated, expression down",0.1174,0.0016,-1.4318,0.0,ENSG00000006128,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,THBS4,"promoter hypermethylated, expression down",0.1737,0.0,-1.9009,0.0,ENSG00000113296,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,TRPS1,"promoter hypomethylated, expression up",-0.1065,0.0,2.1362,0.0,ENSG00000104447,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,TSPYL5,"promoter hypermethylated, expression down",0.2259,0.0,-1.3572,0.0,ENSG00000180543,0.0,no tractability data,False,False,False,False,False,0,,,True
+SHH,USH2A,"promoter hypermethylated, expression down",0.193,0.0,-3.1886,0.0,ENSG00000042781,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,ZNF154,"promoter hypermethylated, expression down",0.3418,0.0,-1.4135,0.0,ENSG00000179909,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,ZNF334,"promoter hypermethylated, expression down",0.2236,0.0,-1.6615,0.0,ENSG00000198185,0.0,no tractability data,False,False,False,False,False,0,,,False
+SHH,ZSCAN12,"promoter hypermethylated, expression down",0.2144,0.0,-1.1581,0.0,ENSG00000158691,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,DDR2,"promoter hypomethylated, expression up",-0.3147,0.0,2.357,0.0,ENSG00000162733,0.1848,approved drug,True,False,True,False,False,1,PHASE_4,"REGORAFENIB (PHASE_4; Ewing sarcoma, Klatskin's tumor)",False
+WNT,EPHA3,"promoter hypomethylated, expression up",-0.1452,0.0,3.6564,0.0,ENSG00000044524,0.1265,approved drug,True,False,True,False,True,2,PHASE_1_2,"KB-004 (PHASE_1_2; acute myeloid leukemia, glioblastoma); VANDETANIB (PHASE_4; acute myeloid leukemia, adrenal gland pheochromocytoma)",False
+WNT,HDAC9,"promoter hypermethylated, expression down",0.109,0.0,-2.6185,0.0,ENSG00000048052,0.1031,approved drug,True,False,True,False,False,12,PHASE_4,"PANOBINOSTAT (PHASE_4; B-cell chronic lymphocytic leukemia, Ewing sarcoma); CUDC-101 (PHASE_1; breast cancer, gastric cancer); FIMEPINOSTAT (PHASE_2; ACTH-dependent Cushing syndrome, central nervous system cancer); PANOBINOSTAT LACTATE (APPROVAL; plasma cell myeloma)",False
+WNT,ATP1A2,"promoter hypomethylated, expression up",-0.3282,0.0,1.2476,0.0,ENSG00000018625,0.0797,approved drug,True,False,True,False,False,6,PHASE_4,"DIGOXIN (PHASE_4; Hepatic fibrosis, Stillbirth); DESLANOSIDE (APPROVAL; cardiac arrhythmia, cardiovascular disorder); LANATOSIDE C (APPROVAL; cardiovascular disorder); ACETYLDIGITOXIN (APPROVAL; cardiovascular disorder, congestive heart failure)",False
+WNT,SYK,"promoter hypomethylated, expression up",-0.1801,0.0,2.4485,0.0,ENSG00000165025,0.0466,approved drug,True,False,True,False,False,15,PHASE_3,"ENTOSPLETINIB (PHASE_3; B-cell chronic lymphocytic leukemia, B-cell non-Hodgkin lymphoma); FOSTAMATINIB DISODIUM (APPROVAL; IgA glomerulonephritis, T-cell non-Hodgkin lymphoma); MIVAVOTINIB CITRATE (PHASE_2; acute myeloid leukemia, diffuse large B-cell lymphoma); R-333 (PHASE_2; discoid lupus erythematosus, systemic lupus erythematosus)",False
+WNT,ALDH5A1,"promoter hypermethylated, expression down",0.1709,0.0,-1.5119,0.0,ENSG00000112294,0.037,approved drug,True,False,True,False,False,3,PHASE_4,"VALPROIC ACID (PHASE_4; Agitation, B-cell chronic lymphocytic leukemia); DIVALPROEX SODIUM (PHASE_4; Alzheimer disease, Anorexia); VALPROATE SODIUM (PHASE_4; Tourette syndrome, Wolfram syndrome)",False
+WNT,SLC6A3,"promoter hypermethylated, expression down",0.1961,0.0,-1.8035,0.0,ENSG00000142319,0.0337,approved drug,True,False,True,False,False,41,PHASE_4,"LISDEXAMFETAMINE DIMESYLATE (PHASE_4; Alzheimer disease, Huntington disease); NOMIFENSINE (WITHDRAWAL; breast cancer, major depressive disorder); BUPROPION (PHASE_4; Agitation, Alzheimer disease); LIAFENSINE (PHASE_2; depressive disorder, major depressive disorder)",False
+WNT,ABCA1,"promoter hypomethylated, expression up",-0.3025,0.0,1.4984,0.0,ENSG00000165029,0.0054,approved drug,True,False,True,False,False,1,WITHDRAWAL,"PROBUCOL (WITHDRAWAL; Alzheimer disease, Nephropathy)",False
+WNT,KCNA5,"promoter hypermethylated, expression down",0.1748,0.0,-1.0997,0.0003,ENSG00000130037,0.0052,approved drug,True,False,True,False,False,8,PHASE_4,"DALFAMPRIDINE (PHASE_4; Cognitive impairment, Gait disturbance); TEDISAMIL (APPROVAL; cardiac arrhythmia); AMIFAMPRIDINE PHOSPHATE (APPROVAL; Lambert-Eaton myasthenic syndrome, Muscle weakness); GUANIDINE HYDROCHLORIDE (APPROVAL; Increased muscle fatiguability, Muscle weakness)",False
+WNT,CACNA1E,"promoter hypermethylated, expression down",0.2159,0.0,-1.153,0.0,ENSG00000198216,0.0,approved drug,True,False,True,False,False,10,APPROVAL,"BEPRIDIL (APPROVAL; cardiovascular disorder); PHLOROGLUCINOL (APPROVAL; gastrointestinal disease, renal colic); PREGABALIN (WITHDRAWAL; Arthralgia, Atypical behavior); SULOCTIDIL (WITHDRAWAL; cardiovascular disorder)",False
+WNT,CACNA2D4,"promoter hypomethylated, expression up",-0.5309,0.0,2.253,0.0,ENSG00000151062,0.0,approved drug,True,False,True,False,False,10,WITHDRAWAL,"TERODILINE (WITHDRAWAL; Polyuria, Urinary incontinence); GABAPENTIN (PHASE_4; Addictive alcohol use, Alzheimer disease); PHLOROGLUCINOL (APPROVAL; gastrointestinal disease, renal colic); IMAGABALIN (PHASE_3; generalized anxiety disorder)",False
+WNT,NOD2,"promoter hypomethylated, expression up",-0.1186,0.0,1.4882,0.0,ENSG00000167207,0.0,approved drug,True,False,True,False,False,1,APPROVAL,"MIFAMURTIDE (APPROVAL; neoplasm, osteosarcoma)",False
+WNT,LGALS1,"promoter hypomethylated, expression up",-0.1896,0.0,1.2395,0.0,ENSG00000100097,0.043,clinical compound,False,False,True,False,False,1,PHASE_2,"DAVANAT (PHASE_2; cholangiocarcinoma, colon carcinoma)",False
+WNT,ENPP2,"promoter hypomethylated, expression up",-0.1154,0.0,1.3439,0.0,ENSG00000136960,0.0172,clinical compound,False,True,True,False,False,1,PHASE_3,"ZIRITAXESTAT (PHASE_3; fibrosis, idiopathic pulmonary fibrosis)",False
+WNT,FAP,"promoter hypomethylated, expression up",-0.1006,0.0,1.1487,0.0,ENSG00000078098,0.0123,clinical compound,False,False,True,False,True,3,PHASE_3,"SIMLUKAFUSP ALFA (PHASE_3; cervical cancer, esophageal squamous cell carcinoma); F19 131I (PHASE_2; colorectal cancer); SIBROTUZUMAB (PHASE_2; colorectal cancer, metastatic colorectal cancer)",False
+WNT,COL6A3,"promoter hypomethylated, expression up",-0.2437,0.0,3.319,0.0,ENSG00000163359,0.0047,clinical compound,False,False,False,False,False,2,WITHDRAWAL,"COLLAGENASE CLOSTRIDIUM HISTOLYTICUM (WITHDRAWAL; Abnormality of connective tissue, Dupuytren Contracture); OCRIPLASMIN (WITHDRAWAL; age-related macular degeneration, deep vein thrombosis)",False
+WNT,IL11RA,"promoter hypomethylated, expression up",-0.142,0.0,1.3825,0.0,ENSG00000137070,0.0,clinical compound,False,False,False,False,False,1,APPROVAL,"OPRELVEKIN (APPROVAL; Crohn disease, Hodgkins lymphoma)",False
+WNT,CLIC1,"promoter hypomethylated, expression up",-0.3486,0.0,1.0512,0.0,ENSG00000213719,0.019,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,SFRP1,"promoter hypermethylated, expression down",0.1375,0.0,-1.8665,0.0,ENSG00000104332,0.0134,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,CHI3L1,"promoter hypomethylated, expression up",-0.2011,0.0,2.5244,0.0,ENSG00000133048,0.0119,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,CKB,"promoter hypermethylated, expression down",0.1577,0.0,-1.2295,0.0,ENSG00000166165,0.0102,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,FABP7,"promoter hypermethylated, expression down",0.4829,0.0,-1.1903,0.0,ENSG00000164434,0.0083,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,DSG2,"promoter hypomethylated, expression up",-0.1689,0.0,2.8519,0.0,ENSG00000046604,0.0054,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,AMHR2,"promoter hypomethylated, expression up",-0.2841,0.0,3.7044,0.0,ENSG00000135409,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,CAPS,"promoter hypomethylated, expression up",-0.277,0.0,1.355,0.0,ENSG00000105519,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,CNGA3,"promoter hypomethylated, expression up",-0.1484,0.0,3.5496,0.0,ENSG00000144191,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,DEFA5,"promoter hypomethylated, expression up",-0.291,0.0,1.2544,0.0,ENSG00000164816,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,KCNIP1,"promoter hypomethylated, expression up",-0.1156,0.0,2.2239,0.0,ENSG00000182132,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,LRRC55,"promoter hypomethylated, expression up",-0.1248,0.0,1.9329,0.0,ENSG00000183908,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,MYO3B,"promoter hypomethylated, expression up",-0.2359,0.0,2.7544,0.0,ENSG00000071909,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,PTP4A1,"promoter hypermethylated, expression down",0.1421,0.0,-1.1088,0.0,ENSG00000112245,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,QPCT,"promoter hypomethylated, expression up",-0.1963,0.0,1.7772,0.0,ENSG00000115828,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,QPRT,"promoter hypomethylated, expression up",-0.1932,0.0,1.6414,0.0,ENSG00000103485,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,SERPIND1,"promoter hypomethylated, expression up",-0.1666,0.0,1.5607,0.0,ENSG00000099937,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,SFN,"promoter hypomethylated, expression up",-0.1785,0.0,1.2128,0.0,ENSG00000175793,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,VRK2,"promoter hypomethylated, expression up",-0.4762,0.0,1.8773,0.0,ENSG00000028116,0.0,druggable (pocket or family),False,False,True,False,False,0,,,False
+WNT,ZFHX3,"promoter hypomethylated, expression up",-0.1314,0.0,1.7069,0.0,ENSG00000140836,0.3234,no tractability data,False,False,False,False,False,0,,,False
+WNT,FAM174B,"promoter hypomethylated, expression up",-0.2001,0.0,1.4832,0.0,ENSG00000185442,0.1991,no tractability data,False,False,False,False,False,0,,,False
+WNT,LOXL1,"promoter hypomethylated, expression up",-0.1843,0.0,1.913,0.0,ENSG00000129038,0.084,no tractability data,False,False,False,False,False,0,,,False
+WNT,ACTC1,"promoter hypomethylated, expression up",-0.1905,0.0,2.7489,0.0,ENSG00000159251,0.0739,no tractability data,False,False,False,False,False,0,,,False
+WNT,LMX1A,"promoter hypermethylated, expression down",0.1341,0.0,-1.9067,0.0,ENSG00000162761,0.0573,no tractability data,False,False,False,False,False,0,,,False
+WNT,SLFN11,"promoter hypomethylated, expression up",-0.1097,0.0,3.2768,0.0,ENSG00000172716,0.0383,no tractability data,False,False,False,False,False,0,,,False
+WNT,SLC1A4,"promoter hypomethylated, expression up",-0.1152,0.0,1.235,0.0,ENSG00000115902,0.037,no tractability data,False,False,False,False,False,0,,,False
+WNT,NEUROD4,"promoter hypomethylated, expression up",-0.1931,0.0,1.5945,0.0,ENSG00000123307,0.0333,no tractability data,False,False,False,False,False,0,,,False
+WNT,SCG5,"promoter hypomethylated, expression up",-0.1025,0.0009,1.2174,0.0,ENSG00000166922,0.022,no tractability data,False,False,False,False,False,0,,,False
+WNT,SGPP2,"promoter hypomethylated, expression up",-0.1413,0.0,2.4569,0.0,ENSG00000163082,0.0187,no tractability data,False,False,False,False,False,0,,,False
+WNT,LRP4,"promoter hypomethylated, expression up",-0.2299,0.0,3.1276,0.0,ENSG00000134569,0.0185,no tractability data,False,False,False,False,False,0,,,False
+WNT,DDX31,"promoter hypermethylated, expression down",0.1326,0.0,-1.2825,0.0,ENSG00000125485,0.0138,no tractability data,False,False,False,False,False,0,,,False
+WNT,IMPG2,"promoter hypomethylated, expression up",-0.2634,0.0,1.8738,0.0,ENSG00000081148,0.0126,no tractability data,False,False,False,False,False,0,,,False
+WNT,EOMES,"promoter hypermethylated, expression down",0.2201,0.0,-2.4051,0.0,ENSG00000163508,0.0123,no tractability data,False,False,False,False,False,0,,,False
+WNT,PRAME,"promoter hypomethylated, expression up",-0.1222,0.0,1.2601,0.0,ENSG00000185686,0.0113,no tractability data,False,False,False,False,False,0,,,False
+WNT,RASGRF2,"promoter hypermethylated, expression down",0.2459,0.0,-1.6947,0.0,ENSG00000113319,0.0087,no tractability data,False,False,False,False,False,0,,,False
+WNT,RNF43,"promoter hypomethylated, expression up",-0.2202,0.0,3.1687,0.0,ENSG00000108375,0.0079,no tractability data,False,False,False,False,False,0,,,False
+WNT,LEMD1,"promoter hypermethylated, expression down",0.1366,0.0,-2.5498,0.0,ENSG00000186007,0.0074,no tractability data,False,False,False,False,False,0,,,False
+WNT,HOXA7,"promoter hypermethylated, expression down",0.1191,0.0,-1.4404,0.0,ENSG00000122592,0.0073,no tractability data,False,False,False,False,False,0,,,False
+WNT,SP5,"promoter hypomethylated, expression up",-0.1601,0.0,3.1666,0.0,ENSG00000204335,0.0063,no tractability data,False,False,False,False,False,0,,,False
+WNT,LUM,"promoter hypermethylated, expression down",0.1386,0.0,-1.035,0.0,ENSG00000139329,0.0061,no tractability data,False,False,False,False,False,0,,,False
+WNT,WNT16,"promoter hypomethylated, expression up",-0.1253,0.0001,2.4859,0.0,ENSG00000002745,0.0055,no tractability data,False,False,False,False,False,0,,,False
+WNT,SGIP1,"promoter hypermethylated, expression down",0.1544,0.0,-1.6857,0.0,ENSG00000118473,0.0055,no tractability data,False,False,False,False,False,0,,,False
+WNT,PCSK1,"promoter hypomethylated, expression up",-0.1122,0.0,1.8249,0.0,ENSG00000175426,0.0055,no tractability data,False,False,False,False,False,0,,,False
+WNT,SLC16A4,"promoter hypomethylated, expression up",-0.245,0.0,1.5088,0.0,ENSG00000168679,0.0052,no tractability data,False,False,False,False,False,0,,,False
+WNT,ELAVL4,"promoter hypermethylated, expression down",0.1252,0.0,-2.6917,0.0,ENSG00000162374,0.005,no tractability data,False,False,False,False,False,0,,,False
+WNT,PPP2R2C,"promoter hypermethylated, expression down",0.176,0.0,-1.632,0.0,ENSG00000074211,0.0048,no tractability data,False,False,False,False,False,0,,,False
+WNT,NHLH2,"promoter hypermethylated, expression down",0.1017,0.0,-1.5377,0.0,ENSG00000177551,0.0045,no tractability data,False,False,False,False,False,0,,,False
+WNT,KHDRBS2,"promoter hypermethylated, expression down",0.1837,0.0,-3.5594,0.0,ENSG00000112232,0.0044,no tractability data,False,False,False,False,False,0,,,False
+WNT,DKK4,"promoter hypomethylated, expression up",-0.1787,0.0,4.3507,0.0,ENSG00000104371,0.0044,no tractability data,False,False,False,False,False,0,,,False
+WNT,POSTN,"promoter hypomethylated, expression up",-0.1637,0.0,1.2835,0.0,ENSG00000133110,0.0041,no tractability data,False,False,False,False,False,0,,,False
+WNT,AHNAK,"promoter hypomethylated, expression up",-0.1352,0.0,1.3851,0.0,ENSG00000124942,0.0037,no tractability data,False,False,False,False,False,0,,,False
+WNT,DNAH2,"promoter hypomethylated, expression up",-0.2199,0.0,1.7103,0.0,ENSG00000183914,0.0037,no tractability data,False,False,False,False,False,0,,,False
+WNT,MTSS1,"promoter hypermethylated, expression down",0.1025,0.0,-1.2988,0.0,ENSG00000170873,0.0026,no tractability data,False,False,False,False,False,0,,,False
+WNT,CNTN6,"promoter hypomethylated, expression up",-0.102,0.0,1.7075,0.0,ENSG00000134115,0.0022,no tractability data,False,False,False,False,False,0,,,False
+WNT,ABCA9,"promoter hypermethylated, expression down",0.116,0.0009,-1.1198,0.0,ENSG00000154258,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,ACPP,"promoter hypomethylated, expression up",-0.1766,0.0,1.957,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,ADAM19,"promoter hypomethylated, expression up",-0.1285,0.0,2.633,0.0,ENSG00000135074,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,AKAP6,"promoter hypomethylated, expression up",-0.2162,0.0,1.8206,0.0,ENSG00000151320,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,AKR1E2,"promoter hypermethylated, expression down",0.348,0.0,-2.251,0.0,ENSG00000165568,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,ANKRD30B,"promoter hypermethylated, expression down",0.1133,0.0,-1.1661,0.0,ENSG00000180777,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,ANXA2P2,"promoter hypomethylated, expression up",-0.1286,0.0,1.3576,0.0,ENSG00000231991,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,APCDD1,"promoter hypomethylated, expression up",-0.134,0.0,2.4255,0.0,ENSG00000154856,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,BTBD11,"promoter hypermethylated, expression down",0.1232,0.0,-1.4383,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,C14orf39,"promoter hypermethylated, expression down",0.143,0.0,-1.514,0.0,ENSG00000179008,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,CALHM2,"promoter hypomethylated, expression up",-0.2604,0.0,1.972,0.0,ENSG00000138172,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,CCDC36,"promoter hypomethylated, expression up",-0.1873,0.0,2.5918,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,CCDC8,"promoter hypomethylated, expression up",-0.3155,0.0,1.2434,0.0,ENSG00000169515,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,CDC42EP3,"promoter hypomethylated, expression up",-0.111,0.0,1.3698,0.0,ENSG00000163171,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,CER1,"promoter hypermethylated, expression down",0.3323,0.0,-1.3096,0.0,ENSG00000147869,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,COCH,"promoter hypermethylated, expression down",0.1082,0.0,-1.3649,0.0,ENSG00000100473,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,COLEC12,"promoter hypomethylated, expression up",-0.152,0.0,2.5562,0.0,ENSG00000158270,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,COLQ,"promoter hypomethylated, expression up",-0.1559,0.0,1.1251,0.0,ENSG00000206561,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,CPLX4,"promoter hypermethylated, expression down",0.1315,0.0,-1.0064,0.0,ENSG00000166569,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,CSPG4,"promoter hypomethylated, expression up",-0.1005,0.0,1.4859,0.0,ENSG00000173546,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,CYB5R2,"promoter hypomethylated, expression up",-0.1376,0.0,3.1242,0.0,ENSG00000166394,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,DBX1,"promoter hypomethylated, expression up",-0.1288,0.0,1.7671,0.0,ENSG00000109851,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,DPY19L2P2,"promoter hypermethylated, expression down",0.1207,0.0,-1.0129,0.0,ENSG00000170629,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,DSCR8,"promoter hypomethylated, expression up",-0.343,0.0,2.2151,0.0,ENSG00000198054,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,EHHADH,"promoter hypomethylated, expression up",-0.1079,0.0,1.0865,0.0,ENSG00000113790,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,EMB,"promoter hypomethylated, expression up",-0.1669,0.0,2.6873,0.0,ENSG00000170571,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,ESM1,"promoter hypomethylated, expression up",-0.1013,0.0,1.3876,0.0,ENSG00000164283,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,FGF20,"promoter hypomethylated, expression up",-0.2037,0.0,2.8777,0.0,ENSG00000078579,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,FMOD,"promoter hypomethylated, expression up",-0.2599,0.0,2.3687,0.0,ENSG00000122176,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,FZD6,"promoter hypomethylated, expression up",-0.12,0.0,2.0202,0.0,ENSG00000164930,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,GLT8D2,"promoter hypomethylated, expression up",-0.5088,0.0,3.3465,0.0,ENSG00000120820,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,GPX8,"promoter hypomethylated, expression up",-0.3487,0.0,1.8928,0.0,ENSG00000164294,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,GUCY1B3,"promoter hypermethylated, expression down",0.1676,0.0,-1.2687,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,HIST1H4D,"promoter hypermethylated, expression down",0.4169,0.0,-1.8853,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,HIST1H4F,"promoter hypermethylated, expression down",0.1703,0.0,-1.1106,0.0,,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,IL20RA,"promoter hypomethylated, expression up",-0.1596,0.0,1.8766,0.0,ENSG00000016402,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,KCTD14,"promoter hypomethylated, expression up",-0.1271,0.0,1.3829,0.0,ENSG00000151364,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,LPIN1,"promoter hypomethylated, expression up",-0.1907,0.0,1.1767,0.0,ENSG00000134324,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,LRIT1,"promoter hypomethylated, expression up",-0.3245,0.0,1.2795,0.0,ENSG00000148602,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,LRTM1,"promoter hypomethylated, expression up",-0.3555,0.0,1.155,0.0,ENSG00000144771,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,MCTP2,"promoter hypomethylated, expression up",-0.2356,0.0,1.9817,0.0,ENSG00000140563,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,ME3,"promoter hypermethylated, expression down",0.1616,0.0,-1.2054,0.0,ENSG00000151376,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,MFHAS1,"promoter hypomethylated, expression up",-0.1414,0.0,1.0958,0.0,ENSG00000147324,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,MFNG,"promoter hypomethylated, expression up",-0.2001,0.0,1.2143,0.0,ENSG00000100060,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,MPP3,"promoter hypermethylated, expression down",0.1046,0.0,-2.5532,0.0,ENSG00000161647,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,MPP4,"promoter hypomethylated, expression up",-0.2282,0.0,1.2385,0.0,ENSG00000082126,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,MTMR11,"promoter hypomethylated, expression up",-0.1001,0.0,1.0648,0.0,ENSG00000014914,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,MYOT,"promoter hypomethylated, expression up",-0.3898,0.0,4.3824,0.0,ENSG00000120729,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,NAV2,"promoter hypomethylated, expression up",-0.2164,0.0,2.5576,0.0,ENSG00000166833,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,NET1,"promoter hypomethylated, expression up",-0.2099,0.0,2.4474,0.0,ENSG00000173848,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,NTN5,"promoter hypomethylated, expression up",-0.5595,0.0,4.0746,0.0,ENSG00000142233,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,OSBPL10,"promoter hypomethylated, expression up",-0.1634,0.0,1.4298,0.0,ENSG00000144645,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,PART1,"promoter hypomethylated, expression up",-0.275,0.0,4.3238,0.0,ENSG00000152931,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,PCDHA1,"promoter hypermethylated, expression down",0.128,0.0,-1.9988,0.0,ENSG00000204970,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,PCDHB15,"promoter hypermethylated, expression down",0.1211,0.0,-1.1525,0.0,ENSG00000113248,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,PCDHB3,"promoter hypermethylated, expression down",0.1092,0.0,-1.0936,0.0,ENSG00000113205,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,PCDHB7,"promoter hypermethylated, expression down",0.1391,0.0,-1.2522,0.0,ENSG00000113212,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,PCOLCE,"promoter hypomethylated, expression up",-0.11,0.0,1.6365,0.0,ENSG00000106333,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,PDLIM4,"promoter hypomethylated, expression up",-0.2478,0.0,2.1308,0.0,ENSG00000131435,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,PLCD4,"promoter hypomethylated, expression up",-0.1042,0.0,1.6596,0.0,ENSG00000115556,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,PLEKHF2,"promoter hypomethylated, expression up",-0.1769,0.0,1.9707,0.0,ENSG00000175895,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,PLIN3,"promoter hypomethylated, expression up",-0.1255,0.0,1.2488,0.0,ENSG00000105355,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,PRELID2,"promoter hypomethylated, expression up",-0.1083,0.0,2.8304,0.0,ENSG00000186314,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,RANBP17,"promoter hypermethylated, expression down",0.1508,0.0,-1.0597,0.0,ENSG00000204764,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,RASIP1,"promoter hypomethylated, expression up",-0.578,0.0,1.3561,0.0,ENSG00000105538,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,RASSF3,"promoter hypomethylated, expression up",-0.156,0.0,1.8372,0.0,ENSG00000153179,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,RD3,"promoter hypomethylated, expression up",-0.1883,0.0,1.2126,0.0,ENSG00000198570,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,REG1B,"promoter hypomethylated, expression up",-0.5846,0.0,1.2475,0.0,ENSG00000172023,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,RNF112,"promoter hypomethylated, expression up",-0.1036,0.0,1.1391,0.0,ENSG00000128482,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,SAMD3,"promoter hypermethylated, expression down",0.169,0.0,-2.1256,0.0,ENSG00000164483,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,SELENBP1,"promoter hypomethylated, expression up",-0.1186,0.0,2.0492,0.0,ENSG00000143416,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,SH3D19,"promoter hypomethylated, expression up",-0.1089,0.0,1.3527,0.0,ENSG00000109686,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,SLC13A3,"promoter hypomethylated, expression up",-0.1601,0.0,1.5729,0.0,ENSG00000158296,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,SLC17A6,"promoter hypermethylated, expression down",0.1989,0.0,-1.9848,0.0,ENSG00000091664,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,SLC20A2,"promoter hypomethylated, expression up",-0.1817,0.0,1.364,0.0,ENSG00000168575,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,SLITRK6,"promoter hypomethylated, expression up",-0.177,0.0,2.4494,0.0,ENSG00000184564,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,SPINK5,"promoter hypomethylated, expression up",-0.1925,0.0,1.0075,0.0,ENSG00000133710,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,STAT4,"promoter hypomethylated, expression up",-0.185,0.0,1.2003,0.0,ENSG00000138378,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,STRA6,"promoter hypomethylated, expression up",-0.4004,0.0,1.4769,0.0,ENSG00000137868,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,SYCP2L,"promoter hypermethylated, expression down",0.1696,0.0,-1.6102,0.0,ENSG00000153157,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,TBX18,"promoter hypermethylated, expression down",0.1928,0.0,-1.1429,0.0,ENSG00000112837,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,TFCP2,"promoter hypermethylated, expression down",0.2856,0.0,-1.0059,0.0,ENSG00000135457,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,TMBIM1,"promoter hypomethylated, expression up",-0.1214,0.0,1.2229,0.0,ENSG00000135926,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,TMEM132C,"promoter hypomethylated, expression up",-0.1956,0.0,4.2251,0.0,ENSG00000181234,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,TMEM51,"promoter hypomethylated, expression up",-0.1,0.0,4.2474,0.0,ENSG00000171729,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,TSPAN5,"promoter hypomethylated, expression up",-0.106,0.0,1.0063,0.0,ENSG00000168785,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,TSPAN9,"promoter hypomethylated, expression up",-0.1135,0.0,1.8636,0.0,ENSG00000011105,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,TSPYL5,"promoter hypermethylated, expression down",0.1386,0.0,-1.0866,0.0001,ENSG00000180543,0.0,no tractability data,False,False,False,False,False,0,,,True
+WNT,VWDE,"promoter hypomethylated, expression up",-0.1455,0.0,2.5186,0.0,ENSG00000146530,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,ZNF154,"promoter hypermethylated, expression down",0.3356,0.0,-1.8083,0.0,ENSG00000179909,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,ZNF418,"promoter hypermethylated, expression down",0.1388,0.0,-1.1833,0.0,ENSG00000196724,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,ZNF681,"promoter hypermethylated, expression down",0.1855,0.0,-1.4214,0.0,ENSG00000196172,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,ZNRF3,"promoter hypomethylated, expression up",-0.1731,0.0,2.0755,0.0,ENSG00000183579,0.0,no tractability data,False,False,False,False,False,0,,,False
+WNT,ZSCAN12,"promoter hypermethylated, expression down",0.5034,0.0,-1.3041,0.0,ENSG00000158691,0.0,no tractability data,False,False,False,False,False,0,,,False

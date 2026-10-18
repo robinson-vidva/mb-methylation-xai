@@ -1,0 +1,285 @@
+sample,fraction_failed_probes,fraction_failed_of_modelled_cpgs,material,group,tissue,sex
+ICGC_MB1,0.0013,0.0001,frozen,SHH,Primary medulloblastoma tumor tissue,F
+ICGC_MB2,0.0009,0.0001,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB3,0.0014,0.0002,frozen,SHH,Primary medulloblastoma tumor tissue,F
+ICGC_MB5,0.0014,0.0001,frozen,Group 3,Primary medulloblastoma tumor tissue,F
+ICGC_MB6,0.0013,0.0001,frozen,Group 4,Primary medulloblastoma tumor tissue,F
+ICGC_MB7,0.0004,0.0001,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB8,0.0019,0.0004,frozen,Group 4,Primary medulloblastoma tumor tissue,F
+ICGC_MB9,0.0005,0.0001,frozen,Group 3,Primary medulloblastoma tumor tissue,M
+ICGC_MB14,0.0013,0.0001,frozen,WNT,Primary medulloblastoma tumor tissue,F
+ICGC_MB15,0.0013,0.0002,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB16,0.0006,0.0001,frozen,Group 3,Primary medulloblastoma tumor tissue,M
+ICGC_MB17,0.0008,0.0001,frozen,Group 3,Primary medulloblastoma tumor tissue,F
+ICGC_MB18,0.0013,0.0001,frozen,Group 3,Primary medulloblastoma tumor tissue,F
+ICGC_MB19,0.0015,0.0001,frozen,Group 4,Primary medulloblastoma tumor tissue,F
+ICGC_MB21,0.0015,0.0002,frozen,SHH,Primary medulloblastoma tumor tissue,F
+ICGC_MB24,0.001,0.0003,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB26,0.0004,0.0,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB27,0.0004,0.0001,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB28,0.0003,0.0001,frozen,SHH,Primary medulloblastoma tumor tissue,M
+ICGC_MB32,0.0012,0.0001,frozen,Group 4,Primary medulloblastoma tumor tissue,F
+ICGC_MB34,0.0012,0.0001,frozen,SHH,Primary medulloblastoma tumor tissue,F
+ICGC_MB35,0.0011,0.0001,frozen,SHH,Primary medulloblastoma tumor tissue,F
+ICGC_MB36,0.0007,0.0002,frozen,Group 3,Primary medulloblastoma tumor tissue,M
+ICGC_MB37,0.0011,0.0,frozen,SHH,Primary medulloblastoma tumor tissue,F
+ICGC_MB38,0.0008,0.0001,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB39,0.0003,0.0001,frozen,Group 3,Primary medulloblastoma tumor tissue,M
+ICGC_MB40,0.0005,0.0,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB45,0.0008,0.0,frozen,Group 3,Primary medulloblastoma tumor tissue,M
+ICGC_MB46,0.0011,0.0,frozen,WNT,Primary medulloblastoma tumor tissue,F
+ICGC_MB49,0.0011,0.0001,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB50,0.0017,0.0002,frozen,Group 3,Primary medulloblastoma tumor tissue,F
+ICGC_MB51,0.0003,0.0,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB64,0.0003,0.0,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB65,0.0003,0.0,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB83,0.001,0.0,frozen,Group 4,Primary medulloblastoma tumor tissue,F
+ICGC_MB84,0.0006,0.0,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB85,0.0012,0.0001,frozen,Group 4,Primary medulloblastoma tumor tissue,F
+ICGC_MB86,0.0006,0.0001,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB88,0.0006,0.0001,frozen,SHH,Primary medulloblastoma tumor tissue,M
+ICGC_MB89,0.0019,0.0003,frozen,Group 3,Primary medulloblastoma tumor tissue,F
+ICGC_MB90,0.0005,0.0001,frozen,Group 3,Primary medulloblastoma tumor tissue,M
+ICGC_MB91,0.0006,0.0001,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB92,0.0011,0.0001,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB94,0.0013,0.0001,frozen,Group 4,Primary medulloblastoma tumor tissue,F
+ICGC_MB95,0.0005,0.0,frozen,Group 3,Primary medulloblastoma tumor tissue,M
+ICGC_MB96,0.0008,0.0001,frozen,Group 3,Primary medulloblastoma tumor tissue,M
+ICGC_MB98,0.0012,0.0002,frozen,Group 3,Primary medulloblastoma tumor tissue,M
+ICGC_MB99,0.0019,0.0006,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB106,0.0004,0.0001,frozen,Group 3,Primary medulloblastoma tumor tissue,M
+ICGC_MB107,0.0008,0.0002,frozen,WNT,Primary medulloblastoma tumor tissue,M
+ICGC_MB108,0.0002,0.0,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB110,0.0009,0.0001,frozen,Group 4,Primary medulloblastoma tumor tissue,F
+ICGC_MB111,0.0009,0.0,frozen,Group 3,Primary medulloblastoma tumor tissue,F
+ICGC_MB112,0.0003,0.0,frozen,WNT,Primary medulloblastoma tumor tissue,M
+ICGC_MB113,0.0011,0.0,frozen,WNT,Primary medulloblastoma tumor tissue,F
+ICGC_MB114,0.0008,0.0,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB115,0.0006,0.0001,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB117,0.0023,0.0005,frozen,WNT,Primary medulloblastoma tumor tissue,F
+ICGC_MB118,0.0007,0.0002,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB119,0.0009,0.0001,frozen,Group 4,Primary medulloblastoma tumor tissue,F
+ICGC_MB121,0.0002,0.0,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB122,0.0004,0.0001,frozen,WNT,Primary medulloblastoma tumor tissue,M
+ICGC_MB124,0.0012,0.0002,frozen,WNT,Primary medulloblastoma tumor tissue,F
+ICGC_MB129,0.0002,0.0,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB130,0.001,0.0,frozen,WNT,Primary medulloblastoma tumor tissue,F
+ICGC_MB131,0.0004,0.0,frozen,Group 3,Primary medulloblastoma tumor tissue,M
+ICGC_MB132,0.0011,0.0,frozen,SHH,Primary medulloblastoma tumor tissue,F
+ICGC_MB133,0.0012,0.0,frozen,Group 4,Primary medulloblastoma tumor tissue,F
+ICGC_MB134,0.0006,0.0,frozen,Group 3,Primary medulloblastoma tumor tissue,F
+ICGC_MB137,0.0009,0.0003,frozen,SHH,Primary medulloblastoma tumor tissue,M
+ICGC_MB138,0.0003,0.0,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+ICGC_MB139,0.0006,0.0001,frozen,Group 3,Primary medulloblastoma tumor tissue,M
+ICGC_MB141,0.0006,0.0,frozen,Group 3,Primary medulloblastoma tumor tissue,F
+ICGC_MB142,0.0002,0.0,frozen,SHH,Primary medulloblastoma tumor tissue,M
+LFS_MB1,0.0008,0.0,frozen,SHH,Primary medulloblastoma tumor tissue,F
+LFS_MB4,0.0003,0.0,frozen,SHH,Primary medulloblastoma tumor tissue,M
+1M2,0.0009,0.0001,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+1M3,0.0007,0.0001,frozen,Group 3,Primary medulloblastoma tumor tissue,M
+1M4,0.0009,0.0,frozen,WNT,Primary medulloblastoma tumor tissue,F
+1M5,0.0001,0.0,frozen,SHH,Primary medulloblastoma tumor tissue,M
+1M10,0.0013,0.0001,frozen,Group 3,Primary medulloblastoma tumor tissue,F
+1M13,0.001,0.0,frozen,WNT,Primary medulloblastoma tumor tissue,F
+1M14,0.0004,0.0,frozen,WNT,Primary medulloblastoma tumor tissue,M
+1M15,0.0003,0.0,frozen,WNT,Primary medulloblastoma tumor tissue,M
+1M16,0.0005,0.0,frozen,WNT,Primary medulloblastoma tumor tissue,M
+1M17,0.0009,0.0,frozen,Group 4,Primary medulloblastoma tumor tissue,F
+1M19,0.0013,0.0002,frozen,Group 3,Primary medulloblastoma tumor tissue,F
+1M20,0.0011,0.0001,frozen,Group 3,Primary medulloblastoma tumor tissue,F
+1M21,0.0008,0.0002,frozen,Group 3,Primary medulloblastoma tumor tissue,M
+1M22,0.0011,0.0003,frozen,WNT,Primary medulloblastoma tumor tissue,M
+1M24,0.0011,0.0002,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+1M25,0.0003,0.0,frozen,Group 4,Primary medulloblastoma tumor tissue,M
+1M28,0.0014,0.0002,frozen,Group 3,Primary medulloblastoma tumor tissue,F
+1M32,0.0008,0.0002,frozen,Group 3,Primary medulloblastoma tumor tissue,M
+2M7,0.0004,0.0,frozen,Group 3,Primary medulloblastoma tumor tissue,M
+2M9,0.0017,0.0006,frozen,SHH,Primary medulloblastoma tumor tissue,M
+2M14,0.0008,0.0,frozen,Group 3,Primary medulloblastoma tumor tissue,F
+2M16,0.0013,0.0001,frozen,SHH,Primary medulloblastoma tumor tissue,F
+2M20,0.0006,0.0,frozen,SHH,Primary medulloblastoma tumor tissue,M
+2M21,0.0007,0.0001,frozen,SHH,Primary medulloblastoma tumor tissue,F
+4M8,0.0009,0.0002,frozen,WNT,Primary medulloblastoma tumor tissue,M
+4M21,0.0015,0.0002,frozen,SHH,Primary medulloblastoma tumor tissue,F
+4M28,0.0002,0.0,frozen,WNT,Primary medulloblastoma tumor tissue,M
+4M58,0.0008,0.0,frozen,Group 3,Primary medulloblastoma tumor tissue,F
+5M6,0.0002,0.0,frozen,SHH,Primary medulloblastoma tumor tissue,M
+5M7,0.001,0.0,frozen,WNT,Primary medulloblastoma tumor tissue,F
+5M17,0.0003,0.0,frozen,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_002,0.0005,0.0003,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_003,0.0012,0.0008,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_004,0.0025,0.0013,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_007,0.0271,0.0253,FFPE,WNT,Primary medulloblastoma tumor tissue,F
+MD_MB_008,0.0052,0.004,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_009,0.0005,0.0001,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_010,0.0011,0.0002,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_013,0.0012,0.0005,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_014,0.0027,0.0014,FFPE,Group 3,Primary medulloblastoma tumor tissue,F
+MD_MB_016,0.0018,0.0005,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_017,0.0018,0.0008,FFPE,SHH,Primary medulloblastoma tumor tissue,F
+MD_MB_018,0.0046,0.003,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_019,0.0023,0.0014,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_021,0.0046,0.0034,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_022,0.0024,0.0019,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_023,0.0085,0.0072,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_024,0.0036,0.002,FFPE,WNT,Primary medulloblastoma tumor tissue,F
+MD_MB_025,0.011,0.0092,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_026,0.0076,0.0062,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_029,0.0056,0.0044,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_031,0.0012,0.0006,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_032,0.0029,0.0018,FFPE,SHH,Primary medulloblastoma tumor tissue,F
+MD_MB_033,0.0041,0.0027,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_034,0.0043,0.0031,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_035,0.0048,0.0037,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_037,0.0015,0.0011,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_038,0.0008,0.0004,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_039,0.0041,0.0036,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_040,0.0014,0.0008,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_041,0.0034,0.0027,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_042,0.0029,0.0018,FFPE,Group 3,Primary medulloblastoma tumor tissue,F
+MD_MB_043,0.001,0.0005,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_044,0.0131,0.0107,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_045,0.0036,0.0023,FFPE,SHH,Primary medulloblastoma tumor tissue,F
+MD_MB_046,0.0061,0.0041,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_047,0.0087,0.0072,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_050,0.0017,0.0006,FFPE,SHH,Primary medulloblastoma tumor tissue,F
+MD_MB_051,0.001,0.0005,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_052,0.0024,0.0019,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_053,0.0041,0.0026,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_054,0.028,0.0254,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_056,0.0038,0.0023,FFPE,SHH,Primary medulloblastoma tumor tissue,F
+MD_MB_059,0.0471,0.044,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_062,0.0032,0.0025,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_063,0.0256,0.023,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_064,0.0134,0.0114,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_065,0.001,0.0005,FFPE,WNT,Primary medulloblastoma tumor tissue,M
+MD_MB_066,0.0013,0.0003,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_067,0.0046,0.003,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_068,0.0027,0.0018,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_070,0.0114,0.0099,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_071,0.0055,0.0037,FFPE,SHH,Primary medulloblastoma tumor tissue,F
+MD_MB_072,0.0013,0.0004,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_073,0.0083,0.0062,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_074,0.0192,0.0172,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_075,0.01,0.0074,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_076,0.0258,0.0237,FFPE,SHH,Primary medulloblastoma tumor tissue,F
+MD_MB_077,0.0042,0.0031,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_078,0.0013,0.0008,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_079,0.0044,0.0036,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_081,0.0019,0.0012,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_084,0.0021,0.0009,FFPE,Group 3,Primary medulloblastoma tumor tissue,F
+MD_MB_085,0.0058,0.0048,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_086,0.0042,0.0031,FFPE,WNT,Primary medulloblastoma tumor tissue,F
+MD_MB_087,0.0049,0.0039,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_088,0.0022,0.0016,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_089,0.0081,0.0063,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_090,0.0017,0.0013,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_091,0.0026,0.002,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_093,0.0112,0.0092,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_094,0.0219,0.0179,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_095,0.0121,0.0107,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_096,0.0158,0.0128,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_097,0.0088,0.0074,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_098,0.0246,0.0225,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_099,0.0154,0.0136,FFPE,WNT,Primary medulloblastoma tumor tissue,F
+MD_MB_100,0.0088,0.007,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_101,0.0098,0.0084,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_102,0.0026,0.002,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_104,0.0045,0.0041,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_105,0.0179,0.0161,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_106,0.0019,0.0013,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_107,0.0045,0.0034,FFPE,SHH,Primary medulloblastoma tumor tissue,F
+MD_MB_108,0.0109,0.0093,FFPE,WNT,Primary medulloblastoma tumor tissue,F
+MD_MB_109,0.0073,0.0065,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_110,0.0109,0.0093,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_111,0.0116,0.0107,FFPE,WNT,Primary medulloblastoma tumor tissue,M
+MD_MB_112,0.0026,0.0009,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_113,0.0009,0.0003,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_114,0.0018,0.001,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_115,0.0029,0.0013,FFPE,SHH,Primary medulloblastoma tumor tissue,F
+MD_MB_116,0.0066,0.0051,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_117,0.001,0.0003,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_121,0.0047,0.0028,FFPE,SHH,Primary medulloblastoma tumor tissue,F
+MD_MB_122,0.0004,0.0,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_123,0.0004,0.0001,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_124,0.001,0.0005,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_125,0.0016,0.0004,FFPE,Group 3,Primary medulloblastoma tumor tissue,F
+MD_MB_126,0.0014,0.0005,FFPE,WNT,Primary medulloblastoma tumor tissue,M
+MD_MB_127,0.0185,0.017,FFPE,WNT,Primary medulloblastoma tumor tissue,F
+MD_MB_128,0.0042,0.003,FFPE,SHH,Primary medulloblastoma tumor tissue,F
+MD_MB_129,0.0023,0.001,FFPE,Group 3,Primary medulloblastoma tumor tissue,F
+MD_MB_131,0.0013,0.0005,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_132,0.0011,0.0004,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_133,0.02,0.0173,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_134,0.0007,0.0002,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_135,0.0011,0.0004,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_136,0.0029,0.0019,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_137,0.0011,0.0003,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_138,0.0011,0.0004,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_139,0.001,0.0004,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_140,0.0015,0.0007,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_141,0.0009,0.0004,FFPE,WNT,Primary medulloblastoma tumor tissue,M
+MD_MB_142,0.0034,0.0024,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_143,0.0018,0.0005,FFPE,WNT,Primary medulloblastoma tumor tissue,F
+MD_MB_144,0.0016,0.0008,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_145,0.0083,0.0063,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_146,0.0005,0.0001,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_147,0.0025,0.001,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_148,0.0258,0.0234,FFPE,SHH,Primary medulloblastoma tumor tissue,F
+MD_MB_149,0.004,0.0024,FFPE,WNT,Primary medulloblastoma tumor tissue,M
+MD_MB_150,0.0037,0.0025,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_151,0.0015,0.0003,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_152,0.0018,0.001,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_153,0.0018,0.0009,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_154,0.0081,0.0064,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_155,0.0031,0.0018,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_156,0.0018,0.0004,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_157,0.0012,0.0006,FFPE,WNT,Primary medulloblastoma tumor tissue,M
+MD_MB_158,0.0004,0.0,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_159,0.0014,0.0006,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_160,0.0022,0.0011,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_162,0.0026,0.0014,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_163,0.0038,0.0021,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_164,0.0007,0.0003,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_165,0.0013,0.0007,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_166,0.0012,0.0005,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_167,0.0085,0.0066,FFPE,WNT,Primary medulloblastoma tumor tissue,F
+MD_MB_168,0.003,0.0015,FFPE,SHH,Primary medulloblastoma tumor tissue,F
+MD_MB_169,0.0039,0.0023,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_170,0.0007,0.0002,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_171,0.0012,0.0002,FFPE,Group 3,Primary medulloblastoma tumor tissue,F
+MD_MB_172,0.0039,0.0027,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_173,0.0009,0.0003,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_174,0.0023,0.001,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_175,0.0069,0.0054,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_177,0.0025,0.0016,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_179,0.0073,0.0054,FFPE,SHH,Primary medulloblastoma tumor tissue,F
+MD_MB_180,0.0023,0.0012,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_182,0.0095,0.0074,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_183,0.0046,0.003,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_184,0.0017,0.0004,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_185,0.0017,0.0003,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_186,0.0026,0.001,FFPE,SHH,Primary medulloblastoma tumor tissue,F
+MD_MB_188,0.0042,0.0024,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_189,0.0014,0.0007,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_190,0.0042,0.003,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_192,0.0326,0.0302,FFPE,Group 3,Primary medulloblastoma tumor tissue,F
+MD_MB_193,0.0106,0.0082,FFPE,SHH,Primary medulloblastoma tumor tissue,M
+MD_MB_194,0.0077,0.0059,FFPE,Group 3,Primary medulloblastoma tumor tissue,F
+MD_MB_195,0.0064,0.0046,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_196,0.0071,0.0056,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_197,0.012,0.0099,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_198,0.0024,0.0012,FFPE,WNT,Primary medulloblastoma tumor tissue,M
+MD_MB_199,0.005,0.0029,FFPE,Group 3,Primary medulloblastoma tumor tissue,F
+MD_MB_200,0.0011,0.0005,FFPE,Group 4,Primary medulloblastoma tumor tissue,M
+MD_MB_201,0.0019,0.0009,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+MD_MB_202,0.0022,0.0008,FFPE,Group 4,Primary medulloblastoma tumor tissue,F
+MD_MB_203,0.0078,0.0056,FFPE,Group 3,Primary medulloblastoma tumor tissue,M
+F1,0.0005,0.0,frozen,NA,Normal foetal cerebellum,M
+F2,0.0014,0.0001,frozen,NA,Normal foetal cerebellum,F
+F3,0.0016,0.0002,frozen,NA,Normal foetal cerebellum,F
+F4,0.001,0.0001,frozen,NA,Normal foetal cerebellum,M
+A1,0.0007,0.0001,frozen,NA,Normal adult cerebellum,M
+A2,0.0012,0.0001,frozen,NA,Normal adult cerebellum,F
+A3,0.0004,0.0001,frozen,NA,Normal adult cerebellum,M
+A4,0.0002,0.0,frozen,NA,Normal adult cerebellum,M

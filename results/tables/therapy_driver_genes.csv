@@ -1,0 +1,29 @@
+group,gene,ensembl_id,mb_association_score,sm_approved_drug,sm_clinical,sm_pocket_or_family,ab_approved_drug,ab_clinical,n_drugs_or_candidates,highest_clinical_stage,example_drugs,common_essential_gene,druggability_tier
+WNT,CTNNB1,ENSG00000168036,0.7532,False,False,True,False,False,1,PHASE_2,"PRI-724 (PHASE_2; acute myeloid leukemia, acute myeloid leukemia by FAB classification)",False,clinical compound
+WNT,DDX3X,ENSG00000215301,0.6887,False,False,True,False,False,0,,,False,druggable (pocket or family)
+WNT,SMARCA4,ENSG00000127616,0.6159,False,False,True,False,False,0,,,False,druggable (pocket or family)
+WNT,TP53,ENSG00000141510,0.5362,False,True,True,False,False,9,PHASE_3,"TEPRASIRAN (PHASE_3; renal artery disease); SIREMADLIN (PHASE_2; acute myeloid leukemia, colorectal cancer); IDASANUTLIN (PHASE_3; acquired polycythemia vera, acute lymphoblastic leukemia); NAVTEMADLIN (PHASE_3; B-cell chronic lymphocytic leukemia, Merkel cell skin cancer)",False,clinical compound
+WNT,KMT2D,ENSG00000167548,0.6434,False,False,False,False,False,0,,,False,no tractability data
+SHH,PTCH1,ENSG00000185920,0.6735,False,False,False,False,False,0,,,False,no tractability data
+SHH,SUFU,ENSG00000107882,0.8049,False,False,True,False,False,0,,,False,druggable (pocket or family)
+SHH,SMO,ENSG00000128602,0.5873,True,False,True,False,False,10,PHASE_4,"SONIDEGIB (PHASE_4; acute leukemia, acute myeloid leukemia); TALADEGIB (PHASE_2; cancer, esophageal adenocarcinoma); SONIDEGIB PHOSPHATE (APPROVAL; basal cell carcinoma); BMS-833923 (PHASE_2; chronic myeloid leukemia, esophageal adenocarcinoma)",False,approved drug
+SHH,GLI2,ENSG00000074047,0.1949,False,False,True,False,False,0,,,False,druggable (pocket or family)
+SHH,MYCN,ENSG00000134323,0.3013,False,False,False,False,False,0,,,False,no tractability data
+SHH,TP53,ENSG00000141510,0.5362,False,True,True,False,False,9,PHASE_3,"TEPRASIRAN (PHASE_3; renal artery disease); SIREMADLIN (PHASE_2; acute myeloid leukemia, colorectal cancer); IDASANUTLIN (PHASE_3; acquired polycythemia vera, acute lymphoblastic leukemia); NAVTEMADLIN (PHASE_3; B-cell chronic lymphocytic leukemia, Merkel cell skin cancer)",False,clinical compound
+SHH,TERT,ENSG00000164362,0.0816,False,False,True,False,False,2,APPROVAL,"IMETELSTAT (APPROVAL; acquired polycythemia vera, acute myeloid leukemia); IMETELSTAT SODIUM (APPROVAL; anemia, breast cancer)",False,clinical compound
+SHH,KMT2D,ENSG00000167548,0.6434,False,False,False,False,False,0,,,False,no tractability data
+SHH,DDX3X,ENSG00000215301,0.6887,False,False,True,False,False,0,,,False,druggable (pocket or family)
+Group3,MYC,ENSG00000136997,0.118,False,False,False,False,False,0,,,True,no tractability data
+Group3,GFI1,ENSG00000162676,0.0497,False,False,False,False,False,0,,,False,no tractability data
+Group3,GFI1B,ENSG00000165702,0.0165,False,False,False,False,False,0,,,False,no tractability data
+Group3,OTX2,ENSG00000165588,0.1231,False,False,False,False,False,0,,,False,no tractability data
+Group3,SMARCA4,ENSG00000127616,0.6159,False,False,True,False,False,0,,,False,druggable (pocket or family)
+Group3,KBTBD4,ENSG00000123444,0.0811,False,False,False,False,False,0,,,False,no tractability data
+Group4,KDM6A,ENSG00000147050,0.463,False,False,True,False,False,0,,,False,druggable (pocket or family)
+Group4,PRDM6,ENSG00000061455,0.0878,False,False,False,False,False,0,,,False,no tractability data
+Group4,SNCAIP,ENSG00000064692,0.018,False,False,False,False,False,0,,,False,no tractability data
+Group4,ZMYM3,ENSG00000147130,0.3209,False,False,False,False,False,0,,,False,no tractability data
+Group4,KBTBD4,ENSG00000123444,0.0811,False,False,False,False,False,0,,,False,no tractability data
+Group4,MYCN,ENSG00000134323,0.3013,False,False,False,False,False,0,,,False,no tractability data
+Group4,OTX2,ENSG00000165588,0.1231,False,False,False,False,False,0,,,False,no tractability data
+Group4,CDK6,ENSG00000105810,0.2026,True,False,True,False,False,12,PHASE_4,"RIBOCICLIB (PHASE_4; HER2 positive breast carcinoma, acute lymphoblastic leukemia); AZD-5438 (PHASE_1); RONICICLIB (PHASE_2; cancer, non-small cell lung carcinoma); TRILACICLIB DIHYDROCHLORIDE (APPROVAL; small cell lung carcinoma)",False,approved drug

@@ -1,0 +1,9 @@
+step,probes
+probes on the Illumina 450k array (GPL13534 manifest),485512
+probes in the deposited GSE85212 beta matrix,321174
+"of these, on autosomes (the submitters had already removed X and Y)",321174
+without a known SNP at the probe,310101
+cg probes only (ch probes removed),308020
+without any missing value across 763 tumours,308020
+also present in the external GSE54880 matrix,308020
+selected by training-set variance for modelling,10000

@@ -1,0 +1,9 @@
+,,balanced_accuracy,balanced_accuracy,macro_f1,macro_f1,accuracy,accuracy
+,,mean,std,mean,std,mean,std
+task,model,,,,,,
+group,logreg,0.978,0.02,0.981,0.017,0.982,0.017
+group,mlp,0.982,0.016,0.985,0.013,0.985,0.012
+group,rf,0.978,0.015,0.984,0.011,0.985,0.011
+subtype,logreg,0.903,0.027,0.905,0.023,0.913,0.018
+subtype,mlp,0.868,0.052,0.875,0.047,0.892,0.039
+subtype,rf,0.871,0.029,0.878,0.034,0.898,0.02
