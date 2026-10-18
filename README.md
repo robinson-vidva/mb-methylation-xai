@@ -13,7 +13,7 @@ beyond what the code reproduces.
 
 ## Read the analysis
 
-Eight pages, each an executed notebook, in reading order. The links open the rendered pages;
+Nine pages, each an executed notebook, in reading order. The links open the rendered pages;
 the same files are in `docs/` and the notebooks in `notebooks/`.
 
 1. [The question and the data](https://robinson-vidva.github.io/mb-methylation-xai/01_question_and_data.html)
@@ -23,7 +23,8 @@ the same files are in `docs/` and the notebooks in `notebooks/`.
 5. [Methylation versus expression](https://robinson-vidva.github.io/mb-methylation-xai/05_methylation_vs_expression.html)
 6. [Pathways and therapy](https://robinson-vidva.github.io/mb-methylation-xai/06_pathways_and_therapy.html)
 7. [Gene clusters and pathway flow](https://robinson-vidva.github.io/mb-methylation-xai/07_gene_clusters_and_pathway_flow.html)
-8. [Conclusions](https://robinson-vidva.github.io/mb-methylation-xai/08_conclusions.html)
+8. [Genes: names, cancer roles and literature](https://robinson-vidva.github.io/mb-methylation-xai/08_genes_roles_and_literature.html)
+9. [Conclusions](https://robinson-vidva.github.io/mb-methylation-xai/09_conclusions.html)
 
 ## Data
 
@@ -54,7 +55,10 @@ scripts/06_therapy.py     Open Targets lookup: drugs, tractability and medullobl
                           every concordant gene and driver gene
 scripts/07_networks.py    gene clusters, co-methylation network, KEGG pathway flow for Hedgehog, Wnt and
                           the photoreceptor program, pathway activity per tumour
-scripts/make_report.py    writes the eight report notebooks; run_all.sh executes them and exports
+scripts/08_gene_annotation.py  gene names, oncogene and tumour suppressor status (OncoKB, COSMIC), Reactome
+                          pathways, PubMed counts in medulloblastoma, and the reading of each methylation
+                          change against the gene's role
+scripts/make_report.py    writes the nine report notebooks; run_all.sh executes them and exports
                           them to docs/ as HTML
 ```
 
@@ -199,6 +203,17 @@ This is the part the matched expression data makes possible.
    every level, from OTX2, NRL and NR2E3 to GNAT1, SAG and AIPL1, the mark of activation by
    demethylation. Figures: `results/figures/pathway_flow.png`, `results/figures/pathway_activity.png`.
 
+7. **Gene roles and literature.** Every gene in the analysis was annotated with its full name,
+   oncogene or tumour suppressor status (OncoKB and the COSMIC Cancer Gene Census), Reactome
+   pathways and a PubMed count with medulloblastoma. Of 464 genes, 46 carry a cancer role, and
+   262 of the 325 concordant genes have never been mentioned with medulloblastoma: the methylation
+   signature is made of lineage genes. The one informative exception is WNT, where the tumour
+   suppressors RNF43, ZNRF3 and APCDD1 are switched on together with AXIN2, NKD1 and NOTUM. They are
+   the negative feedback targets of beta-catenin, induced but powerless against a CTNNB1 mutation
+   downstream of them, while the Wnt antagonist SFRP1 is silenced by hypermethylation. IGF1 is the
+   one oncogene switched on in Group 3. Tables: `results/tables/gene_annotation.csv`,
+   `results/tables/gene_regulation_concordant.csv`.
+
 ### Related work
 
 A published R package, MBMethPred (Sharif Rahmani et al. 2023, Frontiers in Genetics,
@@ -212,7 +227,8 @@ The numbers above come from the run that produced `results/`, on Linux (x86_64, 
 wheel). The pipeline was rerun from the same code, seeds and GEO files on a second machine
 (Windows 11, AMD Ryzen 5 5500U, PyTorch 2.14.1 CPU wheel, MKL and oneDNN) and the tables from that
 run are in `results_windows/tables/`. The QC tables (`qc_*`), the Open Targets tables (`therapy_*`) and the cluster, network and
-pathway tables (`gene_clusters*`, `network_*`, `pathway_*`) in `results/` were computed on the Windows machine; they depend only on deterministic steps and on
+pathway tables (`gene_clusters*`, `network_*`, `pathway_*`) and the gene annotation tables (`gene_annotation*`,
+`gene_regulation_*`, `gene_literature_*`) in `results/` were computed on the Windows machine; they depend only on deterministic steps and on
 the concordant gene list, which was identical on both machines. Everything computed by scikit-learn, scipy and statsmodels
 reproduced exactly: preprocessing, logistic regression and random forest cross-validation,
 the differential analysis, the concordant genes, the pathway enrichment and the driver gene

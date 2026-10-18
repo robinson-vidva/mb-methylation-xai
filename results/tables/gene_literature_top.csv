@@ -1,0 +1,252 @@
+gene,rank,pmid,year,title,journal
+ABCA1,1,41510281,2025,Erythrocyte-microglia crosstalk contributing to sex differences in pediatric brain tumorigenesis.,Research square
+ABCA1,2,24219920,2013,ABC transporter activity linked to radiation resistance and molecular subtype in pediatric medulloblastoma.,Experimental hematology & oncology
+ACTC1,1,34337410,2021,Expression of cell type incongruent alpha-cardiac actin 1 subunit in medulloblastoma reveals a novel mechanism for cancer cell survival and control of migration.,Neuro-oncology advances
+AFP,1,20301398,1993,Simpson-Golabi-Behmel Syndrome Type 1.,
+AFP,2,25119569,2014,[Germ cell and embryonal tumors].,Der Radiologe
+AFP,3,89937,1979,Radioimmunoassay of alpha-fetoprotein in children with primary intracranial tumors.,Child's brain
+APC,1,30521203,2023,Turcot Syndrome.,
+APC,2,29753700,2018,Spectrum and prevalence of genetic predisposition in medulloblastoma: a retrospective genetic study and prospective validation in a clinical trial cohort.,The Lancet. Oncology
+APC,3,40967259,2025,Evolving Biology and Therapy of WNT-Activated Medulloblastoma.,Journal of the National Comprehensive Cancer Network : JNCCN
+ATP1A2,1,34822110,2022,Identification of ITPR1 as a Hub Gene of Group 3 Medulloblastoma and Coregulated Genes with Potential Prognostic Values.,Journal of molecular neuroscience : MN
+AXIN1,1,23525311,2013,"CTNNB1, AXIN1 and APC expression analysis of different medulloblastoma variants.","Clinics (Sao Paulo, Brazil)"
+AXIN1,2,12209999,2002,Role of Wnt pathway in medulloblastoma oncogenesis.,International journal of cancer
+AXIN1,3,11585731,2001,"Deletions of AXIN1, a component of the WNT/wingless pathway, in sporadic medulloblastomas.",Cancer research
+AXIN2,1,30292066,2019,Targeting DDX3 in Medulloblastoma Using the Small Molecule Inhibitor RK-33.,Translational oncology
+AXIN2,2,25821199,2015,"Biflavone Ginkgetin, a Novel Wnt Inhibitor, Suppresses the Growth of Medulloblastoma.",Natural products and bioprospecting
+AXIN2,3,39851951,2025,Single-Cell RNA Sequencing Reveals LEF1-Driven Wnt Pathway Activation as a Shared Oncogenic Program in Hepatoblastoma and Medulloblastoma.,"Current oncology (Toronto, Ont.)"
+BOC,1,36765685,2023,Targeting the Hedgehog Pathway in Rhabdomyosarcoma.,Cancers
+BOC,2,25263791,2014,The Shh receptor Boc promotes progression of early medulloblastoma to advanced tumors.,Developmental cell
+BOC,3,25313956,2014,Think inside the BOCs: a mechanism underlying medulloblastoma progression.,Developmental cell
+CCND1,1,41408466,2026,Identification of Raptor and GLI1 as USP37 substrates highlight its context-specific function in medulloblastoma cells.,Oncogene
+CCND1,2,39095557,2024,Identification and validation of miRNA-target genes network in pediatric brain tumors.,Scientific reports
+CCND1,3,30292066,2019,Targeting DDX3 in Medulloblastoma Using the Small Molecule Inhibitor RK-33.,Translational oncology
+CCND2,1,27854409,1993,MPPH Syndrome.,
+CCND2,2,31664194,2019,Recurrent noncoding U1 snRNA mutations drive cryptic splicing in SHH medulloblastoma.,Nature
+CCND2,3,21047732,2010,Regulation of cell cycle genes and induction of senescence by overexpression of OTX2 in medulloblastoma cell lines.,Molecular cancer research : MCR
+CD200,1,25598973,2014,CD200 in CNS tumor-induced immunosuppression: the role for CD200 pathway blockade in targeted immunotherapy.,Journal for immunotherapy of cancer
+CDCA7L,1,27013196,2016,JPO2/CDCA7L and LEDGF/p75 Are Novel Mediators of PI3K/AKT Signaling and Aggressive Phenotypes in Medulloblastoma.,Cancer research
+CDK6,1,16314645,2005,Genomic and protein expression profiling identifies CDK6 as novel independent prognostic marker in medulloblastoma.,Journal of clinical oncology : official journal of the American Society of Clinical Oncology
+CDK6,2,35489737,2022,Molecular Stratification of Medulloblastoma: Clinical Outcomes and Therapeutic Interventions.,Anticancer research
+CDK6,3,32145124,2020,MiR-1253 exerts tumor-suppressive effects in medulloblastoma via inhibition of CDK6 and CD276 (B7-H3).,"Brain pathology (Zurich, Switzerland)"
+CIDEB,1,26540407,2015,The p53 tumor suppressor protein protects against chemotherapeutic stress and apoptosis in human medulloblastoma cells.,Aging
+CLIC1,1,32097463,2020,Chloride intracellular channel 1 cooperates with potassium channel EAG2 to promote medulloblastoma growth.,The Journal of experimental medicine
+CMKLR1,1,41249112,2025,CMKLR1/PKA signaling reinforces sonic hedgehog pathway to promote medulloblastoma pathogenesis.,Oncogenesis
+COL1A2,1,21325292,2011,Rapid diagnosis of medulloblastoma molecular subgroups.,Clinical cancer research : an official journal of the American Association for Cancer Research
+COL1A2,2,17653508,2008,Type I collagen is overexpressed in medulloblastoma as a component of tumor microenvironment.,Journal of neuro-oncology
+COL1A2,3,18664619,2008,Global analysis of the medulloblastoma epigenome identifies disease-subgroup-specific inactivation of COL1A2.,Neuro-oncology
+COLEC12,1,37083768,2023,FAIM2 is correlated with metastasis of medulloblastoma through bioinformatics analysis.,Medicine
+CRX,1,29533784,2018,NRL and CRX Define Photoreceptor Identity and Reveal Subgroup-Specific Dependencies in Medulloblastoma.,Cancer cell
+CRX,2,34192607,2021,"Downregulation of CRX, a Group 3-specific oncogenic transcription factor, inhibits TGF-β/activin signaling in medulloblastoma cells.",Biochemical and biophysical research communications
+CRX,3,19936203,2009,CRX is a diagnostic marker of retinal and pineal lineage tumors.,PloS one
+CTNNB1,1,33242424,2020,Integrated Proteogenomic Characterization across Major Histological Types of Pediatric Brain Cancer.,Cell
+CTNNB1,2,33405951,2021,Outcomes by Clinical and Molecular Features in Children With Medulloblastoma Treated With Risk-Adapted Therapy: Results of an International Phase III Trial (SJMB03).,Journal of clinical oncology : official journal of the American Society of Clinical Oncology
+CTNNB1,3,29753700,2018,Spectrum and prevalence of genetic predisposition in medulloblastoma: a retrospective genetic study and prospective validation in a clinical trial cohort.,The Lancet. Oncology
+CUX1,1,40760093,2025,Of travelling homeoproteins and medulloblastomas.,Oncogene
+CUX1,2,25096634,2014,The transcription factor Cux1 in cerebellar granule cell development and medulloblastoma pathogenesis.,"Cerebellum (London, England)"
+CXCR4,1,25400097,2016,Role of CXCL12 and CXCR4 in normal cerebellar development and medulloblastoma.,International journal of cancer
+CXCR4,2,27713908,2016,PPM1D/WIP1 in medulloblastoma.,Oncoscience
+CXCR4,3,29771176,2018,Potential use of CXCL12/CXCR4 and sonic hedgehog pathways as therapeutic targets in medulloblastoma.,"Acta oncologica (Stockholm, Sweden)"
+DAPK1,1,17206475,2007,Frequent but borderline methylation of p16 (INK4a) and TIMP3 in medulloblastoma and sPNET revealed by quantitative analyses.,Journal of neuro-oncology
+DCC,1,9121761,1997,"Identification and characterization of neogenin, a DCC-related gene.",Oncogene
+DDX31,1,24608801,2014,RNA binding protein-mediated post-transcriptional gene regulation in medulloblastoma.,Molecules and cells
+DDX3X,1,33405951,2021,Outcomes by Clinical and Molecular Features in Children With Medulloblastoma Treated With Risk-Adapted Therapy: Results of an International Phase III Trial (SJMB03).,Journal of clinical oncology : official journal of the American Society of Clinical Oncology
+DDX3X,2,39062517,2024,The Role of the RNA Helicase DDX3X in Medulloblastoma Progression.,Biomolecules
+DDX3X,3,24608801,2014,RNA binding protein-mediated post-transcriptional gene regulation in medulloblastoma.,Molecules and cells
+DKK1,1,32610314,2020,RBM5 Acts as Tumor Suppressor in Medulloblastoma through Regulating Wnt/β-Catenin Signaling.,European neurology
+DKK1,2,20823417,2011,Medulloblastoma comprises four distinct molecular variants.,Journal of clinical oncology : official journal of the American Society of Clinical Oncology
+DKK1,3,25303160,2014,A patient with medulloblastoma in its early developmental stage.,Journal of neurosurgery. Pediatrics
+DKK2,1,23567267,2013,Epigenetic Silencing of DKK3 in medulloblastoma.,International journal of molecular sciences
+DKK2,2,24695855,2014,"SHH, WNT, and NOTCH pathways in medulloblastoma: when cancer stem cells maintain self-renewal and differentiation properties.",Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery
+DKK4,1,23567267,2013,Epigenetic Silencing of DKK3 in medulloblastoma.,International journal of molecular sciences
+DKK4,2,39851951,2025,Single-Cell RNA Sequencing Reveals LEF1-Driven Wnt Pathway Activation as a Shared Oncogenic Program in Hepatoblastoma and Medulloblastoma.,"Current oncology (Toronto, Ont.)"
+EBF3,1,22684456,2012,Apples to origins: identifying brain tumor stem cell genes by comparing transcriptomes of normal and cancer stem cells.,Cancer discovery
+EOMES,1,36131014,2022,Failure of human rhombic lip differentiation underlies medulloblastoma formation.,Nature
+EOMES,2,41998565,2026,Integration of human and mouse single-cell transcriptomes of the developing cerebellum nominates cells-of-origin for group 3 and 4 medulloblastoma.,BMC cancer
+EPHA3,1,41200151,2025,Beyond cell-cell contact: therapeutic potential of Eph signaling in central nervous system tumors.,Frontiers in molecular neuroscience
+EPHA3,2,22904683,2012,Identification of cell surface targets through meta-analysis of microarray data.,"Neoplasia (New York, N.Y.)"
+EPHA3,3,35978432,2022,Novel neoplasms associated with syndromic pediatric medulloblastoma: integrated pathway delineation for personalized therapy.,Cell communication and signaling : CCS
+EYA1,1,38486486,2024,A Benzarone Derivative Inhibits EYA to Suppress Tumor Growth in SHH Medulloblastoma.,Cancer research
+EYA1,2,25816987,2015,The Eya1 phosphatase promotes Shh signaling during hindbrain development and oncogenesis.,Developmental cell
+EYA1,3,41228218,2025,Single-Cell Heterogeneity of Epigenetic Factor Regulation Deciphers Alteration of RNA Metabolism During Proliferative SHH-Medulloblastoma.,Cancers
+EYS,1,16195802,2005,The therapy of infantile malignant brain tumors: current status?,Journal of neuro-oncology
+FAP,1,30521203,2023,Turcot Syndrome.,
+FAP,2,10921328,2000,[Turcot syndrome].,Nihon rinsho. Japanese journal of clinical medicine
+FAP,3,9215849,1997,Brain tumor-polyposis syndrome: two genetic diseases?,Journal of clinical oncology : official journal of the American Society of Clinical Oncology
+FEZ1,1,42865727,2026,Identification and validation of feature genes using a ferroptosis-informed analytical framework in medulloblastoma.,Frontiers in pediatrics
+FMOD,1,32466393,2020,Determination of a Tumor-Promoting Microenvironment in Recurrent Medulloblastoma: A Multi-Omics Study of Cerebrospinal Fluid.,Cancers
+FOXP2,1,41998565,2026,Integration of human and mouse single-cell transcriptomes of the developing cerebellum nominates cells-of-origin for group 3 and 4 medulloblastoma.,BMC cancer
+GAS1,1,36765685,2023,Targeting the Hedgehog Pathway in Rhabdomyosarcoma.,Cancers
+GAS1,2,14556242,2003,The hedgehog signaling network.,American journal of medical genetics. Part A
+GFI1,1,35489737,2022,Molecular Stratification of Medulloblastoma: Clinical Outcomes and Therapeutic Interventions.,Anticancer research
+GFI1,2,28401061,2017,Transcription Factor GFI1B in Health and Disease.,Frontiers in oncology
+GFI1,3,25043047,2014,Enhancer hijacking activates GFI1 family oncogenes in medulloblastoma.,Nature
+GFI1B,1,28401061,2017,Transcription Factor GFI1B in Health and Disease.,Frontiers in oncology
+GFI1B,2,39322849,2024,Prediction of the 3D cancer genome from whole-genome sequencing using InfoHiC.,Molecular systems biology
+GFI1B,3,35489737,2022,Molecular Stratification of Medulloblastoma: Clinical Outcomes and Therapeutic Interventions.,Anticancer research
+GLI1,1,29274272,2018,The role of the Hedgehog signaling pathway in cancer: A comprehensive review.,Bosnian journal of basic medical sciences
+GLI1,2,32957513,2020,Hedgehog Signaling and Truncated GLI1 in Cancer.,Cells
+GLI1,3,29662197,2018,MEKK2 and MEKK3 suppress Hedgehog pathway-dependent medulloblastoma by inhibiting GLI1 function.,Oncogene
+GLI2,1,33741928,2021,The transcriptional landscape of Shh medulloblastoma.,Nature communications
+GLI2,2,35489737,2022,Molecular Stratification of Medulloblastoma: Clinical Outcomes and Therapeutic Interventions.,Anticancer research
+GLI2,3,40475618,2025,RAC1 Regulates Shh-Medulloblastoma Growth via GLI-Mediated Transcription.,bioRxiv : the preprint server for biology
+GLI3,1,33249504,2021,GLI3 Is Associated With Neuronal Differentiation in SHH-Activated and WNT-Activated Medulloblastoma.,Journal of neuropathology and experimental neurology
+GLI3,2,32245491,2020,"GLI3: a mediator of genetic diseases, development and cancer.",Cell communication and signaling : CCS
+GLI3,3,27496710,2016,Nestin Mediates Hedgehog Pathway Tumorigenesis.,Cancer research
+GPX8,1,33292274,2020,Extracellular vesicle-associated miR-135b and -135a regulate stemness in Group 4 medulloblastoma cells by targeting angiomotin-like 2.,Cancer cell international
+GSK3B,1,31540917,2019,GSK-3 modulates SHH-driven proliferation in postnatal cerebellar neurogenesis and medulloblastoma.,"Development (Cambridge, England)"
+HDAC9,1,20413433,2010,HDAC5 and HDAC9 in medulloblastoma: novel markers for risk stratification and role in tumor cell growth.,Clinical cancer research : an official journal of the American Association for Cancer Research
+HEPACAM,1,41216458,2025,Genetic markers and canonical pathways associated with medulloblastoma: a systematic review and meta-analysis.,Translational pediatrics
+HHIP,1,39010056,2024,CircRNA and lncRNA-associated competing endogenous RNA networks in medulloblastoma: a scoping review.,Cancer cell international
+HHIP,2,35831316,2022,The HHIP-AS1 lncRNA promotes tumorigenicity through stabilization of dynein complex 1 in human SHH-driven tumors.,Nature communications
+HHIP,3,31036756,2019,"Genomic testing, tumor microenvironment and targeted therapy of Hedgehog-related human cancers.","Clinical science (London, England : 1979)"
+IGF1,1,41857769,2026,Targeting tumor-associated macrophage-induced IGF1/PI3K/Zic1 axis triggers SHH medulloblastoma regression and chemosensitization.,Neuro-oncology
+IGF1,2,34021242,2021,Cryptic developmental events determine medulloblastoma radiosensitivity and cellular heterogeneity without altering transcriptomic profile.,Communications biology
+IGF1,3,25885794,2015,Estrogen Receptor-β Up-Regulates IGF1R Expression and Activity to Inhibit Apoptosis and Increase Growth of Medulloblastoma.,Endocrinology
+IMPG2,1,42157926,2026,Elucidating Tumorigenesis Mechanisms and Assessing Immunotherapeutic Efficacy in Patient-Derived Medulloblastoma Organoid Models.,International journal of biological sciences
+IMPG2,2,34178626,2021,"Classifying Medulloblastoma Subgroups Based on Small, Clinically Achievable Gene Sets.",Frontiers in oncology
+IMPG2,3,34192607,2021,"Downregulation of CRX, a Group 3-specific oncogenic transcription factor, inhibits TGF-β/activin signaling in medulloblastoma cells.",Biochemical and biophysical research communications
+KBTBD4,1,28726821,2017,The whole-genome landscape of medulloblastoma subtypes.,Nature
+KBTBD4,2,39939763,2025,Converging mechanism of UM171 and KBTBD4 neomorphic cancer mutations.,Nature
+KBTBD4,3,35379950,2022,Disease-associated KBTBD4 mutations in medulloblastoma elicit neomorphic ubiquitylation activity to promote CoREST degradation.,Cell death and differentiation
+KDM6A,1,33253789,2021,"Histone demethylase UTX/KDM6A enhances tumor immune cell recruitment, promotes differentiation and suppresses medulloblastoma.",Cancer letters
+KDM6A,2,35489737,2022,Molecular Stratification of Medulloblastoma: Clinical Outcomes and Therapeutic Interventions.,Anticancer research
+KDM6A,3,37524406,2023,First report of medulloblastoma in a patient with MUTYH-associated polyposis.,Neuropathology and applied neurobiology
+KHDRBS2,1,34178626,2021,"Classifying Medulloblastoma Subgroups Based on Small, Clinically Achievable Gene Sets.",Frontiers in oncology
+KIF7,1,29274272,2018,The role of the Hedgehog signaling pathway in cancer: A comprehensive review.,Bosnian journal of basic medical sciences
+KL,1,24454961,2014,RHPS4 G-quadruplex ligand induces anti-proliferative effects in brain tumor cells.,PloS one
+KMT2D,1,37822508,2023,KMT2D suppresses Sonic hedgehog-driven medulloblastoma progression and metastasis.,iScience
+KMT2D,2,37961118,2023,Heterozygous Kmt2d loss diminishes enhancers to render medulloblastoma cells vulnerable to combinatory inhibition of lysine demethylation and oxidative phosphorylation.,bioRxiv : the preprint server for biology
+KMT2D,3,33172502,2020,Clinical and mutational profiles of adult medulloblastoma groups.,Acta neuropathologica communications
+LEF1,1,41521603,2026,"Significance of LEF1, ROR2, Cyclin D1, and DNA Methylation Profiling in the Molecular Classification and Prognosis Prediction of Pediatric Medulloblastoma.",Balkan medical journal
+LEF1,2,39851951,2025,Single-Cell RNA Sequencing Reveals LEF1-Driven Wnt Pathway Activation as a Shared Oncogenic Program in Hepatoblastoma and Medulloblastoma.,"Current oncology (Toronto, Ont.)"
+LEF1,3,36096860,2022,Immunohistochemical staining of LEF-1 is a useful marker for distinguishing WNT-activated medulloblastomas.,Diagnostic pathology
+LGALS1,1,32747535,2020,Modeling SHH-driven medulloblastoma with patient iPS cell-derived neural stem cells.,Proceedings of the National Academy of Sciences of the United States of America
+LGR5,1,30297799,2018,A slow-cycling LGR5 tumour population mediates basal cell carcinoma relapse after therapy.,Nature
+LGR5,2,19860666,2009,Hedgehog target genes: mechanisms of carcinogenesis induced by aberrant hedgehog signaling activation.,Current molecular medicine
+LGR5,3,24252460,2013,G-protein coupled receptor expression patterns delineate medulloblastoma subgroups.,Acta neuropathologica communications
+LMX1A,1,41929097,2026,Developmental determinants of male bias in medulloblastoma.,bioRxiv : the preprint server for biology
+LOXL1,1,30050750,2018,LncRNA LOXL1-AS1 Promotes the Proliferation and Metastasis of Medulloblastoma by Activating the PI3K/AKT Pathway.,Analytical cellular pathology (Amsterdam)
+LOXL1,2,30944201,2019,"LOXL1-AS1 predicts poor prognosis and promotes cell proliferation, migration, and invasion in osteosarcoma.",Bioscience reports
+LOXL1,3,38689348,2024,LOXL1-AS1 contributes to metastasis in sonic-hedgehog medulloblastoma by promoting cancer stem-like phenotypes.,Journal of experimental & clinical cancer research : CR
+LRP1B,1,20564348,2010,Members of the low-density lipoprotein receptor-related proteins provide a differential molecular signature between parental and CD133+ DAOY medulloblastoma cells.,Molecular carcinogenesis
+LRP1B,2,42865727,2026,Identification and validation of feature genes using a ferroptosis-informed analytical framework in medulloblastoma.,Frontiers in pediatrics
+LRP5,1,20564348,2010,Members of the low-density lipoprotein receptor-related proteins provide a differential molecular signature between parental and CD133+ DAOY medulloblastoma cells.,Molecular carcinogenesis
+LUM,1,9796988,1998,A four-hour topotecan infusion achieves cytotoxic exposure throughout the neuraxis in the nonhuman primate model: implications for treatment of children with metastatic medulloblastoma.,Clinical cancer research : an official journal of the American Association for Cancer Research
+MAPK8IP3,1,28481393,2018,Differential Expression of microRNAs in Medulloblastoma and the Potential Functional Consequences.,Turkish neurosurgery
+MMP14,1,22258034,2012,Vasculogenic mimicry and its clinical significance in medulloblastoma.,Cancer biology & therapy
+MMP14,2,27625820,2012,"Protein expression of matrix metalloproteinase (MMP-1, -2, -3, -9 and -14) in Ewing family tumors and medulloblastomas of pediatric patients.",Journal of pediatric genetics
+MTSS1,1,17925019,2007,Developmental expression and differentiation-related neuron-specific splicing of metastasis suppressor 1 (Mtss1) in normal and transformed cerebellar cells.,BMC developmental biology
+MYC,1,36368321,2022,Cancer-selective metabolic vulnerabilities in MYC-amplified medulloblastoma.,Cancer cell
+MYC,2,27040285,2016,Risk stratification of childhood medulloblastoma in the molecular era: the current consensus.,Acta neuropathologica
+MYC,3,40335697,2025,"Oncogene aberrations drive medulloblastoma progression, not initiation.",Nature
+MYCN,1,27040285,2016,Risk stratification of childhood medulloblastoma in the molecular era: the current consensus.,Acta neuropathologica
+MYCN,2,40335697,2025,"Oncogene aberrations drive medulloblastoma progression, not initiation.",Nature
+MYCN,3,31788908,2020,Modeling pediatric medulloblastoma.,"Brain pathology (Zurich, Switzerland)"
+MYT1L,1,24252690,2013,Identification of a neuronal transcription factor network involved in medulloblastoma development.,Acta neuropathologica communications
+NDRG1,1,33334021,2020,Novel Thiosemicarbazones Sensitize Pediatric Solid Tumor Cell-Types to Conventional Chemotherapeutics through Multiple Molecular Mechanisms.,Cancers
+NDRG1,2,22832581,2012,"Subgroup-specific structural variation across 1,000 medulloblastoma genomes.",Nature
+NET1,1,15492278,2004,Modulation of gene expression in human central nervous system tumors under methionine deprivation-induced stress.,Cancer research
+NEUROG1,1,20515335,2010,"Upregulation of SOX2, NOTCH1, and ID1 in supratentorial primitive neuroectodermal tumors: a distinct differentiation pattern from that of medulloblastomas.",Journal of neurosurgery. Pediatrics
+NEUROG1,2,22476608,2012,FABP4 is a candidate marker of cerebellar liponeurocytomas.,Journal of neuro-oncology
+NFASC,1,37745846,2023,MBMethPred: a computational framework for the accurate classification of childhood medulloblastoma subgroups using data integration and AI-based approaches.,Frontiers in genetics
+NKD1,1,39851951,2025,Single-Cell RNA Sequencing Reveals LEF1-Driven Wnt Pathway Activation as a Shared Oncogenic Program in Hepatoblastoma and Medulloblastoma.,"Current oncology (Toronto, Ont.)"
+NRL,1,29533784,2018,NRL and CRX Define Photoreceptor Identity and Reveal Subgroup-Specific Dependencies in Medulloblastoma.,Cancer cell
+OPCML,1,17239010,2007,Expression of cellular adhesion molecule 'OPCML' is down-regulated in gliomas and other brain tumours.,Neuropathology and applied neurobiology
+OTX2,1,36131014,2022,Failure of human rhombic lip differentiation underlies medulloblastoma formation.,Nature
+OTX2,2,30797919,2019,OTX1 and OTX2 Genes in Medulloblastoma.,World neurosurgery
+OTX2,3,41338221,2025,Targeting TET3 suppresses group 3 medulloblastoma stemness and progression via impairing hypomethylation of Otx2 super-enhancer.,Cell reports. Medicine
+PAM,1,25601471,2015,Targeting the PI3K/AKT/mTOR signaling pathway in medulloblastoma.,Current molecular medicine
+PCDH9,1,40986169,2025,"The dual role of PCDH9 in tumors, neurological and developmental diseases.","Medical oncology (Northwood, London, England)"
+PCDH9,2,30588243,2018,Decoding Somatic Driver Gene Mutations and Affected Signaling Pathways in Human Medulloblastoma Subgroups.,Journal of Cancer
+PDC,1,34192607,2021,"Downregulation of CRX, a Group 3-specific oncogenic transcription factor, inhibits TGF-β/activin signaling in medulloblastoma cells.",Biochemical and biophysical research communications
+PPP2R2C,1,32445667,2020,Ubiquitin ligases and medulloblastoma: genetic markers of the four consensus subgroups identified through transcriptome datasets.,Biochimica et biophysica acta. Molecular basis of disease
+PPP2R2C,2,30810905,2019,Differential Expression of Genes for Ubiquitin Ligases in Medulloblastoma Subtypes.,"Cerebellum (London, England)"
+PRAME,1,29615432,2018,Adoptive Immunotherapy Using PRAME-Specific T Cells in Medulloblastoma.,Cancer research
+PRAME,2,21359415,2011,PRAME gene expression profile in medulloblastoma.,Arquivos de neuro-psiquiatria
+PRAME,3,14576832,2003,Comparison of medulloblastoma and normal neural transcriptomes identifies a restricted set of activated genes.,Oncogene
+PRDM6,1,38992221,2024,PRDM6 promotes medulloblastoma by repressing chromatin accessibility and altering gene expression.,Scientific reports
+PRDM6,2,28726821,2017,The whole-genome landscape of medulloblastoma subtypes.,Nature
+PRDM6,3,37693484,2023,PRDM6 promotes medulloblastoma by repressing chromatin accessibility and altering gene expression.,bioRxiv : the preprint server for biology
+PRLR,1,35978432,2022,Novel neoplasms associated with syndromic pediatric medulloblastoma: integrated pathway delineation for personalized therapy.,Cell communication and signaling : CCS
+PTCH1,1,29274272,2018,The role of the Hedgehog signaling pathway in cancer: A comprehensive review.,Bosnian journal of basic medical sciences
+PTCH1,2,29373110,2018,Gorlin Syndrome.,Actas dermo-sifiliograficas
+PTCH1,3,32296180,2020,Germline Elongator mutations in Sonic Hedgehog medulloblastoma.,Nature
+PTCH2,1,29274272,2018,The role of the Hedgehog signaling pathway in cancer: A comprehensive review.,Bosnian journal of basic medical sciences
+PTCH2,2,9931336,1999,"Isolation and characterization of human patched 2 (PTCH2), a putative tumour suppressor gene inbasal cell carcinoma and medulloblastoma on chromosome 1p32.",Human molecular genetics
+PTCH2,3,16707443,2006,Lack of Rb and p53 delays cerebellar development and predisposes to large cell anaplastic medulloblastoma through amplification of N-Myc and Ptch2.,Cancer research
+PTGDS,1,35836891,2022,Prognostic role of NLGN2 and PTGDS in medulloblastoma based on gene expression omnibus.,American journal of translational research
+PTGDS,2,34055594,2021,Multiple Reaction Monitoring-Based Targeted Assays for the Validation of Protein Biomarkers in Brain Tumors.,Frontiers in oncology
+RBM24,1,34178626,2021,"Classifying Medulloblastoma Subgroups Based on Small, Clinically Achievable Gene Sets.",Frontiers in oncology
+RBM24,2,41228218,2025,Single-Cell Heterogeneity of Epigenetic Factor Regulation Deciphers Alteration of RNA Metabolism During Proliferative SHH-Medulloblastoma.,Cancers
+RCVRN,1,34192607,2021,"Downregulation of CRX, a Group 3-specific oncogenic transcription factor, inhibits TGF-β/activin signaling in medulloblastoma cells.",Biochemical and biophysical research communications
+RHO,1,31888022,2019,Inhibition of Rho-Associated Kinase Suppresses Medulloblastoma Growth.,Cancers
+RHO,2,22528793,2012,Rho GTPases in primary brain tumor malignancy and invasion.,Journal of neuro-oncology
+RHO,3,40664675,2025,Simvastatin suppresses spinal cord metastasis of medulloblastoma at clinically significant doses.,Cell death & disease
+RNF43,1,39851951,2025,Single-Cell RNA Sequencing Reveals LEF1-Driven Wnt Pathway Activation as a Shared Oncogenic Program in Hepatoblastoma and Medulloblastoma.,"Current oncology (Toronto, Ont.)"
+RNF43,2,41742617,2026,Wnt Signaling in Tumorigenesis: From Molecular Mechanisms to Precision Therapeutic Targets.,Current topics in medicinal chemistry
+RORB,1,33345275,2021,Development of a prognostic model based on an immunogenomic landscape analysis of medulloblastoma.,Bioscience reports
+RREB1,1,40777316,2025,Ras-Responsive Element Binding Protein 1 regulates survival of Group 3 medulloblastoma.,bioRxiv : the preprint server for biology
+SAG,1,20024066,2010,Small-molecule modulators of the Sonic Hedgehog signaling pathway.,Molecular bioSystems
+SAG,2,35171398,2022,Saikosaponin B1 and Saikosaponin D inhibit tumor growth in medulloblastoma allograft mice via inhibiting the Hedgehog signaling pathway.,Journal of natural medicines
+SAG,3,32576205,2020,Phosphoproteomics of short-term hedgehog signaling in human medulloblastoma cells.,Cell communication and signaling : CCS
+SFRP1,1,17452975,2007,Loss of suppressor-of-fused function promotes tumorigenesis.,Oncogene
+SFRP1,2,22027544,2011,Medulloblastomas in adults: prognostic factors and lessons from paediatrics.,Current opinion in neurology
+SFRP1,3,20823417,2011,Medulloblastoma comprises four distinct molecular variants.,Journal of clinical oncology : official journal of the American Society of Clinical Oncology
+SHH,1,35168417,2022,Medulloblastoma: WHO 2021 and Beyond.,Pediatric and developmental pathology : the official journal of the Society for Pediatric Pathology and the Paediatric Pathology Society
+SHH,2,31574483,2019,Medulloblastoma in the age of molecular subgroups: a review.,Journal of neurosurgery. Pediatrics
+SHH,3,31341285,2019,Resolving medulloblastoma cellular architecture by single-cell genomics.,Nature
+SLC8A1,1,37745846,2023,MBMethPred: a computational framework for the accurate classification of childhood medulloblastoma subgroups using data integration and AI-based approaches.,Frontiers in genetics
+SLFN11,1,36273330,2023,Epigenetic upregulation of Schlafen11 renders  WNT- and SHH-activated medulloblastomas sensitive to cisplatin.,Neuro-oncology
+SLFN11,2,40531330,2025,From predictive biomarker to therapeutic target: the dual role of SLFN11 in chemotherapy sensitivity.,Cancer chemotherapy and pharmacology
+SLFN11,3,42686854,2026,SLFN11 enhances cisplatin sensitivity in pediatric cancer via activation of stress-response and suppression of survival pathways.,British journal of cancer
+SLITRK6,1,14557068,2003,Human SLITRK family genes: genomic organization and expression profiling in normal brain and brain tumor tissue.,Gene
+SMARCA4,1,33405951,2021,Outcomes by Clinical and Molecular Features in Children With Medulloblastoma Treated With Risk-Adapted Therapy: Results of an International Phase III Trial (SJMB03).,Journal of clinical oncology : official journal of the American Society of Clinical Oncology
+SMARCA4,2,37919824,2023,MYC overexpression and SMARCA4 loss cooperate to drive medulloblastoma formation in mice.,Acta neuropathologica communications
+SMARCA4,3,27065321,2016,SMARCA4/Brg1 coordinates genetic and epigenetic networks underlying Shh-type medulloblastoma development.,Oncogene
+SMO,1,33836254,2022,Hedgehog signaling mechanism and role in cancer.,Seminars in cancer biology
+SMO,2,30069764,2018,Vismodegib.,Recent results in cancer research. Fortschritte der Krebsforschung. Progres dans les recherches sur le cancer
+SMO,3,24756807,2014,Vismodegib.,Recent results in cancer research. Fortschritte der Krebsforschung. Progres dans les recherches sur le cancer
+SNCAIP,1,38992221,2024,PRDM6 promotes medulloblastoma by repressing chromatin accessibility and altering gene expression.,Scientific reports
+SNCAIP,2,35489737,2022,Molecular Stratification of Medulloblastoma: Clinical Outcomes and Therapeutic Interventions.,Anticancer research
+SNCAIP,3,37693484,2023,PRDM6 promotes medulloblastoma by repressing chromatin accessibility and altering gene expression.,bioRxiv : the preprint server for biology
+SST,1,29433172,2018,"Further Investigation About the Expression of SST, GAD2, and PVALB in Medulloblastoma.",World neurosurgery
+SST,2,23677175,2013,Somatostatin receptor subtype 2 (sst₂) is a potential prognostic marker and a therapeutic target in medulloblastoma.,Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery
+SST,3,28751139,2017,Identification of Driver Genes and Key Pathways of Pediatric Brain Tumors and Comparison of Molecular Pathogenesis Based on Pathologic Types.,World neurosurgery
+STAT4,1,12925694,2003,Dysregulated Sonic hedgehog signaling and medulloblastoma consequent to IFN-alpha-stimulated STAT2-independent production of IFN-gamma in the brain.,The Journal of clinical investigation
+SUFU,1,29274272,2018,The role of the Hedgehog signaling pathway in cancer: A comprehensive review.,Bosnian journal of basic medical sciences
+SUFU,2,29753700,2018,Spectrum and prevalence of genetic predisposition in medulloblastoma: a retrospective genetic study and prospective validation in a clinical trial cohort.,The Lancet. Oncology
+SUFU,3,38282294,2024,Medulloblastoma and other neoplasms in patients with heterozygous germline SUFU variants: A scoping review.,American journal of medical genetics. Part A
+SYK,1,29931864,2016,[The relationship between hypermethylation of Syk gene promoter and medulloblastoma cell invasion and metastasis].,Zhongguo ying yong sheng li xue za zhi = Zhongguo yingyong shenglixue zazhi = Chinese journal of applied physiology
+SYK,2,36357906,2022,A novel dual epigenetic approach targeting BET proteins and HDACs in Group 3 (MYC-driven) Medulloblastoma.,Journal of experimental & clinical cancer research : CR
+TBR1,1,41216458,2025,Genetic markers and canonical pathways associated with medulloblastoma: a systematic review and meta-analysis.,Translational pediatrics
+TBR1,2,22832583,2012,Dissecting the genomic complexity underlying medulloblastoma.,Nature
+TERT,1,35489737,2022,Molecular Stratification of Medulloblastoma: Clinical Outcomes and Therapeutic Interventions.,Anticancer research
+TERT,2,33172502,2020,Clinical and mutational profiles of adult medulloblastoma groups.,Acta neuropathologica communications
+TERT,3,37576901,2023,Linked-read based analysis of the medulloblastoma genome.,Frontiers in oncology
+TF,1,28401061,2017,Transcription Factor GFI1B in Health and Disease.,Frontiers in oncology
+TF,2,24108471,2013,Brain neoplasms and coagulation.,Seminars in thrombosis and hemostasis
+TF,3,24862126,2014,Oncogenes and the coagulation system--forces that modulate dormant and aggressive states in cancer.,Thrombosis research
+TP53,1,35168417,2022,Medulloblastoma: WHO 2021 and Beyond.,Pediatric and developmental pathology : the official journal of the Society for Pediatric Pathology and the Paediatric Pathology Society
+TP53,2,29703584,2021,[Medulloblastoma. Pathology].,Neuro-Chirurgie
+TP53,3,27040285,2016,Risk stratification of childhood medulloblastoma in the molecular era: the current consensus.,Acta neuropathologica
+TULP1,1,41213462,2026,Single-cell deconstruction of medulloblastoma microenvironment elucidates subtype-specific immune architectures and prognostic molecular signatures.,Cancer letters
+USH2A,1,34272868,2022,Emergence and maintenance of actionable genetic drivers at medulloblastoma relapse.,Neuro-oncology
+VTN,1,34055594,2021,Multiple Reaction Monitoring-Based Targeted Assays for the Validation of Protein Biomarkers in Brain Tumors.,Frontiers in oncology
+WIF1,1,34178626,2021,"Classifying Medulloblastoma Subgroups Based on Small, Clinically Achievable Gene Sets.",Frontiers in oncology
+WIF1,2,24695855,2014,"SHH, WNT, and NOTCH pathways in medulloblastoma: when cancer stem cells maintain self-renewal and differentiation properties.",Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery
+WIF1,3,27070693,2016,Blood-Brain Barrier Breakdown Determines Differential Therapeutic Outcome in Genetically Diverse Forms of Medulloblastoma.,Cancer cell
+WNK4,1,21652733,2011,A sensitized RNA interference screen identifies a novel role for the PI3K p110γ isoform in medulloblastoma cell proliferation and chemoresistance.,Molecular cancer research : MCR
+WNT1,1,23525311,2013,"CTNNB1, AXIN1 and APC expression analysis of different medulloblastoma variants.","Clinics (Sao Paulo, Brazil)"
+WNT1,2,12209999,2002,Role of Wnt pathway in medulloblastoma oncogenesis.,International journal of cancer
+WNT1,3,22929883,2012,WNT/β-catenin pathway activation in Myc immortalised cerebellar progenitor cells inhibits neuronal differentiation and generates tumours resembling medulloblastoma.,British journal of cancer
+WNT3,1,24303070,2013,WNT3 inhibits cerebellar granule neuron progenitor proliferation and medulloblastoma formation via MAPK activation.,PloS one
+WNT3,2,21442027,2011,Heparanase Modulates Shh and Wnt3a Signaling in Human Medulloblastoma Cells.,Experimental and therapeutic medicine
+WNT3,3,30452905,2019,Genetic ablation of Gpr37l1 delays tumor occurrence in Ptch1(+/-) mouse models of medulloblastoma.,Experimental neurology
+ZIC4,1,37745846,2023,MBMethPred: a computational framework for the accurate classification of childhood medulloblastoma subgroups using data integration and AI-based approaches.,Frontiers in genetics
+ZMYM3,1,24710217,2014,"The landscape of somatic mutations in epigenetic regulators across 1,000 paediatric cancer genomes.",Nature communications
+ZMYM3,2,25030029,2014,Mutation and expression analysis in medulloblastoma yields prognostic variants and a putative mechanism of disease for i17q tumors.,Acta neuropathologica communications
+ZMYM3,3,22722829,2012,Novel mutations target distinct subgroups of medulloblastoma.,Nature
+ZNRF3,1,32445667,2020,Ubiquitin ligases and medulloblastoma: genetic markers of the four consensus subgroups identified through transcriptome datasets.,Biochimica et biophysica acta. Molecular basis of disease
+ZNRF3,2,41742617,2026,Wnt Signaling in Tumorigenesis: From Molecular Mechanisms to Precision Therapeutic Targets.,Current topics in medicinal chemistry
+ZNRF3,3,30810905,2019,Differential Expression of Genes for Ubiquitin Ligases in Medulloblastoma Subtypes.,"Cerebellum (London, England)"

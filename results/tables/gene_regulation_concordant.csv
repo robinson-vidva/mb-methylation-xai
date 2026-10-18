@@ -1,0 +1,436 @@
+group,gene,direction,meth_delta,expr_delta,meth_fdr,expr_fdr,gene_name,cancer_role,oncokb_gene_type,cgc_role_in_cancer,cancer_hallmarks,reactome_top_level,pubmed_medulloblastoma,pubmed_cancer,mb_association_score,reading
+Group3,GLI2,"promoter hypermethylated, expression down",0.175,-1.86,0.0,0.0,GLI family zinc finger 2,none,,,,Gene expression (Transcription); Signal Transduction,70,614,0.1949,no cancer role annotated
+Group3,OTX2,"promoter hypomethylated, expression up",-0.1455,1.7065,0.0,0.0,orthodenticle homeobox 2,none,,,,Developmental Biology,61,96,0.1231,no cancer role annotated
+Group3,RHO,"promoter hypomethylated, expression up",-0.1018,1.291,0.0,0.0,rhodopsin,none,,,,Organelle biogenesis and maintenance; Sensory Perception; Signal Transduction,20,9472,0.0119,no cancer role annotated
+Group3,TF,"promoter hypermethylated, expression down",0.1857,-1.111,0.0,0.0,transferrin,none,,,,Hemostasis; Metabolism of proteins; Transport of small molecules; Vesicle-mediated transport,18,5316,0.0168,no cancer role annotated
+Group3,SAG,"promoter hypomethylated, expression up",-0.3488,2.0423,0.0,0.0,S-antigen visual arrestin,none,,,,Sensory Perception,12,380,0.0191,no cancer role annotated
+Group3,IMPG2,"promoter hypomethylated, expression up",-0.5395,3.7491,0.0,0.0,interphotoreceptor matrix proteoglycan 2,none,,,,,4,4,0.0126,no cancer role annotated
+Group3,PRAME,"promoter hypomethylated, expression up",-0.1265,1.048,0.0,0.0,PRAME nuclear receptor transcriptional regulator,none,,,,,3,557,0.0113,no cancer role annotated
+Group3,MMP14,"promoter hypermethylated, expression down",0.1091,-1.0828,0.0,0.0,matrix metallopeptidase 14,none,,,,Cellular responses to stimuli; Extracellular matrix organization; Signal Transduction,2,901,0.0093,no cancer role annotated
+Group3,PTGDS,"promoter hypermethylated, expression down",0.1915,-1.1969,0.0,0.0,prostaglandin D2 synthase,none,,,,Developmental Biology; Metabolism,2,80,0.0101,no cancer role annotated
+Group3,NRL,"promoter hypomethylated, expression up",-0.2148,2.6698,0.0,0.0,neural retina leucine zipper,none,,,,,1,86,0.0063,no cancer role annotated
+Group3,PDC,"promoter hypomethylated, expression up",-0.1092,1.1985,0.0,0.0,phosducin,none,,,,,1,1255,0.003,no cancer role annotated
+Group3,RCVRN,"promoter hypomethylated, expression up",-0.2023,2.6075,0.0,0.0,recoverin,none,,,,Sensory Perception,1,4,0.0052,no cancer role annotated
+Group3,TULP1,"promoter hypomethylated, expression up",-0.2855,2.2305,0.0,0.0,TUB like protein 1,none,,,,,1,6,0.0,no cancer role annotated
+Group3,USH2A,"promoter hypomethylated, expression up",-0.1442,2.9056,0.0,0.0,usherin,none,,,,,1,37,0.0,no cancer role annotated
+Group3,ZIC4,"promoter hypermethylated, expression down",0.1123,-1.2526,0.0,0.0,Zic family zinc finger 4,none,,,,,1,51,0.0868,no cancer role annotated
+Group3,ABCA4,"promoter hypomethylated, expression up",-0.1536,2.0791,0.0,0.0,ATP binding cassette subfamily A member 4,none,,,,Disease; Sensory Perception; Transport of small molecules,0,14,0.0,no cancer role annotated
+Group3,AIPL1,"promoter hypomethylated, expression up",-0.33,2.422,0.0,0.0,AIP like 1 HSP90 co-chaperone,none,,,,,0,3,0.0,no cancer role annotated
+Group3,AKAP6,"promoter hypermethylated, expression down",0.2113,-1.0993,0.0,0.0,A-kinase anchoring protein 6,none,,,,,0,8,0.0,no cancer role annotated
+Group3,APBA2,"promoter hypermethylated, expression down",0.1058,-1.5932,0.0,0.0,amyloid beta precursor protein binding family A member 2,none,,,,Neuronal System,0,8,0.0,no cancer role annotated
+Group3,ARHGAP28,"promoter hypomethylated, expression up",-0.1025,1.2346,0.0,0.0,Rho GTPase activating protein 28,none,,,,Signal Transduction,0,11,0.0074,no cancer role annotated
+Group3,C2orf71,"promoter hypomethylated, expression up",-0.1777,2.1027,0.0,0.0,,none,,,,,0,2,0.0,no cancer role annotated
+Group3,CACNA1S,"promoter hypomethylated, expression up",-0.1319,1.277,0.0,0.0,calcium voltage-gated channel subunit alpha1 S,none,,,,Developmental Biology,0,12,0.0015,no cancer role annotated
+Group3,CACNA2D4,"promoter hypomethylated, expression up",-0.1252,2.3832,0.0,0.0,calcium voltage-gated channel auxiliary subunit alpha2delta 4,none,,,,,0,6,0.0,no cancer role annotated
+Group3,CACNG5,"promoter hypomethylated, expression up",-0.1181,1.3308,0.0,0.0,calcium voltage-gated channel auxiliary subunit gamma 5,none,,,,,0,1,0.0,no cancer role annotated
+Group3,CDH12,"promoter hypomethylated, expression up",-0.1552,1.1176,0.0,0.0,cadherin 12,none,,,,Cell-Cell communication,0,15,0.0045,no cancer role annotated
+Group3,CLIP3,"promoter hypermethylated, expression down",0.1183,-1.118,0.0,0.0,CAP-Gly domain containing linker protein 3,none,,,,Signal Transduction,0,3,0.0,no cancer role annotated
+Group3,CNGA1,"promoter hypomethylated, expression up",-0.1098,1.2316,0.0,0.0,cyclic nucleotide gated channel subunit alpha 1,none,,,,Sensory Perception,0,0,0.0,no cancer role annotated
+Group3,CPLX4,"promoter hypomethylated, expression up",-0.2034,1.976,0.0,0.0,complexin 4,none,,,,,0,1,0.0,no cancer role annotated
+Group3,CRB1,"promoter hypermethylated, expression down",0.1471,-1.0614,0.0,0.0,crumbs cell polarity complex component 1,none,,,,,0,17,0.0,no cancer role annotated
+Group3,CSRNP3,"promoter hypomethylated, expression up",-0.1217,1.0789,0.0,0.0,cysteine and serine rich nuclear protein 3,none,,,,,0,3,0.0,no cancer role annotated
+Group3,DAND5,"promoter hypomethylated, expression up",-0.1049,1.1381,0.0,0.0,DAN domain BMP antagonist family member 5,none,,,,Developmental Biology,0,4,0.0,no cancer role annotated
+Group3,ELAVL4,"promoter hypermethylated, expression down",0.1626,-1.3588,0.0,0.0,ELAV like RNA binding protein 4,none,,,,,0,24,0.005,no cancer role annotated
+Group3,FABP7,"promoter hypermethylated, expression down",0.1499,-1.299,0.0,0.0,fatty acid binding protein 7,none,,,,Metabolism; Signal Transduction,0,111,0.0083,no cancer role annotated
+Group3,FAM198B,"promoter hypermethylated, expression down",0.1391,-1.3074,0.0,0.0,,none,,,,,0,12,0.0,no cancer role annotated
+Group3,FRMPD2,"promoter hypomethylated, expression up",-0.1377,1.3689,0.0,0.0,FERM and PDZ domain containing 2,none,,,,,0,1,0.0,no cancer role annotated
+Group3,GNAT1,"promoter hypomethylated, expression up",-0.1022,2.2378,0.0,0.0,G protein subunit alpha transducin 1,none,,,,Sensory Perception; Signal Transduction,0,10,0.0,no cancer role annotated
+Group3,GNB3,"promoter hypomethylated, expression up",-0.1242,2.292,0.0,0.0,G protein subunit beta 3,none,,,,Cellular responses to stimuli; Disease; Hemostasis; Metabolism; Metabolism of proteins; Neuronal System; Sensory Perception; Signal Transduction; Transport of small molecules,0,34,0.0037,no cancer role annotated
+Group3,GNGT1,"promoter hypomethylated, expression up",-0.1633,1.774,0.0,0.0,G protein subunit gamma transducin 1,none,,,,Cellular responses to stimuli; Disease; Hemostasis; Metabolism; Metabolism of proteins; Neuronal System; Sensory Perception; Signal Transduction; Transport of small molecules,0,14,0.0042,no cancer role annotated
+Group3,GNGT2,"promoter hypomethylated, expression up",-0.1137,1.3265,0.0,0.0,G protein subunit gamma transducin 2,none,,,,Cellular responses to stimuli; Disease; Hemostasis; Metabolism; Metabolism of proteins; Neuronal System; Signal Transduction; Transport of small molecules,0,6,0.0,no cancer role annotated
+Group3,GRK1,"promoter hypomethylated, expression up",-0.1243,1.2814,0.0,0.0,G protein-coupled receptor kinase 1,none,,,,Sensory Perception,0,10,0.0,no cancer role annotated
+Group3,GSG1,"promoter hypomethylated, expression up",-0.1071,2.7317,0.0,0.0,germ cell associated 1,none,,,,,0,1,0.0,no cancer role annotated
+Group3,IFI44,"promoter hypomethylated, expression up",-0.2358,1.4192,0.0,0.0,interferon induced protein 44,none,,,,Immune System,0,49,0.0,no cancer role annotated
+Group3,IGFBPL1,"promoter hypermethylated, expression down",0.1618,-1.6215,0.0,0.0,insulin like growth factor binding protein like 1,none,,,,,0,7,0.0369,no cancer role annotated
+Group3,MPP4,"promoter hypomethylated, expression up",-0.2812,2.3162,0.0,0.0,MAGUK p55 scaffold protein 4,none,,,,,0,5,0.0,no cancer role annotated
+Group3,NID2,"promoter hypermethylated, expression down",0.1569,-1.0667,0.0,0.0,nidogen 2,none,,,,Extracellular matrix organization,0,64,0.0194,no cancer role annotated
+Group3,NR2E3,"promoter hypomethylated, expression up",-0.1844,1.5407,0.0,0.0,nuclear receptor subfamily 2 group E member 3,none,,,,Gene expression (Transcription),0,16,0.0018,no cancer role annotated
+Group3,NTN5,"promoter hypomethylated, expression up",-0.1906,1.0801,0.0,0.0,netrin 5,none,,,,,0,5,0.0,no cancer role annotated
+Group3,PALMD,"promoter hypomethylated, expression up",-0.1328,2.1149,0.0,0.0,palmdelphin,none,,,,,0,9,0.0,no cancer role annotated
+Group3,PDE6H,"promoter hypomethylated, expression up",-0.1493,2.2243,0.0,0.0,phosphodiesterase 6H,none,,,,,0,4,0.0,no cancer role annotated
+Group3,PHYHD1,"promoter hypomethylated, expression up",-0.1999,1.5484,0.0,0.0,phytanoyl-CoA dioxygenase domain containing 1,none,,,,,0,9,0.0,no cancer role annotated
+Group3,PRPH2,"promoter hypomethylated, expression up",-0.1483,1.6278,0.0,0.0,peripherin 2,none,,,,,0,4,0.036,no cancer role annotated
+Group3,RAB34,"promoter hypermethylated, expression down",0.2338,-1.233,0.0,0.0,"RAB34, member RAS oncogene family",none,,,,Metabolism of proteins,0,21,0.0,no cancer role annotated
+Group3,RD3,"promoter hypomethylated, expression up",-0.1231,2.9718,0.0,0.0,RD3 regulator of GUCY2D,none,,,,,0,20,0.0,no cancer role annotated
+Group3,SAMD3,"promoter hypomethylated, expression up",-0.1299,2.2134,0.0,0.0,sterile alpha motif domain containing 3,none,,,,,0,12,0.0,no cancer role annotated
+Group3,SERP2,"promoter hypermethylated, expression down",0.2319,-1.1455,0.0,0.0,stress associated endoplasmic reticulum protein family member 2,none,,,,,0,6,0.0,no cancer role annotated
+Group3,SLC16A4,"promoter hypermethylated, expression down",0.2428,-1.3743,0.0,0.0,solute carrier family 16 member 4,none,,,,,0,18,0.0052,no cancer role annotated
+Group3,SLC1A7,"promoter hypomethylated, expression up",-0.1258,3.4181,0.0,0.0,solute carrier family 1 member 7,none,,,,Neuronal System; Transport of small molecules,0,4,0.0,no cancer role annotated
+Group3,SLC4A10,"promoter hypomethylated, expression up",-0.1557,1.3147,0.0,0.0,solute carrier family 4 member 10,none,,,,Transport of small molecules,0,6,0.0,no cancer role annotated
+Group3,SULT1C4,"promoter hypermethylated, expression down",0.1367,-1.1974,0.0,0.0,sulfotransferase family 1C member 4,none,,,,Drug ADME; Metabolism,0,5,0.0,no cancer role annotated
+Group3,TRIP10,"promoter hypomethylated, expression up",-0.1409,1.5898,0.0,0.0,thyroid hormone receptor interactor 10,none,,,,Signal Transduction; Vesicle-mediated transport,0,9,0.0,no cancer role annotated
+Group3,VWA5A,"promoter hypomethylated, expression up",-0.2033,1.0344,0.0,0.0,von Willebrand factor A domain containing 5A,none,,,,,0,8,0.0,no cancer role annotated
+Group3,SCG5,"promoter hypermethylated, expression down",0.1811,-1.2683,0.0,0.0,secretogranin V,oncogene,ONCOGENE,,,,0,25,0.022,oncogene silenced
+Group3,IGF1,"promoter hypomethylated, expression up",-0.2057,1.0173,0.0,0.0,insulin like growth factor 1,oncogene,ONCOGENE,,,Hemostasis; Metabolism of proteins; Signal Transduction,15,5398,0.1023,oncogene switched on
+Group4,OTX2,"promoter hypomethylated, expression up",-0.203,2.2469,0.0,0.0,orthodenticle homeobox 2,none,,,,Developmental Biology,61,96,0.1231,no cancer role annotated
+Group4,FAP,"promoter hypermethylated, expression down",0.2732,-1.623,0.0,0.0,fibroblast activation protein alpha,none,,,,,29,4189,0.0123,no cancer role annotated
+Group4,TF,"promoter hypomethylated, expression up",-0.1512,1.0801,0.0,0.0,transferrin,none,,,,Hemostasis; Metabolism of proteins; Transport of small molecules; Vesicle-mediated transport,18,5316,0.0168,no cancer role annotated
+Group4,BOC,"promoter hypermethylated, expression down",0.1182,-2.2506,0.0,0.0,"BOC cell adhesion associated, oncogene regulated",none,,,,Developmental Biology; Signal Transduction,3,413,0.0235,no cancer role annotated
+Group4,COL1A2,"promoter hypermethylated, expression down",0.182,-1.2848,0.0,0.0,collagen type I alpha 2 chain,none,,,,Developmental Biology; Disease; Extracellular matrix organization; Hemostasis; Immune System; Signal Transduction; Vesicle-mediated transport,3,424,0.0149,no cancer role annotated
+Group4,EYA1,"promoter hypermethylated, expression down",0.243,-2.8001,0.0,0.0,EYA transcriptional coactivator and phosphatase 1,none,,,,DNA Repair; Developmental Biology,3,53,0.0393,no cancer role annotated
+Group4,EOMES,"promoter hypomethylated, expression up",-0.1754,3.5604,0.0,0.0,eomesodermin,none,,,,Developmental Biology; Reproduction,2,273,0.0123,no cancer role annotated
+Group4,RBM24,"promoter hypomethylated, expression up",-0.1519,3.2617,0.0,0.0,RNA binding motif protein 24,none,,,,,2,34,0.0111,no cancer role annotated
+Group4,TBR1,"promoter hypomethylated, expression up",-0.1317,2.0897,0.0,0.0,T-box brain transcription factor 1,none,,,,,2,17,0.008,no cancer role annotated
+Group4,ACTC1,"promoter hypermethylated, expression down",0.1468,-1.2957,0.0,0.0,actin alpha cardiac muscle 1,none,,,,Cell-Cell communication; Extracellular matrix organization; Muscle contraction; Signal Transduction,1,37,0.0739,no cancer role annotated
+Group4,CLIC1,"promoter hypermethylated, expression down",0.2602,-1.0821,0.0,0.0,CLIC family member 1,none,,,,,1,152,0.019,no cancer role annotated
+Group4,GPX8,"promoter hypermethylated, expression down",0.2,-1.0731,0.0,0.0,glutathione peroxidase 8 (putative),none,,,,Cellular responses to stimuli,1,54,0.0,no cancer role annotated
+Group4,LGALS1,"promoter hypermethylated, expression down",0.12,-1.1239,0.0,0.0,galectin 1,none,,,,Metabolism of proteins,1,172,0.043,no cancer role annotated
+Group4,LMX1A,"promoter hypomethylated, expression up",-0.1645,3.0226,0.0,0.0,LIM homeobox transcription factor 1 alpha,none,,,,,1,43,0.0573,no cancer role annotated
+Group4,MTSS1,"promoter hypomethylated, expression up",-0.107,1.2132,0.0,0.0,MTSS I-BAR domain containing 1,none,,,,,1,142,0.0026,no cancer role annotated
+Group4,PAM,"promoter hypermethylated, expression down",0.1475,-1.2174,0.0,0.0,peptidylglycine alpha-amidating monooxygenase,none,,,,,1,1305,0.0,no cancer role annotated
+Group4,PRLR,"promoter hypermethylated, expression down",0.1032,-2.2943,0.0,0.0,prolactin receptor,none,,,,Immune System,1,324,0.0085,no cancer role annotated
+Group4,AKAP6,"promoter hypermethylated, expression down",0.2587,-1.8634,0.0,0.0,A-kinase anchoring protein 6,none,,,,,0,8,0.0,no cancer role annotated
+Group4,AKR1E2,"promoter hypomethylated, expression up",-0.2372,1.7266,0.0,0.0,aldo-keto reductase family 1 member E2,none,,,,Metabolism,0,3,0.0,no cancer role annotated
+Group4,ANGPTL2,"promoter hypermethylated, expression down",0.1085,-2.0621,0.0,0.0,angiopoietin like 2,none,,,,,0,112,0.0015,no cancer role annotated
+Group4,BMP5,"promoter hypermethylated, expression down",0.2268,-1.2856,0.0,0.0,bone morphogenetic protein 5,none,,,,,0,71,0.0,no cancer role annotated
+Group4,C8orf46,"promoter hypomethylated, expression up",-0.1211,1.2809,0.0,0.0,,none,,,,,0,3,0.0,no cancer role annotated
+Group4,CA14,"promoter hypermethylated, expression down",0.1358,-1.0872,0.0,0.0,carbonic anhydrase 14,none,,,,Metabolism,0,14,0.0,no cancer role annotated
+Group4,CACNA1A,"promoter hypomethylated, expression up",-0.1216,1.4281,0.0,0.0,calcium voltage-gated channel subunit alpha1 A,none,,,,Metabolism; Neuronal System,0,28,0.0629,no cancer role annotated
+Group4,CAMKK1,"promoter hypermethylated, expression down",0.1732,-1.1011,0.0,0.0,calcium/calmodulin dependent protein kinase kinase 1,none,,,,Neuronal System; Signal Transduction,0,11,0.0,no cancer role annotated
+Group4,COL6A3,"promoter hypermethylated, expression down",0.1017,-1.68,0.0,0.0,collagen type VI alpha 3 chain,none,,,,Developmental Biology; Extracellular matrix organization; Signal Transduction,0,180,0.0047,no cancer role annotated
+Group4,CYYR1,"promoter hypermethylated, expression down",0.1187,-2.3078,0.0,0.0,cysteine and tyrosine rich 1,none,,,,,0,7,0.0078,no cancer role annotated
+Group4,DAPK2,"promoter hypomethylated, expression up",-0.113,1.2067,0.0,0.0,death associated protein kinase 2,none,,,,Programmed Cell Death,0,64,0.0,no cancer role annotated
+Group4,DAPL1,"promoter hypermethylated, expression down",0.2065,-1.4054,0.0,0.0,death associated protein like 1,none,,,,,0,12,0.0,no cancer role annotated
+Group4,DMGDH,"promoter hypomethylated, expression up",-0.1836,1.1035,0.0,0.0,dimethylglycine dehydrogenase,none,,,,Metabolism,0,6,0.0,no cancer role annotated
+Group4,DMRTA1,"promoter hypermethylated, expression down",0.2835,-1.6843,0.0,0.0,DMRT like family A1,none,,,,,0,7,0.0,no cancer role annotated
+Group4,DSCAML1,"promoter hypomethylated, expression up",-0.1634,1.3334,0.0,0.0,DS cell adhesion molecule like 1,none,,,,Developmental Biology,0,4,0.0,no cancer role annotated
+Group4,FAM198B,"promoter hypermethylated, expression down",0.222,-1.6562,0.0,0.0,,none,,,,,0,12,0.0,no cancer role annotated
+Group4,FZD7,"promoter hypermethylated, expression down",0.1388,-1.6702,0.0,0.0,frizzled class receptor 7,none,,,,Disease; Signal Transduction,0,228,0.0,no cancer role annotated
+Group4,GALM,"promoter hypermethylated, expression down",0.14,-1.3819,0.0,0.0,galactose mutarotase,none,,,,Disease; Metabolism,0,15,0.0,no cancer role annotated
+Group4,GLYATL2,"promoter hypermethylated, expression down",0.1354,-1.31,0.0,0.0,glycine-N-acyltransferase like 2,none,,,,Drug ADME; Metabolism,0,5,0.0,no cancer role annotated
+Group4,H2AFJ,"promoter hypomethylated, expression up",-0.2408,1.2711,0.0,0.0,,none,,,,,0,13,0.0,no cancer role annotated
+Group4,IFI44,"promoter hypermethylated, expression down",0.1965,-1.0107,0.0,0.0,interferon induced protein 44,none,,,,Immune System,0,49,0.0,no cancer role annotated
+Group4,INPP5F,"promoter hypomethylated, expression up",-0.1044,1.1353,0.0,0.0,inositol polyphosphate-5-phosphatase F,none,,,,Metabolism,0,11,0.0048,no cancer role annotated
+Group4,ISLR2,"promoter hypomethylated, expression up",-0.1824,1.383,0.0,0.0,immunoglobulin superfamily containing leucine rich repeat 2,none,,,,,0,6,0.0,no cancer role annotated
+Group4,ITIH2,"promoter hypermethylated, expression down",0.1888,-1.2459,0.0,0.0,inter-alpha-trypsin inhibitor heavy chain 2,none,,,,Metabolism of proteins,0,33,0.0,no cancer role annotated
+Group4,ITPRIP,"promoter hypermethylated, expression down",0.2426,-1.0154,0.0,0.0,"inositol 1,4,5-trisphosphate receptor interacting protein",none,,,,,0,6,0.0,no cancer role annotated
+Group4,JAKMIP2,"promoter hypermethylated, expression down",0.1172,-1.2821,0.0,0.0,janus kinase and microtubule interacting protein 2,none,,,,,0,3,0.0,no cancer role annotated
+Group4,KCNA5,"promoter hypomethylated, expression up",-0.1226,3.3094,0.0,0.0,potassium voltage-gated channel subfamily A member 5,none,,,,Muscle contraction; Neuronal System,0,11,0.0052,no cancer role annotated
+Group4,LGI1,"promoter hypomethylated, expression up",-0.1234,2.4472,0.0,0.0,leucine rich glioma inactivated 1,none,,,,Developmental Biology,0,127,0.0156,no cancer role annotated
+Group4,LHX5,"promoter hypomethylated, expression up",-0.1291,1.6828,0.0,0.0,LIM homeobox 5,none,,,,,0,5,0.0,no cancer role annotated
+Group4,LRIG3,"promoter hypermethylated, expression down",0.1104,-2.258,0.0,0.0,leucine rich repeats and immunoglobulin like domains 3,none,,,,,0,41,0.0,no cancer role annotated
+Group4,MGP,"promoter hypermethylated, expression down",0.3313,-2.0078,0.0,0.0,matrix Gla protein,none,,,,,0,194,0.005,no cancer role annotated
+Group4,MPP3,"promoter hypomethylated, expression up",-0.109,2.7934,0.0,0.0,MAGUK p55 scaffold protein 3,none,,,,,0,16,0.0,no cancer role annotated
+Group4,MYOT,"promoter hypermethylated, expression down",0.105,-1.111,0.0,0.0,myotilin,none,,,,,0,6,0.0,no cancer role annotated
+Group4,NID2,"promoter hypomethylated, expression up",-0.1486,2.2037,0.0,0.0,nidogen 2,none,,,,Extracellular matrix organization,0,64,0.0194,no cancer role annotated
+Group4,PCDHB7,"promoter hypomethylated, expression up",-0.1031,1.5711,0.0,0.0,protocadherin beta 7,none,,,,,0,3,0.0,no cancer role annotated
+Group4,PCSK1,"promoter hypermethylated, expression down",0.1129,-1.3512,0.0,0.0,proprotein convertase subtilisin/kexin type 1,none,,,,Metabolism of proteins,0,36,0.0055,no cancer role annotated
+Group4,PDE7B,"promoter hypomethylated, expression up",-0.132,1.0476,0.0,0.0,phosphodiesterase 7B,none,,,,Signal Transduction,0,18,0.0,no cancer role annotated
+Group4,PDPN,"promoter hypermethylated, expression down",0.1188,-1.233,0.0,0.0,podoplanin,none,,,,Hemostasis; Reproduction,0,346,0.0057,no cancer role annotated
+Group4,PIRT,"promoter hypermethylated, expression down",0.1284,-1.6515,0.0,0.0,phosphoinositide interacting regulator of transient receptor potential channels,none,,,,,0,12,0.0,no cancer role annotated
+Group4,PLCH1,"promoter hypermethylated, expression down",0.1402,-1.1006,0.0,0.0,phospholipase C eta 1,none,,,,Metabolism,0,9,0.0,no cancer role annotated
+Group4,POU6F2,"promoter hypermethylated, expression down",0.1377,-1.7597,0.0,0.0,POU class 6 homeobox 2,none,,,,,0,25,0.0,no cancer role annotated
+Group4,PRELID2,"promoter hypermethylated, expression down",0.1088,-1.7747,0.0,0.0,PRELI domain containing 2,none,,,,,0,6,0.0,no cancer role annotated
+Group4,PTCHD2,"promoter hypomethylated, expression up",-0.1213,2.3625,0.0,0.0,,none,,,,,0,7,0.0,no cancer role annotated
+Group4,RNF212,"promoter hypomethylated, expression up",-0.1222,1.2562,0.0,0.0,ring finger protein 212,none,,,,,0,7,0.0,no cancer role annotated
+Group4,SAMD3,"promoter hypomethylated, expression up",-0.1732,1.4286,0.0,0.0,sterile alpha motif domain containing 3,none,,,,,0,12,0.0,no cancer role annotated
+Group4,SEPP1,"promoter hypermethylated, expression down",0.1533,-1.0465,0.0,0.0,,none,,,,,0,73,0.0,no cancer role annotated
+Group4,SERPINF1,"promoter hypermethylated, expression down",0.1684,-2.6523,0.0,0.0,serpin family F member 1,none,,,,,0,49,0.0,no cancer role annotated
+Group4,SERTAD4,"promoter hypermethylated, expression down",0.1794,-1.4451,0.0,0.0,SERTA domain containing 4,none,,,,,0,5,0.0,no cancer role annotated
+Group4,SLC14A1,"promoter hypermethylated, expression down",0.119,-1.3207,0.0,0.0,solute carrier family 14 member 1 (Kidd blood group),none,,,,Transport of small molecules,0,43,0.0054,no cancer role annotated
+Group4,SLC38A1,"promoter hypomethylated, expression up",-0.1366,1.0742,0.0,0.0,solute carrier family 38 member 1,none,,,,Neuronal System; Transport of small molecules,0,60,0.0,no cancer role annotated
+Group4,SLC6A3,"promoter hypomethylated, expression up",-0.1694,2.7458,0.0,0.0,solute carrier family 6 member 3,none,,,,,0,41,0.0337,no cancer role annotated
+Group4,SOSTDC1,"promoter hypermethylated, expression down",0.2222,-1.1091,0.0,0.0,sclerostin domain containing 1,none,,,,,0,41,0.0,no cancer role annotated
+Group4,SPAG6,"promoter hypomethylated, expression up",-0.1059,1.0289,0.0,0.0,sperm associated antigen 6,none,,,,,0,35,0.0,no cancer role annotated
+Group4,TRPM3,"promoter hypomethylated, expression up",-0.1106,2.2265,0.0,0.0,transient receptor potential cation channel subfamily M member 3,none,,,,Transport of small molecules,0,53,0.0155,no cancer role annotated
+Group4,TSPYL5,"promoter hypomethylated, expression up",-0.1812,1.1138,0.0,0.0,TSPY like 5,none,,,,,0,44,0.0,no cancer role annotated
+Group4,VRK2,"promoter hypermethylated, expression down",0.3543,-1.4089,0.0,0.0,VRK serine/threonine kinase 2,none,,,,Cell Cycle; Signal Transduction,0,38,0.0,no cancer role annotated
+Group4,WNK2,"promoter hypomethylated, expression up",-0.2127,1.1302,0.0,0.0,WNK lysine deficient protein kinase 2,none,,,,Transport of small molecules,0,39,0.0106,no cancer role annotated
+Group4,ZNF154,"promoter hypomethylated, expression up",-0.2925,1.2522,0.0,0.0,zinc finger protein 154,none,,,,Gene expression (Transcription),0,34,0.0,no cancer role annotated
+Group4,ZSCAN12,"promoter hypomethylated, expression up",-0.273,1.013,0.0,0.0,zinc finger and SCAN domain containing 12,none,,,,,0,12,0.0,no cancer role annotated
+Group4,DDR2,"promoter hypermethylated, expression down",0.2078,-1.0561,0.0,0.0,discoidin domain receptor tyrosine kinase 2,oncogene,ONCOGENE,oncogene,invasion and metastasis (promotes),Extracellular matrix organization,0,335,0.1848,oncogene silenced
+Group4,SCG5,"promoter hypermethylated, expression down",0.2222,-1.6496,0.0,0.0,secretogranin V,oncogene,ONCOGENE,,,,0,25,0.022,oncogene silenced
+SHH,GLI2,"promoter hypomethylated, expression up",-0.1394,3.4677,0.0,0.0,GLI family zinc finger 2,none,,,,Gene expression (Transcription); Signal Transduction,70,614,0.1949,no cancer role annotated
+SHH,OTX2,"promoter hypermethylated, expression down",0.3968,-4.4023,0.0,0.0,orthodenticle homeobox 2,none,,,,Developmental Biology,61,96,0.1231,no cancer role annotated
+SHH,FAP,"promoter hypomethylated, expression up",-0.3092,2.3281,0.0,0.0,fibroblast activation protein alpha,none,,,,,29,4189,0.0123,no cancer role annotated
+SHH,SAG,"promoter hypermethylated, expression down",0.454,-1.0111,0.0,0.0,S-antigen visual arrestin,none,,,,Sensory Perception,12,380,0.0191,no cancer role annotated
+SHH,SST,"promoter hypermethylated, expression down",0.1053,-1.2267,0.0,0.0,somatostatin,none,,,,Gene expression (Transcription); Signal Transduction,5,893,0.0268,no cancer role annotated
+SHH,IMPG2,"promoter hypermethylated, expression down",0.4776,-3.1971,0.0,0.0,interphotoreceptor matrix proteoglycan 2,none,,,,,4,4,0.0126,no cancer role annotated
+SHH,BOC,"promoter hypomethylated, expression up",-0.1859,3.8632,0.0,0.0,"BOC cell adhesion associated, oncogene regulated",none,,,,Developmental Biology; Signal Transduction,3,413,0.0235,no cancer role annotated
+SHH,COL1A2,"promoter hypomethylated, expression up",-0.3524,1.4458,0.0,0.0,collagen type I alpha 2 chain,none,,,,Developmental Biology; Disease; Extracellular matrix organization; Hemostasis; Immune System; Signal Transduction; Vesicle-mediated transport,3,424,0.0149,no cancer role annotated
+SHH,EYA1,"promoter hypomethylated, expression up",-0.3294,5.0429,0.0,0.0,EYA transcriptional coactivator and phosphatase 1,none,,,,DNA Repair; Developmental Biology,3,53,0.0393,no cancer role annotated
+SHH,EOMES,"promoter hypermethylated, expression down",0.1279,-3.2978,0.0,0.0,eomesodermin,none,,,,Developmental Biology; Reproduction,2,273,0.0123,no cancer role annotated
+SHH,NEUROG1,"promoter hypermethylated, expression down",0.1883,-4.7138,0.0,0.0,neurogenin 1,none,,,,,2,101,0.0294,no cancer role annotated
+SHH,PTGDS,"promoter hypomethylated, expression up",-0.3452,1.4697,0.0,0.0,prostaglandin D2 synthase,none,,,,Developmental Biology; Metabolism,2,80,0.0101,no cancer role annotated
+SHH,RBM24,"promoter hypermethylated, expression down",0.1846,-2.2885,0.0,0.0,RNA binding motif protein 24,none,,,,,2,34,0.0111,no cancer role annotated
+SHH,TBR1,"promoter hypermethylated, expression down",0.2278,-3.981,0.0,0.0,T-box brain transcription factor 1,none,,,,,2,17,0.008,no cancer role annotated
+SHH,CIDEB,"promoter hypomethylated, expression up",-0.1805,1.0788,0.0,0.0,cell death inducing DFFA like effector b,none,,,,,1,20,0.0,no cancer role annotated
+SHH,CMKLR1,"promoter hypomethylated, expression up",-0.2841,1.3848,0.0,0.0,chemerin chemokine-like receptor 1,none,,,,Signal Transduction,1,86,0.0096,no cancer role annotated
+SHH,DAPK1,"promoter hypermethylated, expression down",0.1046,-1.9016,0.0,0.0,death associated protein kinase 1,none,,,,Programmed Cell Death,1,430,0.0045,no cancer role annotated
+SHH,DCC,"promoter hypomethylated, expression up",-0.1924,1.2633,0.0,0.0,DCC netrin 1 receptor,none,,,,Developmental Biology; Programmed Cell Death,1,1558,0.1975,no cancer role annotated
+SHH,EYS,"promoter hypermethylated, expression down",0.1341,-3.7769,0.0,0.0,EGF-like photoreceptor maintenance factor,none,,,,,1,13,0.0,no cancer role annotated
+SHH,FOXP2,"promoter hypomethylated, expression up",-0.149,1.0004,0.0,0.0,forkhead box P2,none,,,,Cell-Cell communication,1,95,0.0,no cancer role annotated
+SHH,KL,"promoter hypermethylated, expression down",0.1182,-1.8417,0.0,0.0,klotho,none,,,,Disease; Signal Transduction,1,608,0.033,no cancer role annotated
+SHH,LGALS1,"promoter hypomethylated, expression up",-0.2282,1.4267,0.0,0.0,galectin 1,none,,,,Metabolism of proteins,1,172,0.043,no cancer role annotated
+SHH,PAM,"promoter hypomethylated, expression up",-0.1714,1.5244,0.0,0.0,peptidylglycine alpha-amidating monooxygenase,none,,,,,1,1305,0.0,no cancer role annotated
+SHH,RREB1,"promoter hypermethylated, expression down",0.1016,-2.7739,0.0,0.0,ras responsive element binding protein 1,none,,,,,1,109,0.0528,no cancer role annotated
+SHH,TULP1,"promoter hypermethylated, expression down",0.238,-1.2768,0.0,0.0,TUB like protein 1,none,,,,,1,6,0.0,no cancer role annotated
+SHH,USH2A,"promoter hypermethylated, expression down",0.193,-3.1886,0.0,0.0,usherin,none,,,,,1,37,0.0,no cancer role annotated
+SHH,VTN,"promoter hypermethylated, expression down",0.1378,-1.4991,0.0,0.0,vitronectin,none,,,,Developmental Biology; Disease; Extracellular matrix organization; Immune System,1,65,0.0096,no cancer role annotated
+SHH,ABCA4,"promoter hypermethylated, expression down",0.4047,-2.1706,0.0,0.0,ATP binding cassette subfamily A member 4,none,,,,Disease; Sensory Perception; Transport of small molecules,0,14,0.0,no cancer role annotated
+SHH,ABCA9,"promoter hypomethylated, expression up",-0.3583,2.0935,0.0,0.0,ATP binding cassette subfamily A member 9,none,,,,Transport of small molecules,0,17,0.0,no cancer role annotated
+SHH,ACSS3,"promoter hypomethylated, expression up",-0.1581,1.7803,0.0,0.0,acyl-CoA synthetase short chain family member 3,none,,,,Gene expression (Transcription); Metabolism,0,21,0.0127,no cancer role annotated
+SHH,AFF3,"promoter hypomethylated, expression up",-0.1286,1.1786,0.0,0.0,ALF transcription elongation factor 3,none,,,,,0,33,0.1848,no cancer role annotated
+SHH,AIPL1,"promoter hypermethylated, expression down",0.267,-1.3139,0.0,0.0,AIP like 1 HSP90 co-chaperone,none,,,,,0,3,0.0,no cancer role annotated
+SHH,AKAP6,"promoter hypomethylated, expression up",-0.3754,2.2848,0.0,0.0,A-kinase anchoring protein 6,none,,,,,0,8,0.0,no cancer role annotated
+SHH,AKR1E2,"promoter hypermethylated, expression down",0.1826,-1.192,0.0,0.0,aldo-keto reductase family 1 member E2,none,,,,Metabolism,0,3,0.0,no cancer role annotated
+SHH,ANGPTL2,"promoter hypomethylated, expression up",-0.1007,2.9118,0.0,0.0,angiopoietin like 2,none,,,,,0,112,0.0015,no cancer role annotated
+SHH,APBA2,"promoter hypomethylated, expression up",-0.2759,1.4388,0.0,0.0,amyloid beta precursor protein binding family A member 2,none,,,,Neuronal System,0,8,0.0,no cancer role annotated
+SHH,ARL4C,"promoter hypomethylated, expression up",-0.1185,1.3118,0.0,0.0,ARF like GTPase 4C,none,,,,Signal Transduction,0,57,0.0,no cancer role annotated
+SHH,BCHE,"promoter hypomethylated, expression up",-0.1014,2.2933,0.0,0.0,butyrylcholinesterase,none,,,,Drug ADME; Metabolism; Metabolism of proteins; Neuronal System,0,243,0.0,no cancer role annotated
+SHH,C1orf61,"promoter hypermethylated, expression down",0.1148,-1.3152,0.0,0.0,,none,,,,,0,4,0.0,no cancer role annotated
+SHH,C2orf71,"promoter hypermethylated, expression down",0.1306,-1.3409,0.0,0.0,,none,,,,,0,2,0.0,no cancer role annotated
+SHH,C6orf123,"promoter hypomethylated, expression up",-0.5596,1.5639,0.0,0.0,,none,,,,,0,0,0.0,no cancer role annotated
+SHH,C7orf33,"promoter hypermethylated, expression down",0.5574,-1.2236,0.0,0.0,chromosome 7 open reading frame 33,none,,,,,0,0,0.0,no cancer role annotated
+SHH,CA14,"promoter hypomethylated, expression up",-0.1234,2.4397,0.0,0.0,carbonic anhydrase 14,none,,,,Metabolism,0,14,0.0,no cancer role annotated
+SHH,CHN2,"promoter hypermethylated, expression down",0.1107,-2.7028,0.0,0.0,chimerin 2,none,,,,Signal Transduction,0,19,0.0,no cancer role annotated
+SHH,CHRNA1,"promoter hypomethylated, expression up",-0.1519,1.3578,0.0,0.0,cholinergic receptor nicotinic alpha 1 subunit,none,,,,Neuronal System,0,7,0.0,no cancer role annotated
+SHH,CLIP2,"promoter hypomethylated, expression up",-0.1243,1.2283,0.0,0.0,CAP-Gly domain containing linker protein 2,none,,,,,0,22,0.0413,no cancer role annotated
+SHH,COL21A1,"promoter hypomethylated, expression up",-0.1181,1.8196,0.0,0.0,collagen type XXI alpha 1 chain,none,,,,Extracellular matrix organization,0,10,0.0,no cancer role annotated
+SHH,CPLX4,"promoter hypermethylated, expression down",0.2789,-1.2983,0.0,0.0,complexin 4,none,,,,,0,1,0.0,no cancer role annotated
+SHH,CYYR1,"promoter hypomethylated, expression up",-0.1697,3.635,0.0,0.0,cysteine and tyrosine rich 1,none,,,,,0,7,0.0078,no cancer role annotated
+SHH,DAPL1,"promoter hypomethylated, expression up",-0.142,1.4118,0.0,0.0,death associated protein like 1,none,,,,,0,12,0.0,no cancer role annotated
+SHH,DMRTA1,"promoter hypomethylated, expression up",-0.2263,2.7664,0.0,0.0,DMRT like family A1,none,,,,,0,7,0.0,no cancer role annotated
+SHH,DSC2,"promoter hypermethylated, expression down",0.1448,-1.9685,0.0,0.0,desmocollin 2,none,,,,Developmental Biology,0,76,0.0,no cancer role annotated
+SHH,DSCAML1,"promoter hypermethylated, expression down",0.1531,-1.741,0.0,0.0,DS cell adhesion molecule like 1,none,,,,Developmental Biology,0,4,0.0,no cancer role annotated
+SHH,DSCR8,"promoter hypermethylated, expression down",0.2259,-1.842,0.0,0.0,Down syndrome critical region 8,none,,,,,0,9,0.0,no cancer role annotated
+SHH,ELAVL4,"promoter hypomethylated, expression up",-0.1469,1.5418,0.0,0.0,ELAV like RNA binding protein 4,none,,,,,0,24,0.005,no cancer role annotated
+SHH,EMP3,"promoter hypomethylated, expression up",-0.1216,1.3837,0.0,0.0,epithelial membrane protein 3 (MAM blood group),none,,,,,0,79,0.0,no cancer role annotated
+SHH,FAM198B,"promoter hypomethylated, expression up",-0.4089,3.3758,0.0,0.0,,none,,,,,0,12,0.0,no cancer role annotated
+SHH,FEZF2,"promoter hypermethylated, expression down",0.3411,-1.6952,0.0,0.0,FEZ family zinc finger 2,none,,,,,0,7,0.0,no cancer role annotated
+SHH,FRMPD2,"promoter hypermethylated, expression down",0.2242,-1.1155,0.0,0.0,FERM and PDZ domain containing 2,none,,,,,0,1,0.0,no cancer role annotated
+SHH,FZD7,"promoter hypomethylated, expression up",-0.1199,1.3362,0.0,0.0,frizzled class receptor 7,none,,,,Disease; Signal Transduction,0,228,0.0,no cancer role annotated
+SHH,GALM,"promoter hypomethylated, expression up",-0.12,1.4229,0.0,0.0,galactose mutarotase,none,,,,Disease; Metabolism,0,15,0.0,no cancer role annotated
+SHH,GNB3,"promoter hypermethylated, expression down",0.2385,-2.3871,0.0,0.0,G protein subunit beta 3,none,,,,Cellular responses to stimuli; Disease; Hemostasis; Metabolism; Metabolism of proteins; Neuronal System; Sensory Perception; Signal Transduction; Transport of small molecules,0,34,0.0037,no cancer role annotated
+SHH,GNG3,"promoter hypomethylated, expression up",-0.1139,2.923,0.0,0.0,G protein subunit gamma 3,none,,,,Cellular responses to stimuli; Disease; Hemostasis; Metabolism; Metabolism of proteins; Neuronal System; Signal Transduction; Transport of small molecules,0,7,0.0102,no cancer role annotated
+SHH,GPX7,"promoter hypomethylated, expression up",-0.1122,1.1569,0.0,0.0,glutathione peroxidase 7,none,,,,Cellular responses to stimuli,0,45,0.0157,no cancer role annotated
+SHH,H2AFJ,"promoter hypermethylated, expression down",0.1363,-1.1862,0.0,0.0,,none,,,,,0,13,0.0,no cancer role annotated
+SHH,HIST1H3E,"promoter hypermethylated, expression down",0.2662,-1.3025,0.0,0.0,,none,,,,,0,1,0.0,no cancer role annotated
+SHH,HIST1H3J,"promoter hypermethylated, expression down",0.2765,-1.1974,0.0,0.0,,none,,,,,0,8,0.0,no cancer role annotated
+SHH,HOOK1,"promoter hypermethylated, expression down",0.1474,-1.8722,0.0,0.0,hook microtubule tethering protein 1,none,,,,,0,23,0.0053,no cancer role annotated
+SHH,IGSF21,"promoter hypermethylated, expression down",0.1369,-2.8453,0.0,0.0,immunoglobin superfamily member 21,none,,,,,0,2,0.0,no cancer role annotated
+SHH,ILVBL,"promoter hypermethylated, expression down",0.1951,-1.0482,0.0,0.0,,none,,,,,0,0,0.0,no cancer role annotated
+SHH,JAKMIP2,"promoter hypomethylated, expression up",-0.1023,1.5666,0.0,0.0,janus kinase and microtubule interacting protein 2,none,,,,,0,3,0.0,no cancer role annotated
+SHH,KLF11,"promoter hypermethylated, expression down",0.1419,-1.0662,0.0,0.0,KLF transcription factor 11,none,,,,,0,56,0.009,no cancer role annotated
+SHH,LAMA2,"promoter hypomethylated, expression up",-0.1178,1.1732,0.0,0.0,laminin subunit alpha 2,none,,,,Developmental Biology; Disease; Extracellular matrix organization; Signal Transduction,0,61,0.0413,no cancer role annotated
+SHH,LGI1,"promoter hypermethylated, expression down",0.1071,-2.3824,0.0,0.0,leucine rich glioma inactivated 1,none,,,,Developmental Biology,0,127,0.0156,no cancer role annotated
+SHH,LRRC61,"promoter hypermethylated, expression down",0.2579,-1.3211,0.0,0.0,leucine rich repeat containing 61,none,,,,,0,2,0.0,no cancer role annotated
+SHH,MAB21L2,"promoter hypermethylated, expression down",0.3145,-1.4946,0.0,0.0,mab-21 like 2,none,,,,,0,7,0.003,no cancer role annotated
+SHH,MAPK10,"promoter hypomethylated, expression up",-0.1557,1.6341,0.0,0.0,mitogen-activated protein kinase 10,none,,,,Cellular responses to stimuli; Immune System,0,88,0.0136,no cancer role annotated
+SHH,MDFIC,"promoter hypomethylated, expression up",-0.3172,1.4935,0.0,0.0,MyoD family inhibitor domain containing,none,,,,,0,10,0.0,no cancer role annotated
+SHH,MGP,"promoter hypomethylated, expression up",-0.2881,2.2621,0.0,0.0,matrix Gla protein,none,,,,,0,194,0.005,no cancer role annotated
+SHH,MPP4,"promoter hypermethylated, expression down",0.3775,-2.1623,0.0,0.0,MAGUK p55 scaffold protein 4,none,,,,,0,5,0.0,no cancer role annotated
+SHH,MS4A4A,"promoter hypomethylated, expression up",-0.1058,1.0362,0.0,0.0,membrane spanning 4-domains A4A,none,,,,,0,32,0.0,no cancer role annotated
+SHH,MYT1,"promoter hypermethylated, expression down",0.1103,-1.4574,0.0,0.0,myelin transcription factor 1,none,,,,,0,81,0.0,no cancer role annotated
+SHH,NRIP2,"promoter hypomethylated, expression up",-0.1207,3.3509,0.0,0.0,nuclear receptor interacting protein 2,none,,,,,0,3,0.0,no cancer role annotated
+SHH,ONECUT1,"promoter hypomethylated, expression up",-0.1249,1.7407,0.0,0.0,one cut homeobox 1,none,,,,Developmental Biology,0,21,0.0,no cancer role annotated
+SHH,PACSIN2,"promoter hypomethylated, expression up",-0.199,1.0435,0.0,0.0,protein kinase C and casein kinase substrate in neurons 2,none,,,,Vesicle-mediated transport,0,6,0.0,no cancer role annotated
+SHH,PART1,"promoter hypermethylated, expression down",0.3602,-1.3089,0.0,0.0,prostate androgen-regulated transcript 1,none,,,,,0,94,0.0,no cancer role annotated
+SHH,PDE1A,"promoter hypomethylated, expression up",-0.1986,2.4032,0.0,0.0,phosphodiesterase 1A,none,,,,Hemostasis; Signal Transduction,0,15,0.0181,no cancer role annotated
+SHH,PDPN,"promoter hypomethylated, expression up",-0.1406,2.4517,0.0,0.0,podoplanin,none,,,,Hemostasis; Reproduction,0,346,0.0057,no cancer role annotated
+SHH,PIRT,"promoter hypomethylated, expression up",-0.212,3.2586,0.0,0.0,phosphoinositide interacting regulator of transient receptor potential channels,none,,,,,0,12,0.0,no cancer role annotated
+SHH,PLCH1,"promoter hypomethylated, expression up",-0.2077,2.0568,0.0,0.0,phospholipase C eta 1,none,,,,Metabolism,0,9,0.0,no cancer role annotated
+SHH,POU6F2,"promoter hypomethylated, expression up",-0.2069,2.5926,0.0,0.0,POU class 6 homeobox 2,none,,,,,0,25,0.0,no cancer role annotated
+SHH,PRNP,"promoter hypermethylated, expression down",0.1029,-1.3012,0.0,0.0,prion protein (Kanno blood group),none,,,,Developmental Biology; Protein localization,0,95,0.0619,no cancer role annotated
+SHH,PRPH2,"promoter hypermethylated, expression down",0.2611,-1.8996,0.0,0.0,peripherin 2,none,,,,,0,4,0.036,no cancer role annotated
+SHH,QPCT,"promoter hypermethylated, expression down",0.2789,-1.1446,0.0,0.0,glutaminyl-peptide cyclotransferase,none,,,,Immune System,0,29,0.0,no cancer role annotated
+SHH,RASGEF1C,"promoter hypomethylated, expression up",-0.1318,1.1657,0.0,0.0,RasGEF domain family member 1C,none,,,,,0,3,0.0,no cancer role annotated
+SHH,RASSF9,"promoter hypomethylated, expression up",-0.2194,1.1884,0.0,0.0,Ras association domain family member 9,none,,,,,0,12,0.0,no cancer role annotated
+SHH,RHOJ,"promoter hypomethylated, expression up",-0.2317,1.1952,0.0,0.0,ras homolog family member J,none,,,,Signal Transduction,0,47,0.0,no cancer role annotated
+SHH,RNF212,"promoter hypermethylated, expression down",0.1532,-1.2237,0.0,0.0,ring finger protein 212,none,,,,,0,7,0.0,no cancer role annotated
+SHH,SAMD3,"promoter hypermethylated, expression down",0.233,-2.4722,0.0,0.0,sterile alpha motif domain containing 3,none,,,,,0,12,0.0,no cancer role annotated
+SHH,SEMA6A,"promoter hypomethylated, expression up",-0.1277,2.7469,0.0,0.0,semaphorin 6A,none,,,,Developmental Biology,0,44,0.0,no cancer role annotated
+SHH,SEPP1,"promoter hypomethylated, expression up",-0.2395,2.0085,0.0,0.0,,none,,,,,0,73,0.0,no cancer role annotated
+SHH,SERPINF1,"promoter hypomethylated, expression up",-0.1433,1.5147,0.0,0.0,serpin family F member 1,none,,,,,0,49,0.0,no cancer role annotated
+SHH,SERTAD4,"promoter hypomethylated, expression up",-0.1776,1.0657,0.0,0.0,SERTA domain containing 4,none,,,,,0,5,0.0,no cancer role annotated
+SHH,SLC13A3,"promoter hypermethylated, expression down",0.1555,-2.0014,0.0,0.0,solute carrier family 13 member 3,none,,,,Transport of small molecules,0,9,0.0,no cancer role annotated
+SHH,SLC14A1,"promoter hypomethylated, expression up",-0.1586,1.9981,0.0,0.0,solute carrier family 14 member 1 (Kidd blood group),none,,,,Transport of small molecules,0,43,0.0054,no cancer role annotated
+SHH,SLC1A7,"promoter hypermethylated, expression down",0.215,-2.8341,0.0,0.0,solute carrier family 1 member 7,none,,,,Neuronal System; Transport of small molecules,0,4,0.0,no cancer role annotated
+SHH,SLC35D2,"promoter hypomethylated, expression up",-0.1565,1.1387,0.0,0.0,solute carrier family 35 member D2,none,,,,Metabolism; Transport of small molecules,0,3,0.0,no cancer role annotated
+SHH,SLC6A3,"promoter hypermethylated, expression down",0.1024,-2.2124,0.0,0.0,solute carrier family 6 member 3,none,,,,,0,41,0.0337,no cancer role annotated
+SHH,SLC6A5,"promoter hypermethylated, expression down",0.1233,-1.9329,0.0,0.0,solute carrier family 6 member 5,none,,,,Disease; Transport of small molecules,0,3,0.0366,no cancer role annotated
+SHH,SLCO4C1,"promoter hypomethylated, expression up",-0.122,1.6854,0.0,0.0,solute carrier organic anion transporter family member 4C1,none,,,,Immune System; Transport of small molecules,0,11,0.0,no cancer role annotated
+SHH,SOSTDC1,"promoter hypomethylated, expression up",-0.293,1.801,0.0,0.0,sclerostin domain containing 1,none,,,,,0,41,0.0,no cancer role annotated
+SHH,SRL,"promoter hypomethylated, expression up",-0.2048,1.1471,0.0,0.0,sarcalumenin,none,,,,,0,229,0.0,no cancer role annotated
+SHH,SULT1C4,"promoter hypomethylated, expression up",-0.1113,2.0572,0.0,0.0,sulfotransferase family 1C member 4,none,,,,Drug ADME; Metabolism,0,5,0.0,no cancer role annotated
+SHH,SYT4,"promoter hypermethylated, expression down",0.1345,-1.7327,0.0,0.0,synaptotagmin 4,none,,,,,0,10,0.0,no cancer role annotated
+SHH,TAC1,"promoter hypermethylated, expression down",0.1174,-1.4318,0.0016,0.0,tachykinin precursor 1,none,,,,Signal Transduction,0,79,0.0,no cancer role annotated
+SHH,TESK2,"promoter hypermethylated, expression down",0.1412,-1.215,0.0,0.0,testis associated actin remodelling kinase 2,none,,,,,0,3,0.0,no cancer role annotated
+SHH,TGFB3,"promoter hypermethylated, expression down",0.1083,-1.7652,0.0,0.0,transforming growth factor beta 3,none,,,,Extracellular matrix organization; Hemostasis; Signal Transduction,0,89,0.0,no cancer role annotated
+SHH,THBS4,"promoter hypermethylated, expression down",0.1737,-1.9009,0.0,0.0,thrombospondin 4,none,,,,Signal Transduction,0,58,0.0,no cancer role annotated
+SHH,TRAF3IP2,"promoter hypermethylated, expression down",0.1483,-1.4962,0.0,0.0,TRAF3 interacting protein 2,none,,,,,0,43,0.0,no cancer role annotated
+SHH,TRPM3,"promoter hypermethylated, expression down",0.1621,-3.0004,0.0,0.0,transient receptor potential cation channel subfamily M member 3,none,,,,Transport of small molecules,0,53,0.0155,no cancer role annotated
+SHH,TRPS1,"promoter hypomethylated, expression up",-0.1065,2.1362,0.0,0.0,transcriptional repressor GATA binding 1,none,,,,,0,215,0.0,no cancer role annotated
+SHH,TSPYL5,"promoter hypermethylated, expression down",0.2259,-1.3572,0.0,0.0,TSPY like 5,none,,,,,0,44,0.0,no cancer role annotated
+SHH,WNK2,"promoter hypermethylated, expression down",0.1625,-1.0998,0.0,0.0,WNK lysine deficient protein kinase 2,none,,,,Transport of small molecules,0,39,0.0106,no cancer role annotated
+SHH,ZNF154,"promoter hypermethylated, expression down",0.3418,-1.4135,0.0,0.0,zinc finger protein 154,none,,,,Gene expression (Transcription),0,34,0.0,no cancer role annotated
+SHH,ZNF334,"promoter hypermethylated, expression down",0.2236,-1.6615,0.0,0.0,zinc finger protein 334,none,,,,Gene expression (Transcription),0,8,0.0,no cancer role annotated
+SHH,ZSCAN12,"promoter hypermethylated, expression down",0.2144,-1.1581,0.0,0.0,zinc finger and SCAN domain containing 12,none,,,,,0,12,0.0,no cancer role annotated
+SHH,SCG5,"promoter hypomethylated, expression up",-0.3556,2.3999,0.0,0.0,secretogranin V,oncogene,ONCOGENE,,,,0,25,0.022,oncogene switched on
+SHH,APCDD1,"promoter hypermethylated, expression down",0.1184,-1.0617,0.0,0.0,APC down-regulated 1,tumour suppressor,TSG,,,,0,25,0.0,tumour suppressor silenced
+SHH,NDRG1,"promoter hypomethylated, expression up",-0.1125,1.3693,0.0,0.0,N-myc downstream regulated 1,tumour suppressor,,TSG; fusion,cell replicative immortality (suppresses); invasion and metastasis (suppresses); proliferative signalling (promotes); suppression of growth (promotes),Gene expression (Transcription),2,581,0.0328,tumour suppressor switched on
+WNT,FAP,"promoter hypomethylated, expression up",-0.1006,1.1487,0.0,0.0,fibroblast activation protein alpha,none,,,,,29,4189,0.0123,no cancer role annotated
+WNT,IMPG2,"promoter hypomethylated, expression up",-0.2634,1.8738,0.0,0.0,interphotoreceptor matrix proteoglycan 2,none,,,,,4,4,0.0126,no cancer role annotated
+WNT,LOXL1,"promoter hypomethylated, expression up",-0.1843,1.913,0.0,0.0,lysyl oxidase like 1,none,,,,Extracellular matrix organization,4,151,0.084,no cancer role annotated
+WNT,PRAME,"promoter hypomethylated, expression up",-0.1222,1.2601,0.0,0.0,PRAME nuclear receptor transcriptional regulator,none,,,,,3,557,0.0113,no cancer role annotated
+WNT,ABCA1,"promoter hypomethylated, expression up",-0.3025,1.4984,0.0,0.0,ATP binding cassette subfamily A member 1,none,,,,Disease; Metabolism; Signal Transduction; Transport of small molecules,2,488,0.0054,no cancer role annotated
+WNT,DKK4,"promoter hypomethylated, expression up",-0.1787,4.3507,0.0,0.0,dickkopf Wnt signaling pathway inhibitor 4,none,INSUFFICIENT_EVIDENCE,,,Disease; Signal Transduction,2,84,0.0044,no cancer role annotated
+WNT,EOMES,"promoter hypermethylated, expression down",0.2201,-2.4051,0.0,0.0,eomesodermin,none,,,,Developmental Biology; Reproduction,2,273,0.0123,no cancer role annotated
+WNT,PPP2R2C,"promoter hypermethylated, expression down",0.176,-1.632,0.0,0.0,protein phosphatase 2 regulatory subunit Bgamma,none,,,,,2,21,0.0048,no cancer role annotated
+WNT,ACTC1,"promoter hypomethylated, expression up",-0.1905,2.7489,0.0,0.0,actin alpha cardiac muscle 1,none,,,,Cell-Cell communication; Extracellular matrix organization; Muscle contraction; Signal Transduction,1,37,0.0739,no cancer role annotated
+WNT,ATP1A2,"promoter hypomethylated, expression up",-0.3282,1.2476,0.0,0.0,ATPase Na+/K+ transporting subunit alpha 2,none,,,,Disease; Muscle contraction; Transport of small molecules,1,30,0.0797,no cancer role annotated
+WNT,CLIC1,"promoter hypomethylated, expression up",-0.3486,1.0512,0.0,0.0,CLIC family member 1,none,,,,,1,152,0.019,no cancer role annotated
+WNT,COLEC12,"promoter hypomethylated, expression up",-0.152,2.5562,0.0,0.0,collectin subfamily member 12,none,,,,Immune System; Vesicle-mediated transport,1,25,0.0,no cancer role annotated
+WNT,DDX31,"promoter hypermethylated, expression down",0.1326,-1.2825,0.0,0.0,DEAD-box helicase 31,none,,,,,1,7,0.0138,no cancer role annotated
+WNT,FMOD,"promoter hypomethylated, expression up",-0.2599,2.3687,0.0,0.0,fibromodulin,none,,,,Disease; Extracellular matrix organization; Metabolism,1,55,0.0,no cancer role annotated
+WNT,GPX8,"promoter hypomethylated, expression up",-0.3487,1.8928,0.0,0.0,glutathione peroxidase 8 (putative),none,,,,Cellular responses to stimuli,1,54,0.0,no cancer role annotated
+WNT,HDAC9,"promoter hypermethylated, expression down",0.109,-2.6185,0.0,0.0,histone deacetylase 9,none,,,,Developmental Biology; Disease; Gene expression (Transcription); Signal Transduction,1,147,0.1031,no cancer role annotated
+WNT,KHDRBS2,"promoter hypermethylated, expression down",0.1837,-3.5594,0.0,0.0,"KH RNA binding domain containing, signal transduction associated 2",none,,,,Signal Transduction,1,13,0.0044,no cancer role annotated
+WNT,LGALS1,"promoter hypomethylated, expression up",-0.1896,1.2395,0.0,0.0,galectin 1,none,,,,Metabolism of proteins,1,172,0.043,no cancer role annotated
+WNT,LMX1A,"promoter hypermethylated, expression down",0.1341,-1.9067,0.0,0.0,LIM homeobox transcription factor 1 alpha,none,,,,,1,43,0.0573,no cancer role annotated
+WNT,LUM,"promoter hypermethylated, expression down",0.1386,-1.035,0.0,0.0,lumican,none,,,,Disease; Extracellular matrix organization; Metabolism,1,195,0.0061,no cancer role annotated
+WNT,MTSS1,"promoter hypermethylated, expression down",0.1025,-1.2988,0.0,0.0,MTSS I-BAR domain containing 1,none,,,,,1,142,0.0026,no cancer role annotated
+WNT,NET1,"promoter hypomethylated, expression up",-0.2099,2.4474,0.0,0.0,neuroepithelial cell transforming 1,none,,,,Signal Transduction,1,103,0.0,no cancer role annotated
+WNT,SLITRK6,"promoter hypomethylated, expression up",-0.177,2.4494,0.0,0.0,SLIT and NTRK like family member 6,none,,,,Neuronal System,1,13,0.0,no cancer role annotated
+WNT,ABCA9,"promoter hypermethylated, expression down",0.116,-1.1198,0.0009,0.0,ATP binding cassette subfamily A member 9,none,,,,Transport of small molecules,0,17,0.0,no cancer role annotated
+WNT,ACPP,"promoter hypomethylated, expression up",-0.1766,1.957,0.0,0.0,,none,,,,,0,101,0.0,no cancer role annotated
+WNT,ADAM19,"promoter hypomethylated, expression up",-0.1285,2.633,0.0,0.0,ADAM metallopeptidase domain 19,none,,,,Cell-Cell communication; Extracellular matrix organization,0,46,0.0,no cancer role annotated
+WNT,AHNAK,"promoter hypomethylated, expression up",-0.1352,1.3851,0.0,0.0,AHNAK nucleoprotein,none,,,,,0,143,0.0037,no cancer role annotated
+WNT,AKAP6,"promoter hypomethylated, expression up",-0.2162,1.8206,0.0,0.0,A-kinase anchoring protein 6,none,,,,,0,8,0.0,no cancer role annotated
+WNT,AKR1E2,"promoter hypermethylated, expression down",0.348,-2.251,0.0,0.0,aldo-keto reductase family 1 member E2,none,,,,Metabolism,0,3,0.0,no cancer role annotated
+WNT,ALDH5A1,"promoter hypermethylated, expression down",0.1709,-1.5119,0.0,0.0,aldehyde dehydrogenase 5 family member A1,none,,,,Neuronal System,0,20,0.037,no cancer role annotated
+WNT,AMHR2,"promoter hypomethylated, expression up",-0.2841,3.7044,0.0,0.0,anti-Mullerian hormone receptor type 2,none,,,,Signal Transduction,0,64,0.0,no cancer role annotated
+WNT,ANKRD30B,"promoter hypermethylated, expression down",0.1133,-1.1661,0.0,0.0,ankyrin repeat domain 30B,none,,,,,0,2,0.0,no cancer role annotated
+WNT,ANXA2P2,"promoter hypomethylated, expression up",-0.1286,1.3576,0.0,0.0,annexin A2 pseudogene 2,none,,,,,0,12,0.0,no cancer role annotated
+WNT,BTBD11,"promoter hypermethylated, expression down",0.1232,-1.4383,0.0,0.0,,none,,,,,0,2,0.0,no cancer role annotated
+WNT,C14orf39,"promoter hypermethylated, expression down",0.143,-1.514,0.0,0.0,chromosome 14 open reading frame 39,none,,,,,0,1,0.0,no cancer role annotated
+WNT,CACNA1E,"promoter hypermethylated, expression down",0.2159,-1.153,0.0,0.0,calcium voltage-gated channel subunit alpha1 E,none,,,,Metabolism; Neuronal System,0,20,0.0,no cancer role annotated
+WNT,CACNA2D4,"promoter hypomethylated, expression up",-0.5309,2.253,0.0,0.0,calcium voltage-gated channel auxiliary subunit alpha2delta 4,none,,,,,0,6,0.0,no cancer role annotated
+WNT,CALHM2,"promoter hypomethylated, expression up",-0.2604,1.972,0.0,0.0,calcium homeostasis modulator family member 2,none,,,,,0,5,0.0,no cancer role annotated
+WNT,CAPS,"promoter hypomethylated, expression up",-0.277,1.355,0.0,0.0,calcyphosine,none,,,,,0,739,0.0,no cancer role annotated
+WNT,CCDC36,"promoter hypomethylated, expression up",-0.1873,2.5918,0.0,0.0,,none,,,,,0,3,0.0,no cancer role annotated
+WNT,CCDC8,"promoter hypomethylated, expression up",-0.3155,1.2434,0.0,0.0,coiled-coil domain containing 8 subunit of 3M complex,none,,,,Metabolism of proteins,0,17,0.0,no cancer role annotated
+WNT,CDC42EP3,"promoter hypomethylated, expression up",-0.111,1.3698,0.0,0.0,CDC42 effector protein 3,none,,,,Signal Transduction,0,19,0.0,no cancer role annotated
+WNT,CER1,"promoter hypermethylated, expression down",0.3323,-1.3096,0.0,0.0,"cerberus 1, DAN family BMP antagonist",none,,,,Developmental Biology; Signal Transduction,0,22,0.0,no cancer role annotated
+WNT,CHI3L1,"promoter hypomethylated, expression up",-0.2011,2.5244,0.0,0.0,chitinase 3 like 1,none,,,,Immune System,0,374,0.0119,no cancer role annotated
+WNT,CKB,"promoter hypermethylated, expression down",0.1577,-1.2295,0.0,0.0,creatine kinase B,none,,,,Metabolism; Signal Transduction,0,145,0.0102,no cancer role annotated
+WNT,CNGA3,"promoter hypomethylated, expression up",-0.1484,3.5496,0.0,0.0,cyclic nucleotide gated channel subunit alpha 3,none,,,,,0,5,0.0,no cancer role annotated
+WNT,CNTN6,"promoter hypomethylated, expression up",-0.102,1.7075,0.0,0.0,contactin 6,none,,,,Developmental Biology,0,15,0.0022,no cancer role annotated
+WNT,COCH,"promoter hypermethylated, expression down",0.1082,-1.3649,0.0,0.0,cochlin,none,,,,,0,31,0.0,no cancer role annotated
+WNT,COL6A3,"promoter hypomethylated, expression up",-0.2437,3.319,0.0,0.0,collagen type VI alpha 3 chain,none,,,,Developmental Biology; Extracellular matrix organization; Signal Transduction,0,180,0.0047,no cancer role annotated
+WNT,COLQ,"promoter hypomethylated, expression up",-0.1559,1.1251,0.0,0.0,collagen like tail subunit of asymmetric acetylcholinesterase,none,,,,,0,7,0.0,no cancer role annotated
+WNT,CPLX4,"promoter hypermethylated, expression down",0.1315,-1.0064,0.0,0.0,complexin 4,none,,,,,0,1,0.0,no cancer role annotated
+WNT,CSPG4,"promoter hypomethylated, expression up",-0.1005,1.4859,0.0,0.0,chondroitin sulfate proteoglycan 4,none,,,,Developmental Biology; Disease; Metabolism,0,202,0.0,no cancer role annotated
+WNT,CYB5R2,"promoter hypomethylated, expression up",-0.1376,3.1242,0.0,0.0,cytochrome b5 reductase 2,none,,,,Transport of small molecules,0,10,0.0,no cancer role annotated
+WNT,DBX1,"promoter hypomethylated, expression up",-0.1288,1.7671,0.0,0.0,developing brain homeobox 1,none,,,,,0,4,0.0,no cancer role annotated
+WNT,DEFA5,"promoter hypomethylated, expression up",-0.291,1.2544,0.0,0.0,defensin alpha 5,none,,,,Cellular responses to stimuli; Immune System,0,20,0.0,no cancer role annotated
+WNT,DNAH2,"promoter hypomethylated, expression up",-0.2199,1.7103,0.0,0.0,dynein axonemal heavy chain 2,none,,,,,0,5,0.0037,no cancer role annotated
+WNT,DPY19L2P2,"promoter hypermethylated, expression down",0.1207,-1.0129,0.0,0.0,DPY19L2 pseudogene 2,none,,,,,0,0,0.0,no cancer role annotated
+WNT,DSCR8,"promoter hypomethylated, expression up",-0.343,2.2151,0.0,0.0,Down syndrome critical region 8,none,,,,,0,9,0.0,no cancer role annotated
+WNT,DSG2,"promoter hypomethylated, expression up",-0.1689,2.8519,0.0,0.0,desmoglein 2,none,,,,Developmental Biology; Programmed Cell Death; Signal Transduction,0,158,0.0054,no cancer role annotated
+WNT,EHHADH,"promoter hypomethylated, expression up",-0.1079,1.0865,0.0,0.0,enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase,none,,,,Metabolism; Protein localization,0,50,0.0,no cancer role annotated
+WNT,ELAVL4,"promoter hypermethylated, expression down",0.1252,-2.6917,0.0,0.0,ELAV like RNA binding protein 4,none,,,,,0,24,0.005,no cancer role annotated
+WNT,EMB,"promoter hypomethylated, expression up",-0.1669,2.6873,0.0,0.0,embigin,none,,,,Transport of small molecules,0,123,0.0,no cancer role annotated
+WNT,ENPP2,"promoter hypomethylated, expression up",-0.1154,1.3439,0.0,0.0,ectonucleotide pyrophosphatase/phosphodiesterase 2,none,,,,Metabolism,0,109,0.0172,no cancer role annotated
+WNT,ESM1,"promoter hypomethylated, expression up",-0.1013,1.3876,0.0,0.0,endothelial cell specific molecule 1,none,,,,,0,170,0.0,no cancer role annotated
+WNT,FABP7,"promoter hypermethylated, expression down",0.4829,-1.1903,0.0,0.0,fatty acid binding protein 7,none,,,,Metabolism; Signal Transduction,0,111,0.0083,no cancer role annotated
+WNT,FAM174B,"promoter hypomethylated, expression up",-0.2001,1.4832,0.0,0.0,family with sequence similarity 174 member B,none,,,,,0,6,0.1991,no cancer role annotated
+WNT,FGF20,"promoter hypomethylated, expression up",-0.2037,2.8777,0.0,0.0,fibroblast growth factor 20,none,,,,Disease; Signal Transduction,0,40,0.0,no cancer role annotated
+WNT,FZD6,"promoter hypomethylated, expression up",-0.12,2.0202,0.0,0.0,frizzled class receptor 6,none,,,,Disease; Signal Transduction,0,95,0.0,no cancer role annotated
+WNT,GLT8D2,"promoter hypomethylated, expression up",-0.5088,3.3465,0.0,0.0,glycosyltransferase 8 domain containing 2,none,,,,,0,9,0.0,no cancer role annotated
+WNT,GUCY1B3,"promoter hypermethylated, expression down",0.1676,-1.2687,0.0,0.0,,none,,,,,0,5,0.0,no cancer role annotated
+WNT,HIST1H4D,"promoter hypermethylated, expression down",0.4169,-1.8853,0.0,0.0,,none,,,,,0,2,0.0,no cancer role annotated
+WNT,HIST1H4F,"promoter hypermethylated, expression down",0.1703,-1.1106,0.0,0.0,,none,,,,,0,12,0.0,no cancer role annotated
+WNT,HOXA7,"promoter hypermethylated, expression down",0.1191,-1.4404,0.0,0.0,homeobox A7,none,,,,,0,81,0.0073,no cancer role annotated
+WNT,IL11RA,"promoter hypomethylated, expression up",-0.142,1.3825,0.0,0.0,interleukin 11 receptor subunit alpha,none,,,,Immune System,0,43,0.0,no cancer role annotated
+WNT,IL20RA,"promoter hypomethylated, expression up",-0.1596,1.8766,0.0,0.0,interleukin 20 receptor subunit alpha,none,,,,Immune System,0,30,0.0,no cancer role annotated
+WNT,KCNA5,"promoter hypermethylated, expression down",0.1748,-1.0997,0.0,0.0003,potassium voltage-gated channel subfamily A member 5,none,,,,Muscle contraction; Neuronal System,0,11,0.0052,no cancer role annotated
+WNT,KCNIP1,"promoter hypomethylated, expression up",-0.1156,2.2239,0.0,0.0,potassium voltage-gated channel interacting protein 1,none,,,,Muscle contraction,0,4,0.0,no cancer role annotated
+WNT,KCTD14,"promoter hypomethylated, expression up",-0.1271,1.3829,0.0,0.0,potassium channel tetramerization domain containing 14,none,,,,,0,3,0.0,no cancer role annotated
+WNT,LEMD1,"promoter hypermethylated, expression down",0.1366,-2.5498,0.0,0.0,LEM domain containing 1,none,,,,,0,29,0.0074,no cancer role annotated
+WNT,LPIN1,"promoter hypomethylated, expression up",-0.1907,1.1767,0.0,0.0,lipin 1,none,,,,Cell Cycle; Gene expression (Transcription); Metabolism,0,32,0.0,no cancer role annotated
+WNT,LRIT1,"promoter hypomethylated, expression up",-0.3245,1.2795,0.0,0.0,"leucine rich repeat, Ig-like and transmembrane domains 1",none,,,,,0,0,0.0,no cancer role annotated
+WNT,LRP4,"promoter hypomethylated, expression up",-0.2299,3.1276,0.0,0.0,LDL receptor related protein 4,none,,,,Extracellular matrix organization,0,36,0.0185,no cancer role annotated
+WNT,LRRC55,"promoter hypomethylated, expression up",-0.1248,1.9329,0.0,0.0,leucine rich repeat containing 55,none,,,,,0,1,0.0,no cancer role annotated
+WNT,LRTM1,"promoter hypomethylated, expression up",-0.3555,1.155,0.0,0.0,leucine rich repeat transmembrane protein 1,none,,,,,0,2,0.0,no cancer role annotated
+WNT,MCTP2,"promoter hypomethylated, expression up",-0.2356,1.9817,0.0,0.0,multiple C2 and transmembrane domain containing 2,none,,,,,0,7,0.0,no cancer role annotated
+WNT,ME3,"promoter hypermethylated, expression down",0.1616,-1.2054,0.0,0.0,malic enzyme 3,none,,,,Metabolism,0,88,0.0,no cancer role annotated
+WNT,MFHAS1,"promoter hypomethylated, expression up",-0.1414,1.0958,0.0,0.0,multifunctional ROCO family signaling regulator 1,none,,,,,0,15,0.0,no cancer role annotated
+WNT,MFNG,"promoter hypomethylated, expression up",-0.2001,1.2143,0.0,0.0,MFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase,none,,,,Signal Transduction,0,20,0.0,no cancer role annotated
+WNT,MPP3,"promoter hypermethylated, expression down",0.1046,-2.5532,0.0,0.0,MAGUK p55 scaffold protein 3,none,,,,,0,16,0.0,no cancer role annotated
+WNT,MPP4,"promoter hypomethylated, expression up",-0.2282,1.2385,0.0,0.0,MAGUK p55 scaffold protein 4,none,,,,,0,5,0.0,no cancer role annotated
+WNT,MTMR11,"promoter hypomethylated, expression up",-0.1001,1.0648,0.0,0.0,myotubularin related protein 11,none,,,,,0,5,0.0,no cancer role annotated
+WNT,MYO3B,"promoter hypomethylated, expression up",-0.2359,2.7544,0.0,0.0,myosin IIIB,none,,,,Sensory Perception,0,3,0.0,no cancer role annotated
+WNT,MYOT,"promoter hypomethylated, expression up",-0.3898,4.3824,0.0,0.0,myotilin,none,,,,,0,6,0.0,no cancer role annotated
+WNT,NAV2,"promoter hypomethylated, expression up",-0.2164,2.5576,0.0,0.0,neuron navigator 2,none,,,,,0,17,0.0,no cancer role annotated
+WNT,NEUROD4,"promoter hypomethylated, expression up",-0.1931,1.5945,0.0,0.0,neuronal differentiation 4,none,,,,,0,12,0.0333,no cancer role annotated
+WNT,NHLH2,"promoter hypermethylated, expression down",0.1017,-1.5377,0.0,0.0,nescient helix-loop-helix 2,none,,,,,0,5,0.0045,no cancer role annotated
+WNT,NOD2,"promoter hypomethylated, expression up",-0.1186,1.4882,0.0,0.0,nucleotide binding oligomerization domain containing 2,none,,,,Disease; Immune System; Metabolism of proteins,0,550,0.0,no cancer role annotated
+WNT,NTN5,"promoter hypomethylated, expression up",-0.5595,4.0746,0.0,0.0,netrin 5,none,,,,,0,5,0.0,no cancer role annotated
+WNT,OSBPL10,"promoter hypomethylated, expression up",-0.1634,1.4298,0.0,0.0,oxysterol binding protein like 10,none,,,,Metabolism,0,19,0.0,no cancer role annotated
+WNT,PART1,"promoter hypomethylated, expression up",-0.275,4.3238,0.0,0.0,prostate androgen-regulated transcript 1,none,,,,,0,94,0.0,no cancer role annotated
+WNT,PCDHA1,"promoter hypermethylated, expression down",0.128,-1.9988,0.0,0.0,protocadherin alpha 1,none,,,,,0,9,0.0,no cancer role annotated
+WNT,PCDHB15,"promoter hypermethylated, expression down",0.1211,-1.1525,0.0,0.0,protocadherin beta 15,none,,,,,0,4,0.0,no cancer role annotated
+WNT,PCDHB3,"promoter hypermethylated, expression down",0.1092,-1.0936,0.0,0.0,protocadherin beta 3,none,,,,,0,2,0.0,no cancer role annotated
+WNT,PCDHB7,"promoter hypermethylated, expression down",0.1391,-1.2522,0.0,0.0,protocadherin beta 7,none,,,,,0,3,0.0,no cancer role annotated
+WNT,PCOLCE,"promoter hypomethylated, expression up",-0.11,1.6365,0.0,0.0,procollagen C-endopeptidase enhancer,none,,,,Extracellular matrix organization,0,31,0.0,no cancer role annotated
+WNT,PCSK1,"promoter hypomethylated, expression up",-0.1122,1.8249,0.0,0.0,proprotein convertase subtilisin/kexin type 1,none,,,,Metabolism of proteins,0,36,0.0055,no cancer role annotated
+WNT,PDLIM4,"promoter hypomethylated, expression up",-0.2478,2.1308,0.0,0.0,PDZ and LIM domain 4,none,,,,,0,39,0.0,no cancer role annotated
+WNT,PLCD4,"promoter hypomethylated, expression up",-0.1042,1.6596,0.0,0.0,phospholipase C delta 4,none,,,,Metabolism,0,6,0.0,no cancer role annotated
+WNT,PLEKHF2,"promoter hypomethylated, expression up",-0.1769,1.9707,0.0,0.0,pleckstrin homology and FYVE domain containing 2,none,,,,,0,2,0.0,no cancer role annotated
+WNT,PLIN3,"promoter hypomethylated, expression up",-0.1255,1.2488,0.0,0.0,perilipin 3,none,,,,Autophagy; Metabolism; Signal Transduction; Vesicle-mediated transport,0,41,0.0,no cancer role annotated
+WNT,POSTN,"promoter hypomethylated, expression up",-0.1637,1.2835,0.0,0.0,periostin,none,,,,,0,467,0.0041,no cancer role annotated
+WNT,PRELID2,"promoter hypomethylated, expression up",-0.1083,2.8304,0.0,0.0,PRELI domain containing 2,none,,,,,0,6,0.0,no cancer role annotated
+WNT,PTP4A1,"promoter hypermethylated, expression down",0.1421,-1.1088,0.0,0.0,protein tyrosine phosphatase 4A1,none,INSUFFICIENT_EVIDENCE,,,,0,46,0.0,no cancer role annotated
+WNT,QPCT,"promoter hypomethylated, expression up",-0.1963,1.7772,0.0,0.0,glutaminyl-peptide cyclotransferase,none,,,,Immune System,0,29,0.0,no cancer role annotated
+WNT,QPRT,"promoter hypomethylated, expression up",-0.1932,1.6414,0.0,0.0,quinolinate phosphoribosyltransferase,none,,,,Metabolism,0,33,0.0,no cancer role annotated
+WNT,RANBP17,"promoter hypermethylated, expression down",0.1508,-1.0597,0.0,0.0,RAN binding protein 17,none,,,,,0,6,0.0,no cancer role annotated
+WNT,RASGRF2,"promoter hypermethylated, expression down",0.2459,-1.6947,0.0,0.0,Ras protein specific guanine nucleotide releasing factor 2,none,,,,Neuronal System; Signal Transduction,0,29,0.0087,no cancer role annotated
+WNT,RASIP1,"promoter hypomethylated, expression up",-0.578,1.3561,0.0,0.0,Ras interacting protein 1,none,,,,,0,8,0.0,no cancer role annotated
+WNT,RASSF3,"promoter hypomethylated, expression up",-0.156,1.8372,0.0,0.0,Ras association domain family member 3,none,,,,,0,19,0.0,no cancer role annotated
+WNT,RD3,"promoter hypomethylated, expression up",-0.1883,1.2126,0.0,0.0,RD3 regulator of GUCY2D,none,,,,,0,20,0.0,no cancer role annotated
+WNT,REG1B,"promoter hypomethylated, expression up",-0.5846,1.2475,0.0,0.0,regenerating family member 1 beta,none,,,,,0,20,0.0,no cancer role annotated
+WNT,RNF112,"promoter hypomethylated, expression up",-0.1036,1.1391,0.0,0.0,ring finger protein 112,none,,,,,0,8,0.0,no cancer role annotated
+WNT,SAMD3,"promoter hypermethylated, expression down",0.169,-2.1256,0.0,0.0,sterile alpha motif domain containing 3,none,,,,,0,12,0.0,no cancer role annotated
+WNT,SELENBP1,"promoter hypomethylated, expression up",-0.1186,2.0492,0.0,0.0,selenium binding protein 1,none,,,,,0,73,0.0,no cancer role annotated
+WNT,SERPIND1,"promoter hypomethylated, expression up",-0.1666,1.5607,0.0,0.0,serpin family D member 1,none,,,,Hemostasis; Metabolism of proteins,0,18,0.0,no cancer role annotated
+WNT,SFN,"promoter hypomethylated, expression up",-0.1785,1.2128,0.0,0.0,stratifin,none,,,,Cell Cycle; Disease; Gene expression (Transcription); Immune System; Programmed Cell Death; Signal Transduction; Vesicle-mediated transport,0,941,0.0,no cancer role annotated
+WNT,SGIP1,"promoter hypermethylated, expression down",0.1544,-1.6857,0.0,0.0,SH3GL interacting endocytic adaptor 1,none,,,,Vesicle-mediated transport,0,8,0.0055,no cancer role annotated
+WNT,SGPP2,"promoter hypomethylated, expression up",-0.1413,2.4569,0.0,0.0,sphingosine-1-phosphate phosphatase 2,none,,,,Metabolism,0,20,0.0187,no cancer role annotated
+WNT,SH3D19,"promoter hypomethylated, expression up",-0.1089,1.3527,0.0,0.0,SH3 domain containing 19,none,,,,Vesicle-mediated transport,0,1,0.0,no cancer role annotated
+WNT,SLC13A3,"promoter hypomethylated, expression up",-0.1601,1.5729,0.0,0.0,solute carrier family 13 member 3,none,,,,Transport of small molecules,0,9,0.0,no cancer role annotated
+WNT,SLC16A4,"promoter hypomethylated, expression up",-0.245,1.5088,0.0,0.0,solute carrier family 16 member 4,none,,,,,0,18,0.0052,no cancer role annotated
+WNT,SLC17A6,"promoter hypermethylated, expression down",0.1989,-1.9848,0.0,0.0,solute carrier family 17 member 6,none,,,,Transport of small molecules,0,5,0.0,no cancer role annotated
+WNT,SLC1A4,"promoter hypomethylated, expression up",-0.1152,1.235,0.0,0.0,solute carrier family 1 member 4,none,,,,Transport of small molecules,0,27,0.037,no cancer role annotated
+WNT,SLC20A2,"promoter hypomethylated, expression up",-0.1817,1.364,0.0,0.0,solute carrier family 20 member 2,none,,,,Disease; Transport of small molecules,0,8,0.0,no cancer role annotated
+WNT,SLC6A3,"promoter hypermethylated, expression down",0.1961,-1.8035,0.0,0.0,solute carrier family 6 member 3,none,,,,,0,41,0.0337,no cancer role annotated
+WNT,SP5,"promoter hypomethylated, expression up",-0.1601,3.1666,0.0,0.0,Sp5 transcription factor,none,,,,,0,64,0.0063,no cancer role annotated
+WNT,SPINK5,"promoter hypomethylated, expression up",-0.1925,1.0075,0.0,0.0,serine peptidase inhibitor Kazal type 5,none,,,,Developmental Biology,0,53,0.0,no cancer role annotated
+WNT,STRA6,"promoter hypomethylated, expression up",-0.4004,1.4769,0.0,0.0,signaling receptor and transporter of retinol STRA6,none,,,,,0,44,0.0,no cancer role annotated
+WNT,SYCP2L,"promoter hypermethylated, expression down",0.1696,-1.6102,0.0,0.0,synaptonemal complex protein 2 like,none,,,,,0,3,0.0,no cancer role annotated
+WNT,TBX18,"promoter hypermethylated, expression down",0.1928,-1.1429,0.0,0.0,T-box transcription factor 18,none,,,,,0,16,0.0,no cancer role annotated
+WNT,TFCP2,"promoter hypermethylated, expression down",0.2856,-1.0059,0.0,0.0,transcription factor CP2,none,,,,,0,87,0.0,no cancer role annotated
+WNT,TMBIM1,"promoter hypomethylated, expression up",-0.1214,1.2229,0.0,0.0,transmembrane BAX inhibitor motif containing 1,none,,,,Immune System,0,15,0.0,no cancer role annotated
+WNT,TMEM132C,"promoter hypomethylated, expression up",-0.1956,4.2251,0.0,0.0,transmembrane protein 132C,none,,,,,0,6,0.0,no cancer role annotated
+WNT,TMEM51,"promoter hypomethylated, expression up",-0.1,4.2474,0.0,0.0,transmembrane protein 51,none,,,,,0,10,0.0,no cancer role annotated
+WNT,TSPAN5,"promoter hypomethylated, expression up",-0.106,1.0063,0.0,0.0,tetraspanin 5,none,,,,Metabolism of proteins,0,23,0.0,no cancer role annotated
+WNT,TSPAN9,"promoter hypomethylated, expression up",-0.1135,1.8636,0.0,0.0,tetraspanin 9,none,,,,,0,18,0.0,no cancer role annotated
+WNT,TSPYL5,"promoter hypermethylated, expression down",0.1386,-1.0866,0.0,0.0001,TSPY like 5,none,,,,,0,44,0.0,no cancer role annotated
+WNT,VRK2,"promoter hypomethylated, expression up",-0.4762,1.8773,0.0,0.0,VRK serine/threonine kinase 2,none,,,,Cell Cycle; Signal Transduction,0,38,0.0,no cancer role annotated
+WNT,VWDE,"promoter hypomethylated, expression up",-0.1455,2.5186,0.0,0.0,von Willebrand factor D and EGF domains,none,,,,,0,3,0.0,no cancer role annotated
+WNT,WNT16,"promoter hypomethylated, expression up",-0.1253,2.4859,0.0001,0.0,Wnt family member 16,none,,,,Signal Transduction,0,47,0.0055,no cancer role annotated
+WNT,ZNF154,"promoter hypermethylated, expression down",0.3356,-1.8083,0.0,0.0,zinc finger protein 154,none,,,,Gene expression (Transcription),0,34,0.0,no cancer role annotated
+WNT,ZNF418,"promoter hypermethylated, expression down",0.1388,-1.1833,0.0,0.0,zinc finger protein 418,none,,,,Gene expression (Transcription),0,7,0.0,no cancer role annotated
+WNT,ZNF681,"promoter hypermethylated, expression down",0.1855,-1.4214,0.0,0.0,zinc finger protein 681,none,,,,Gene expression (Transcription),0,1,0.0,no cancer role annotated
+WNT,ZSCAN12,"promoter hypermethylated, expression down",0.5034,-1.3041,0.0,0.0,zinc finger and SCAN domain containing 12,none,,,,,0,12,0.0,no cancer role annotated
+WNT,SYK,"promoter hypomethylated, expression up",-0.1801,2.4485,0.0,0.0,spleen associated tyrosine kinase,oncogene,ONCOGENE,,,Disease; Hemostasis; Immune System; Signal Transduction,2,974,0.0466,oncogene switched on
+WNT,STAT4,"promoter hypomethylated, expression up",-0.185,1.2003,0.0,0.0,signal transducer and activator of transcription 4,oncogene,ONCOGENE,,,Developmental Biology; Immune System,1,331,0.0,oncogene switched on
+WNT,DDR2,"promoter hypomethylated, expression up",-0.3147,2.357,0.0,0.0,discoidin domain receptor tyrosine kinase 2,oncogene,ONCOGENE,oncogene,invasion and metastasis (promotes),Extracellular matrix organization,0,335,0.1848,oncogene switched on
+WNT,SCG5,"promoter hypomethylated, expression up",-0.1025,1.2174,0.0009,0.0,secretogranin V,oncogene,ONCOGENE,,,,0,25,0.022,oncogene switched on
+WNT,SFRP1,"promoter hypermethylated, expression down",0.1375,-1.8665,0.0,0.0,secreted frizzled related protein 1,tumour suppressor,TSG,,,Signal Transduction,10,646,0.0134,tumour suppressor silenced
+WNT,EPHA3,"promoter hypomethylated, expression up",-0.1452,3.6564,0.0,0.0,EPH receptor A3,tumour suppressor,TSG,,,Developmental Biology,4,180,0.1265,tumour suppressor switched on
+WNT,SLFN11,"promoter hypomethylated, expression up",-0.1097,3.2768,0.0,0.0,schlafen family member 11,tumour suppressor,TSG,,,,3,204,0.0383,tumour suppressor switched on
+WNT,ZNRF3,"promoter hypomethylated, expression up",-0.1731,2.0755,0.0,0.0,zinc and ring finger 3,tumour suppressor,TSG,,,Signal Transduction,3,126,0.0,tumour suppressor switched on
+WNT,RNF43,"promoter hypomethylated, expression up",-0.2202,3.1687,0.0,0.0,ring finger protein 43,tumour suppressor,TSG,TSG,cell replicative immortality (suppresses); escaping programmed cell death (suppresses); suppression of growth (promotes),Disease; Signal Transduction,2,406,0.0079,tumour suppressor switched on
+WNT,APCDD1,"promoter hypomethylated, expression up",-0.134,2.4255,0.0,0.0,APC down-regulated 1,tumour suppressor,TSG,,,,0,25,0.0,tumour suppressor switched on
+WNT,ZFHX3,"promoter hypomethylated, expression up",-0.1314,1.7069,0.0,0.0,zinc finger homeobox 3,tumour suppressor,TSG,TSG,suppression of growth (promotes),Gene expression (Transcription),0,83,0.3234,tumour suppressor switched on

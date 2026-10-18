@@ -18,7 +18,8 @@ PAGES = [
     ("05_methylation_vs_expression", "5. Methylation versus expression"),
     ("06_pathways_and_therapy", "6. Pathways and therapy"),
     ("07_gene_clusters_and_pathway_flow", "7. Gene clusters and pathway flow"),
-    ("08_conclusions", "8. Conclusions"),
+    ("08_genes_roles_and_literature", "8. Genes: names, cancer roles and literature"),
+    ("09_conclusions", "9. Conclusions"),
 ]
 
 SETUP = ("import json\nimport pandas as pd\nfrom IPython.display import Image, display\n"
@@ -496,6 +497,123 @@ top right panel. This is as far as array data can go; it does not test any drug.
 ]
 
 # ----------------------------------------------------------------------------------------------
+P8 = [
+    ("md", """The previous pages name genes by symbol. This page says what each gene is, whether it is a known
+cancer gene, what the literature says about it in medulloblastoma, and which signalling pathways it
+belongs to. It then reads every concordant change against that knowledge.
+
+**Sources, all public.** Full names and the NCBI gene summary come from MyGene.info. Oncogene and tumour
+suppressor status comes from two curated lists: the OncoKB cancer gene list (gene type: oncogene,
+tumour suppressor, both, or neither) and the COSMIC Cancer Gene Census "role in cancer", read through
+the Open Targets Platform together with the COSMIC cancer hallmarks. Pathway membership is Reactome,
+also through Open Targets. Literature is a PubMed count of papers that mention the gene together with
+medulloblastoma in title or abstract, and the three most relevant of those papers.
+
+**The reading.** A promoter that loses methylation switches a gene on; a promoter that gains
+methylation switches it off. Two combinations fit a causal story in cancer: an **oncogene switched
+on** by hypomethylation, and a **tumour suppressor silenced** by hypermethylation. The other two, an
+oncogene silenced or a tumour suppressor switched on, do not, and are more likely lineage markers
+that happen to carry a cancer label from another tissue. Most concordant genes have no cancer role in
+either list; for them the methylation change reports cell identity, not transformation."""),
+    ("code", SETUP),
+    ("code", "ann = pd.read_csv(TAB / 'gene_annotation.csv', index_col=0)\n"
+             "summ = json.load(open(TAB / 'gene_annotation_summary.json'))\n"
+             "print('genes annotated:', summ['genes_annotated'], '| with a cancer role:', summ['with_cancer_role'])\n"
+             "pd.Series(summ['cancer_role_counts'], name='genes').to_frame()"),
+    ("md", """## 1. The reading per subgroup"""),
+    ("code", "display(Image(FIG / 'gene_roles_by_group.png'))\n"
+             "reg = pd.read_csv(TAB / 'gene_regulation_concordant.csv')\n"
+             "pd.crosstab(reg['group'], reg['reading']).reindex(['WNT', 'SHH', 'Group3', 'Group4'])"),
+    ("md", """The genes that fit the causal story, per subgroup, with their names, the evidence source and the
+number of medulloblastoma papers."""),
+    ("code", "cols = ['group', 'gene', 'gene_name', 'direction', 'oncokb_gene_type', 'cgc_role_in_cancer', 'pubmed_medulloblastoma', 'reading']\n"
+             "fits = reg[reg['reading'].isin(['oncogene switched on', 'tumour suppressor silenced'])]\n"
+             "fits.sort_values(['group', 'pubmed_medulloblastoma'], ascending=[True, False])[cols].reset_index(drop=True)"),
+    ("md", """And the genes that carry a cancer label but change in the other direction. These are the ones to be
+careful with: a label from leukaemia or breast cancer does not transfer to a cerebellar tumour."""),
+    ("code", "against = reg[reg['reading'].isin(['oncogene silenced', 'tumour suppressor switched on', 'dual role gene changed'])]\n"
+             "against.sort_values(['group', 'pubmed_medulloblastoma'], ascending=[True, False])[cols].reset_index(drop=True)"),
+    ("md", """## 2. Signalling map
+
+Concordant genes that have a cancer role or sit in a Reactome signal transduction pathway, per
+subgroup. Position is the expression change, colour the direction of the methylation change, dot size
+the number of medulloblastoma papers. Genes without any paper are the unexplored part of each list."""),
+    ("code", "display(Image(FIG / 'signalling_map.png'))"),
+    ("md", """## 3. The most studied genes in each subgroup
+
+Literature count is a crude measure of what is known. A concordant gene with many medulloblastoma
+papers is a known marker and the methylation result confirms it. A concordant gene with none is either
+new or unimportant; the table of all genes at the end lets the reader decide."""),
+    ("code", "pd.DataFrame({g: [f\"{x[0]} ({int(x[1])})\" for x in summ['most_cited_in_medulloblastoma_per_group'][g]] for g in ['WNT', 'SHH', 'Group3', 'Group4']})"),
+    ("code", "lit = pd.read_csv(TAB / 'gene_literature_top.csv')\n"
+             "topg = reg.sort_values('pubmed_medulloblastoma', ascending=False).drop_duplicates('gene').head(12)['gene']\n"
+             "lit[lit['gene'].isin(topg) & (lit['rank'] == 1)].merge(reg.drop_duplicates('gene')[['gene', 'group', 'direction']], on='gene')[['group', 'gene', 'direction', 'year', 'title']].reset_index(drop=True)"),
+    ("md", """## 4. The driver genes, annotated
+
+The curated driver genes of each subgroup with the same annotation, for comparison. They are the
+mutated or amplified genes; their methylation does not change (page 5), but their roles and literature
+anchor the subgroup biology."""),
+    ("code", "drv = pd.read_csv(TAB / 'therapy_driver_genes.csv')[['group', 'gene']]\n"
+             "drv.merge(ann[['gene_name', 'cancer_role', 'oncokb_gene_type', 'cgc_role_in_cancer', 'pubmed_medulloblastoma', 'reactome_top_level']], left_on='gene', right_index=True)"),
+    ("md", """## 5. Reading the biology, subgroup by subgroup
+
+**First, the overall count.** Of 464 annotated genes, 46 carry a curated cancer role. Of the 325
+concordant genes, 262 have never been mentioned together with medulloblastoma on PubMed. Both numbers
+say the same thing as page 7: the genes whose methylation defines a subgroup are mostly lineage genes,
+not cancer genes. That is expected for a tumour classified by cell of origin, and it is the reason the
+classifier works on FFPE blocks from another laboratory.
+
+**WNT.** This is the subgroup where the reading has the most content, and the most instructive case
+is the one that looks wrong. Six tumour suppressors are switched on: RNF43, ZNRF3, APCDD1, ZFHX3,
+EPHA3 and SLFN11. RNF43 and ZNRF3 are E3 ubiquitin ligases that remove Frizzled receptors from the
+cell surface; APCDD1 is a membrane Wnt inhibitor. All three are transcriptional targets of
+beta-catenin, together with AXIN2, NKD1, NOTUM and DKK1 from page 7. They form the negative feedback
+loop of the pathway: when Wnt signalling fires, the cell induces its own brakes. In WNT
+medulloblastoma, CTNNB1 carries a mutation in the degradation motif, so beta-catenin is stable no
+matter what happens at the receptor. The brakes are induced, hypomethylated and expressed, and they
+have nothing to act on. "Tumour suppressor switched on" is here the signature of a pathway stuck on
+downstream of the point where the suppressor acts. The one tumour suppressor silenced, SFRP1, a
+secreted Wnt antagonist, is the classic promoter hypermethylation event of Wnt-driven cancers, and
+has ten medulloblastoma papers. The oncogenes switched on, SYK and STAT4, are immune signalling
+kinases and transcription factors with no medulloblastoma literature; they may reflect the immune
+and stromal content of WNT tumours rather than the tumour cell, and are leads at most.
+
+**SHH.** Almost nothing with a cancer label is concordant. GLI2 and BOC are the pathway-level hits
+and carry the most literature (70 and 3 papers). APCDD1 silenced and NDRG1 switched on are the only
+labelled genes; NDRG1 is a hypoxia and differentiation gene. The SHH concordant list is dominated by
+genes of the desmoplastic stroma and of neuronal differentiation. The Hedgehog pathway itself is
+activated by mutation, as page 7 shows, and the methylation layer adds the context of the lineage,
+not the driver.
+
+**Group 3.** IGF1 is the one oncogene switched on, with 15 medulloblastoma papers; insulin-like
+growth factor signalling is an established growth signal in Group 3 models and a candidate target.
+The rest of the labelled list is the photoreceptor program (RHO, GNAT1, GNGT1, GNGT2 in the
+signalling map), which is lineage identity, and GLI2 and OTX2 silenced or switched on as the mirror
+image of SHH and Group 4.
+
+**Group 4.** No cancer-role gene fits the causal story. DDR2 and SCG5 are silenced, which reads as
+lineage again. The most cited concordant genes, OTX2, EYA1, EOMES and RBM24, are developmental
+transcription factors and RNA-binding proteins of the cerebellar lineage. Group 4 stays what the
+literature says it is: the subgroup defined by its cell of origin rather than by a driver pathway,
+with KDM6A, PRDM6 and SNCAIP as mutated or rearranged genes whose promoters do not change.
+
+**Caveats on the counts.** PubMed counts use the gene symbol in title or abstract, so symbols that are
+also common abbreviations are inflated: FAP (familial adenomatous polyposis, itself linked to
+medulloblastoma), SAG (sagittal), SST, TF and RHO. Those counts should be read as upper bounds.
+Twenty-nine symbols come from the 2011 Illumina manifest and are no longer current (C1orf61,
+HIST1H3E, SEPP1 and others); they have no name in the table. Oncogene and tumour suppressor labels
+come from pan-cancer curation and do not transfer automatically to a cerebellar tumour of childhood;
+the WNT feedback genes are the proof."""),
+    ("md", """## 6. Every annotated gene
+
+The full table, one row per gene: name, which analyses it appears in, cancer role and sources,
+hallmarks, Reactome pathways, PubMed counts, the Open Targets medulloblastoma association score and
+the NCBI summary. Also in `results/tables/gene_annotation.csv`."""),
+    ("code", "pd.set_option('display.max_rows', 500)\n"
+             "ann.sort_values('pubmed_medulloblastoma', ascending=False)[['gene_name', 'in_sets', 'cancer_role', 'oncokb_gene_type', 'cgc_role_in_cancer', 'pubmed_medulloblastoma', 'pubmed_cancer', 'reactome_top_level']]"),
+]
+
+# ----------------------------------------------------------------------------------------------
 P7 = [
     ("md", f"""## Answers to the four questions
 
@@ -554,10 +672,10 @@ lists every difference. A stronger version would train several seeds and report 
 
 
 def main():
-    for i, cells in enumerate([P1, P2, P3, P4, P5, P6, P7N, P7]):
+    for i, cells in enumerate([P1, P2, P3, P4, P5, P6, P7N, P8, P7]):
         build(i, cells)
     lines = ["# Medulloblastoma subgroups from DNA methylation, with explanations", "",
-             "A learning project on public data. Eight pages, each a notebook executed end to end,",
+             "A learning project on public data. Nine pages, each a notebook executed end to end,",
              "from the question through quality control, classification, explanation, the test against",
              "gene expression, and the pathway and therapy angle. Code and tables:",
              "[github.com/robinson-vidva/mb-methylation-xai](https://github.com/robinson-vidva/mb-methylation-xai).", ""]
@@ -569,6 +687,7 @@ def main():
         "Does promoter methylation at those sites track expression in the same tumours? Concordant genes per subgroup.",
         "Pathway enrichment, then Open Targets: which concordant genes and which drivers have drugs.",
         "Gene clusters, a co-methylation network, pathway flow for Hedgehog, Wnt and the photoreceptor program, pathway activity per tumour.",
+        "Every gene named: full name, oncogene or tumour suppressor status, medulloblastoma literature, Reactome pathways, and whether the methylation change fits the role.",
         "Answers to the four questions, limits, reproducibility across operating systems, and next steps.",
     ]
     for (stem, title), blurb in zip(PAGES, blurbs):

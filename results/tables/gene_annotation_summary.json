@@ -1,0 +1,209 @@
+{
+  "genes_annotated": 464,
+  "with_cancer_role": 46,
+  "cancer_role_counts": {
+    "none": 418,
+    "oncogene": 20,
+    "tumour suppressor": 18,
+    "both": 8
+  },
+  "readings_per_group": {
+    "WNT": {
+      "no cancer role annotated": 154,
+      "tumour suppressor switched on": 6,
+      "oncogene switched on": 4,
+      "tumour suppressor silenced": 1
+    },
+    "SHH": {
+      "no cancer role annotated": 126,
+      "oncogene switched on": 1,
+      "tumour suppressor silenced": 1,
+      "tumour suppressor switched on": 1
+    },
+    "Group3": {
+      "no cancer role annotated": 61,
+      "oncogene silenced": 1,
+      "oncogene switched on": 1
+    },
+    "Group4": {
+      "no cancer role annotated": 76,
+      "oncogene silenced": 2
+    }
+  },
+  "fits_causal_story_per_group": {
+    "WNT": [
+      "DDR2",
+      "SCG5",
+      "SFRP1",
+      "STAT4",
+      "SYK"
+    ],
+    "SHH": [
+      "APCDD1",
+      "SCG5"
+    ],
+    "Group3": [
+      "IGF1"
+    ],
+    "Group4": []
+  },
+  "against_causal_story_per_group": {
+    "WNT": [
+      "APCDD1",
+      "EPHA3",
+      "RNF43",
+      "SLFN11",
+      "ZFHX3",
+      "ZNRF3"
+    ],
+    "SHH": [
+      "NDRG1"
+    ],
+    "Group3": [
+      "SCG5"
+    ],
+    "Group4": [
+      "DDR2",
+      "SCG5"
+    ]
+  },
+  "most_cited_in_medulloblastoma_per_group": {
+    "WNT": [
+      [
+        "FAP",
+        29
+      ],
+      [
+        "SFRP1",
+        10
+      ],
+      [
+        "IMPG2",
+        4
+      ],
+      [
+        "LOXL1",
+        4
+      ],
+      [
+        "EPHA3",
+        4
+      ],
+      [
+        "PRAME",
+        3
+      ],
+      [
+        "SLFN11",
+        3
+      ],
+      [
+        "ZNRF3",
+        3
+      ]
+    ],
+    "SHH": [
+      [
+        "GLI2",
+        70
+      ],
+      [
+        "OTX2",
+        61
+      ],
+      [
+        "FAP",
+        29
+      ],
+      [
+        "SAG",
+        12
+      ],
+      [
+        "SST",
+        5
+      ],
+      [
+        "IMPG2",
+        4
+      ],
+      [
+        "BOC",
+        3
+      ],
+      [
+        "COL1A2",
+        3
+      ]
+    ],
+    "Group3": [
+      [
+        "GLI2",
+        70
+      ],
+      [
+        "OTX2",
+        61
+      ],
+      [
+        "RHO",
+        20
+      ],
+      [
+        "TF",
+        18
+      ],
+      [
+        "IGF1",
+        15
+      ],
+      [
+        "SAG",
+        12
+      ],
+      [
+        "IMPG2",
+        4
+      ],
+      [
+        "PRAME",
+        3
+      ]
+    ],
+    "Group4": [
+      [
+        "OTX2",
+        61
+      ],
+      [
+        "FAP",
+        29
+      ],
+      [
+        "TF",
+        18
+      ],
+      [
+        "BOC",
+        3
+      ],
+      [
+        "COL1A2",
+        3
+      ],
+      [
+        "EYA1",
+        3
+      ],
+      [
+        "EOMES",
+        2
+      ],
+      [
+        "RBM24",
+        2
+      ]
+    ]
+  },
+  "concordant_genes_never_mentioned_with_medulloblastoma": 262
+}
