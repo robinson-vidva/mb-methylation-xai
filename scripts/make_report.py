@@ -1,4 +1,4 @@
-"""Generate the seven report notebooks in notebooks/ and the page index docs/index.md.
+"""Generate the nine report notebooks in notebooks/ and the page index docs/index.md.
 
 The notebooks do not recompute anything. They read results/tables and results/figures written by
 the numbered scripts. run_all.sh executes them and exports each one to docs/<name>.html.
