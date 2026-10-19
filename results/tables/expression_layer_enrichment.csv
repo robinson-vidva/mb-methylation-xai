@@ -1,0 +1,523 @@
+query,source,native,name,p_value,term_size,query_size,intersection_size
+"Group3 expression only, up",GO:BP,GO:0048731,system development,6.260055717153563e-09,3386,212,98
+"Group3 expression only, up",GO:BP,GO:0007399,nervous system development,1.4665018071711498e-07,2176,212,72
+"Group3 expression only, up",REAC,REAC:R-HSA-112316,Neuronal System,1.5570631043285741e-06,364,212,23
+"Group3 expression only, up",GO:BP,GO:0007275,multicellular organism development,4.223081684328123e-06,3931,212,101
+"Group3 expression only, up",GO:BP,GO:0032501,multicellular organismal process,6.5577907137297195e-06,5982,212,133
+"Group3 expression only, up",GO:BP,GO:0048699,generation of neurons,6.312641656200667e-05,1304,212,48
+"Group3 expression only, up",REAC,REAC:R-HSA-2187338,Visual phototransduction,0.0001341165118241518,82,212,10
+"Group3 expression only, up",REAC,REAC:R-HSA-112315,Transmission across Chemical Synapses,0.00014631540314117883,234,212,16
+"Group3 expression only, up",GO:BP,GO:0030182,neuron differentiation,0.0003233595077012063,1235,212,45
+"Group3 expression only, up",GO:BP,GO:0098916,anterograde trans-synaptic signaling,0.0006619688849639213,676,212,31
+"Group3 expression only, up",GO:BP,GO:0007268,chemical synaptic transmission,0.0006619688849639213,676,212,31
+"Group3 expression only, up",GO:BP,GO:0048856,anatomical structure development,0.0006778671956698731,4903,212,111
+"Group3 expression only, up",GO:BP,GO:0099537,trans-synaptic signaling,0.0007590443393797789,680,212,31
+"Group3 expression only, up",REAC,REAC:R-HSA-112314,Neurotransmitter receptors and postsynaptic signal transmission,0.000814156334678722,176,212,13
+"Group3 expression only, up",GO:BP,GO:0032502,developmental process,0.0009694704233247704,5316,212,117
+"Group3 expression only, up",GO:BP,GO:0022008,neurogenesis,0.0012034955591974552,1523,212,50
+"Group3 expression only, up",GO:BP,GO:0048666,neuron development,0.0015820205195706068,990,212,38
+"Group3 expression only, up",GO:BP,GO:0099536,synaptic signaling,0.00174098364751148,705,212,31
+"Group3 expression only, up",KEGG,KEGG:04744,Phototransduction,0.0037709950460135325,27,212,5
+"Group3 expression only, up",GO:BP,GO:0007601,visual perception,0.00640775095440866,191,212,15
+"Group3 expression only, up",GO:BP,GO:0050953,sensory perception of light stimulus,0.007346101596975862,193,212,15
+"Group3 expression only, up",REAC,REAC:R-HSA-2514859,"Inactivation, recovery and regulation of the phototransduction cascade",0.014425988671093133,26,212,5
+"Group3 expression only, up",KEGG,KEGG:05033,Nicotine addiction,0.01583094423468703,36,212,5
+"Group3 expression only, up",REAC,REAC:R-HSA-2514856,The phototransduction cascade,0.01749605809636909,27,212,5
+"Group3 expression only, up",GO:BP,GO:0065008,regulation of biological quality,0.019299957246726323,2446,212,65
+"Group3 expression only, up",REAC,REAC:R-HSA-388844,Receptor-type tyrosine-protein phosphatases,0.023698453419523438,15,212,4
+"Group3 expression only, up",KEGG,KEGG:04082,Neuroactive ligand signaling,0.040558846056831986,187,212,10
+"Group3 expression only, up",GO:BP,GO:0031175,neuron projection development,0.04492717641229207,860,212,32
+"Group3 methylation only, hypomethylated",GO:BP,GO:0050907,detection of chemical stimulus involved in sensory perception,2.643948462095911e-84,262,1167,144
+"Group3 methylation only, hypomethylated",GO:BP,GO:0009593,detection of chemical stimulus,2.552317743732902e-81,296,1167,150
+"Group3 methylation only, hypomethylated",GO:BP,GO:0007606,sensory perception of chemical stimulus,1.3630652268593135e-80,307,1167,152
+"Group3 methylation only, hypomethylated",GO:BP,GO:0050911,detection of chemical stimulus involved in sensory perception of smell,7.394331785679648e-78,233,1167,131
+"Group3 methylation only, hypomethylated",GO:BP,GO:0007608,sensory perception of smell,2.2114594533296957e-76,257,1167,136
+"Group3 methylation only, hypomethylated",KEGG,KEGG:04740,Olfactory transduction,1.1558505730556022e-71,267,1167,132
+"Group3 methylation only, hypomethylated",GO:BP,GO:0050906,detection of stimulus involved in sensory perception,1.034037748728481e-70,321,1167,146
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-9752946,Expression and translocation of olfactory receptors,6.805055677746479e-70,215,1167,118
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-381753,Olfactory Signaling Pathway,3.1241431840414146e-69,221,1167,119
+"Group3 methylation only, hypomethylated",GO:BP,GO:0051606,detection of stimulus,3.687420482530237e-60,429,1167,157
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-6805567,Keratinization,1.800715530050696e-58,161,1167,94
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-9709957,Sensory Perception,1.1121073980887164e-48,390,1167,134
+"Group3 methylation only, hypomethylated",GO:BP,GO:0007600,sensory perception,7.185890183071607e-46,697,1167,183
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-6809371,Formation of the cornified envelope,1.4848932858280863e-39,112,1167,65
+"Group3 methylation only, hypomethylated",GO:BP,GO:0007186,G protein-coupled receptor signaling pathway,6.732087353506439e-37,960,1167,205
+"Group3 methylation only, hypomethylated",KEGG,KEGG:04382,Cornified envelope formation,6.218752393055887e-34,187,1167,77
+"Group3 methylation only, hypomethylated",GO:BP,GO:0031424,keratinization,6.674346748072535e-26,68,1167,43
+"Group3 methylation only, hypomethylated",GO:BP,GO:0006955,immune response,4.698264188307351e-25,1455,1167,240
+"Group3 methylation only, hypomethylated",GO:BP,GO:0050877,nervous system process,5.879103434949223e-23,1148,1167,200
+"Group3 methylation only, hypomethylated",GO:BP,GO:0042742,defense response to bacterium,9.340584875379164e-21,256,1167,77
+"Group3 methylation only, hypomethylated",KEGG,KEGG:05150,Staphylococcus aureus infection,1.0959886534935742e-19,69,1167,36
+"Group3 methylation only, hypomethylated",GO:BP,GO:0045109,intermediate filament organization,2.21420244089202e-19,69,1167,38
+"Group3 methylation only, hypomethylated",GO:BP,GO:0003008,system process,2.6653628398802035e-19,1846,1167,267
+"Group3 methylation only, hypomethylated",GO:BP,GO:0006959,humoral immune response,1.5290694407321043e-16,196,1167,61
+"Group3 methylation only, hypomethylated",GO:BP,GO:0009617,response to bacterium,3.04175828963556e-16,556,1167,113
+"Group3 methylation only, hypomethylated",GO:BP,GO:0019730,antimicrobial humoral response,5.513815989242958e-16,109,1167,44
+"Group3 methylation only, hypomethylated",GO:BP,GO:0043207,response to external biotic stimulus,8.887843142870053e-16,1262,1167,195
+"Group3 methylation only, hypomethylated",GO:BP,GO:0051707,response to other organism,1.7199139270983803e-15,1260,1167,194
+"Group3 methylation only, hypomethylated",GO:BP,GO:0009607,response to biotic stimulus,2.8167082216649358e-15,1293,1167,197
+"Group3 methylation only, hypomethylated",GO:BP,GO:0006952,defense response,5.364295439722842e-15,1497,1167,218
+"Group3 methylation only, hypomethylated",GO:BP,GO:0045104,intermediate filament cytoskeleton organization,8.923860581530831e-15,87,1167,38
+"Group3 methylation only, hypomethylated",GO:BP,GO:0045103,intermediate filament-based process,1.4515672131343688e-14,88,1167,38
+"Group3 methylation only, hypomethylated",GO:BP,GO:0098542,defense response to other organism,2.4488216183743206e-13,864,1167,144
+"Group3 methylation only, hypomethylated",GO:BP,GO:0140546,defense response to symbiont,3.1341008093975287e-13,849,1167,142
+"Group3 methylation only, hypomethylated",GO:BP,GO:0002376,immune system process,9.63973663412374e-13,2121,1167,274
+"Group3 methylation only, hypomethylated",GO:BP,GO:0042221,response to chemical,1.373414146776267e-12,3119,1167,368
+"Group3 methylation only, hypomethylated",GO:BP,GO:0044419,biological process involved in interspecies interaction between organisms,1.38611197799298e-12,1404,1167,201
+"Group3 methylation only, hypomethylated",KEGG,KEGG:04061,Viral protein interaction with cytokine and cytokine receptor,4.345422178060489e-12,81,1167,31
+"Group3 methylation only, hypomethylated",GO:BP,GO:0030216,keratinocyte differentiation,7.805215491636245e-12,152,1167,47
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-6803157,Antimicrobial peptides,1.225084906161861e-11,61,1167,27
+"Group3 methylation only, hypomethylated",KEGG,KEGG:04060,Cytokine-cytokine receptor interaction,2.171743997092016e-11,233,1167,55
+"Group3 methylation only, hypomethylated",GO:BP,GO:0061844,antimicrobial humoral immune response mediated by antimicrobial peptide,5.946329714869504e-11,78,1167,32
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-198933,Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,1.4369552110876649e-09,93,1167,31
+"Group3 methylation only, hypomethylated",KEGG,KEGG:00000,KEGG root term,4.790753273850895e-09,6922,1167,662
+"Group3 methylation only, hypomethylated",GO:BP,GO:0050830,defense response to Gram-positive bacterium,7.101719435532847e-09,90,1167,32
+"Group3 methylation only, hypomethylated",GO:BP,GO:0009605,response to external stimulus,9.780577081363706e-09,1954,1167,243
+"Group3 methylation only, hypomethylated",KEGG,KEGG:04640,Hematopoietic cell lineage,1.164964041508502e-08,82,1167,27
+"Group3 methylation only, hypomethylated",GO:BP,GO:0001906,cell killing,1.8486333243476267e-08,170,1167,45
+"Group3 methylation only, hypomethylated",GO:BP,GO:0032501,multicellular organismal process,3.663189004144974e-08,5982,1167,595
+"Group3 methylation only, hypomethylated",GO:BP,GO:0045087,innate immune response,1.214026399245573e-07,787,1167,120
+"Group3 methylation only, hypomethylated",GO:BP,GO:0070098,chemokine-mediated signaling pathway,1.9401309530905975e-07,63,1167,25
+"Group3 methylation only, hypomethylated",GO:BP,GO:0019731,antibacterial humoral response,4.011943206674561e-07,46,1167,21
+"Group3 methylation only, hypomethylated",GO:BP,GO:0009913,epidermal cell differentiation,1.7049125972393989e-06,213,1167,48
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-380108,Chemokine receptors bind chemokines,2.029781593017214e-06,45,1167,18
+"Group3 methylation only, hypomethylated",GO:BP,GO:1990868,response to chemokine,2.962040116230039e-06,70,1167,25
+"Group3 methylation only, hypomethylated",GO:BP,GO:1990869,cellular response to chemokine,2.962040116230039e-06,70,1167,25
+"Group3 methylation only, hypomethylated",KEGG,KEGG:00591,Linoleic acid metabolism,5.169404776421315e-06,23,1167,12
+"Group3 methylation only, hypomethylated",GO:BP,GO:0043588,skin development,7.013220653601624e-06,289,1167,57
+"Group3 methylation only, hypomethylated",GO:BP,GO:0002250,adaptive immune response,7.430424164602319e-06,377,1167,68
+"Group3 methylation only, hypomethylated",GO:BP,GO:0050896,response to stimulus,9.614046968982113e-06,6999,1167,664
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-168256,Immune System,2.0650813252259633e-05,1676,1167,194
+"Group3 methylation only, hypomethylated",GO:BP,GO:0008544,epidermis development,2.7503981507854007e-05,339,1167,62
+"Group3 methylation only, hypomethylated",GO:BP,GO:0006954,inflammatory response,0.00011340526628797186,723,1167,104
+"Group3 methylation only, hypomethylated",GO:BP,GO:0002684,positive regulation of immune system process,0.0001258279767398509,905,1167,123
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-1461973,Defensins,0.00021639110728267127,27,1167,12
+"Group3 methylation only, hypomethylated",KEGG,KEGG:05332,Graft-versus-host disease,0.0002768161541572137,26,1167,11
+"Group3 methylation only, hypomethylated",KEGG,KEGG:05323,Rheumatoid arthritis,0.0002964698411035381,78,1167,20
+"Group3 methylation only, hypomethylated",GO:BP,GO:0031640,killing of cells of another organism,0.00042447621961049246,63,1167,21
+"Group3 methylation only, hypomethylated",GO:BP,GO:0141061,disruption of cell in another organism,0.00042447621961049246,63,1167,21
+"Group3 methylation only, hypomethylated",KEGG,KEGG:04940,Type I diabetes mellitus,0.0004371955211861148,32,1167,12
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-1461957,Beta defensins,0.0009522611933290934,21,1167,10
+"Group3 methylation only, hypomethylated",KEGG,KEGG:05320,Autoimmune thyroid disease,0.0009899183658132428,29,1167,11
+"Group3 methylation only, hypomethylated",GO:BP,GO:0050776,regulation of immune response,0.0010455809424315165,782,1167,107
+"Group3 methylation only, hypomethylated",GO:BP,GO:0141060,disruption of anatomical structure in another organism,0.0010839855998343777,66,1167,21
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-6783783,Interleukin-10 signaling,0.0010922285390103904,41,1167,14
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-168249,Innate Immune System,0.0012129606130190573,857,1167,107
+"Group3 methylation only, hypomethylated",GO:BP,GO:0050778,positive regulation of immune response,0.0013761771743595543,625,1167,90
+"Group3 methylation only, hypomethylated",KEGG,KEGG:00590,Arachidonic acid metabolism,0.001522333532373568,47,1167,14
+"Group3 methylation only, hypomethylated",KEGG,KEGG:04672,Intestinal immune network for IgA production,0.001793001084483849,36,1167,12
+"Group3 methylation only, hypomethylated",KEGG,KEGG:04519,Cadherin signaling,0.0019035327163351027,336,1167,50
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-373076,Class A/1 (Rhodopsin-like receptors),0.0019664057475595235,267,1167,44
+"Group3 methylation only, hypomethylated",KEGG,KEGG:00592,alpha-Linolenic acid metabolism,0.0021194764377984615,21,1167,9
+"Group3 methylation only, hypomethylated",KEGG,KEGG:05310,Asthma,0.0021194764377984615,21,1167,9
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-375276,Peptide ligand-binding receptors,0.0022088874110697578,161,1167,31
+"Group3 methylation only, hypomethylated",GO:BP,GO:0097530,granulocyte migration,0.002212617342693363,126,1167,30
+"Group3 methylation only, hypomethylated",KEGG,KEGG:05330,Allograft rejection,0.00224313921896213,26,1167,10
+"Group3 methylation only, hypomethylated",GO:BP,GO:0050912,detection of chemical stimulus involved in sensory perception of taste,0.0031615662423917106,28,1167,13
+"Group3 methylation only, hypomethylated",KEGG,KEGG:00140,Steroid hormone biosynthesis,0.004470805897195841,39,1167,12
+"Group3 methylation only, hypomethylated",GO:BP,GO:0050829,defense response to Gram-negative bacterium,0.007662897983454196,73,1167,21
+"Group3 methylation only, hypomethylated",GO:BP,GO:0050729,positive regulation of inflammatory response,0.009561047889740838,134,1167,30
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-193993,Mineralocorticoid biosynthesis,0.010693923255479994,6,1167,5
+"Group3 methylation only, hypomethylated",GO:BP,GO:0097529,myeloid leukocyte migration,0.011509554575572635,195,1167,38
+"Group3 methylation only, hypomethylated",KEGG,KEGG:04610,Complement and coagulation cascades,0.013631784306343042,70,1167,16
+"Group3 methylation only, hypomethylated",GO:BP,GO:0006968,cellular defense response,0.014338087058195349,41,1167,15
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-202433,Generation of second messenger molecules,0.014685117068070573,22,1167,9
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-5669034,TNFs bind their physiological receptors,0.014685117068070573,22,1167,9
+"Group3 methylation only, hypomethylated",GO:BP,GO:0002682,regulation of immune system process,0.018970097697190356,1306,1167,154
+"Group3 methylation only, hypomethylated",KEGG,KEGG:05204,Chemical carcinogenesis - DNA adducts,0.022731776257555958,39,1167,11
+"Group3 methylation only, hypomethylated",GO:BP,GO:0071621,granulocyte chemotaxis,0.023885309236008838,104,1167,25
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-194002,Glucocorticoid biosynthesis,0.02413189238078897,10,1167,6
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-500792,GPCR ligand binding,0.02513286717960189,378,1167,53
+"Group3 methylation only, hypomethylated",GO:BP,GO:0045321,leukocyte activation,0.026479024330171817,813,1167,105
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-1482801,Acyl chain remodelling of PS,0.03280165737931111,19,1167,8
+"Group3 methylation only, hypomethylated",GO:BP,GO:0018149,peptide cross-linking,0.03938659559137739,24,1167,11
+"Group3 methylation only, hypomethylated",GO:BP,GO:0007165,signal transduction,0.03966885740032023,4858,1167,465
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-389948,Co-inhibition by PD-1,0.04399869221675255,15,1167,7
+"Group3 methylation only, hypomethylated",KEGG,KEGG:00830,Retinol metabolism,0.046453137745536555,42,1167,11
+"Group3 methylation only, hypomethylated",REAC,REAC:R-HSA-202430,Translocation of ZAP-70 to Immunological synapse,0.04948138285780452,11,1167,6
+"Group4 expression only, up",GO:BP,GO:0007268,chemical synaptic transmission,2.374998373859972e-13,676,300,54
+"Group4 expression only, up",GO:BP,GO:0098916,anterograde trans-synaptic signaling,2.374998373859972e-13,676,300,54
+"Group4 expression only, up",GO:BP,GO:0099537,trans-synaptic signaling,3.0860888002947874e-13,680,300,54
+"Group4 expression only, up",GO:BP,GO:0099536,synaptic signaling,3.2230830692948677e-13,705,300,55
+"Group4 expression only, up",GO:BP,GO:0007399,nervous system development,3.896014663177894e-13,2176,300,104
+"Group4 expression only, up",GO:BP,GO:0048699,generation of neurons,1.8703724692485499e-10,1304,300,72
+"Group4 expression only, up",GO:BP,GO:0030182,neuron differentiation,4.580829979469752e-10,1235,300,69
+"Group4 expression only, up",GO:BP,GO:0048666,neuron development,1.0863900899798571e-09,990,300,60
+"Group4 expression only, up",GO:BP,GO:0007267,cell-cell signaling,3.425702019032492e-09,1134,300,64
+"Group4 expression only, up",GO:BP,GO:0031175,neuron projection development,6.688460763814265e-09,860,300,54
+"Group4 expression only, up",GO:BP,GO:0048731,system development,1.4009971624915198e-08,3386,300,126
+"Group4 expression only, up",GO:BP,GO:0099177,regulation of trans-synaptic signaling,1.5021035542916568e-08,440,300,37
+"Group4 expression only, up",GO:BP,GO:0050804,modulation of chemical synaptic transmission,1.5021035542916568e-08,440,300,37
+"Group4 expression only, up",GO:BP,GO:0022008,neurogenesis,1.7187951890173006e-08,1523,300,75
+"Group4 expression only, up",REAC,REAC:R-HSA-112316,Neuronal System,4.776088948643399e-08,364,300,30
+"Group4 expression only, up",GO:BP,GO:0048856,anatomical structure development,1.4597562734903984e-07,4903,300,159
+"Group4 expression only, up",GO:BP,GO:0007275,multicellular organism development,2.3655175920906805e-07,3931,300,136
+"Group4 expression only, up",GO:BP,GO:0048858,cell projection morphogenesis,3.4576815625833275e-07,589,300,41
+"Group4 expression only, up",GO:BP,GO:0061564,axon development,4.410988790608954e-07,444,300,35
+"Group4 expression only, up",GO:BP,GO:0120039,plasma membrane bounded cell projection morphogenesis,1.0578583628974075e-06,584,300,40
+"Group4 expression only, up",GO:BP,GO:0007154,cell communication,1.5484601743605909e-06,5307,300,165
+"Group4 expression only, up",GO:BP,GO:0032502,developmental process,1.8060129816712773e-06,5316,300,165
+"Group4 expression only, up",GO:BP,GO:0048812,neuron projection morphogenesis,1.895023169023203e-06,569,300,39
+"Group4 expression only, up",GO:BP,GO:0050808,synapse organization,2.3048815235399e-06,471,300,35
+"Group4 expression only, up",GO:BP,GO:0042391,regulation of membrane potential,7.789047293627183e-06,394,300,31
+"Group4 expression only, up",GO:BP,GO:0120036,plasma membrane bounded cell projection organization,1.209557851587806e-05,1267,300,61
+"Group4 expression only, up",GO:BP,GO:0030030,cell projection organization,1.4252833512569139e-05,1305,300,62
+"Group4 expression only, up",GO:BP,GO:0000902,cell morphogenesis,3.9370333174861965e-05,862,300,47
+"Group4 expression only, up",GO:BP,GO:0023052,signaling,8.17228154220891e-05,5275,300,159
+"Group4 expression only, up",GO:BP,GO:0034330,cell junction organization,9.613222478641731e-05,708,300,41
+"Group4 expression only, up",KEGG,KEGG:04082,Neuroactive ligand signaling,0.0001793408711814132,187,300,16
+"Group4 expression only, up",GO:BP,GO:0007409,axonogenesis,0.0001959628351981813,399,300,29
+"Group4 expression only, up",GO:BP,GO:0048667,cell morphogenesis involved in neuron differentiation,0.00021654220244121398,504,300,33
+"Group4 expression only, up",GO:BP,GO:0007611,learning or memory,0.0002332034966608062,239,300,22
+"Group4 expression only, up",GO:BP,GO:0007610,behavior,0.0003611547722096076,597,300,36
+"Group4 expression only, up",REAC,REAC:R-HSA-1296071,Potassium Channels,0.0003711338672088115,98,300,12
+"Group4 expression only, up",GO:BP,GO:0050890,cognition,0.0004891183287699126,271,300,23
+"Group4 expression only, up",GO:BP,GO:0007411,axon guidance,0.0006701156516071855,210,300,20
+"Group4 expression only, up",GO:BP,GO:0097485,neuron projection guidance,0.0007266674158053953,211,300,20
+"Group4 expression only, up",GO:BP,GO:0048468,cell development,0.0016204580880905478,2401,300,87
+"Group4 expression only, up",GO:BP,GO:0007613,memory,0.002004133663762276,107,300,14
+"Group4 expression only, up",REAC,REAC:R-HSA-9675108,Nervous system development,0.0022030022637135366,498,300,27
+"Group4 expression only, up",GO:BP,GO:0032501,multicellular organismal process,0.0027409674094635715,5982,300,169
+"Group4 expression only, up",REAC,REAC:R-HSA-422475,Axon guidance,0.0030267912151857685,477,300,26
+"Group4 expression only, up",GO:BP,GO:0009653,anatomical structure morphogenesis,0.008247048344305457,2330,300,83
+"Group4 expression only, up",KEGG,KEGG:04724,Glutamatergic synapse,0.008443213585907565,108,300,10
+"Group4 expression only, up",REAC,REAC:R-HSA-112315,Transmission across Chemical Synapses,0.01347774658517008,234,300,16
+"Group4 expression only, up",REAC,REAC:R-HSA-166520,Signaling by NTRKs,0.020608999318197447,122,300,11
+"Group4 expression only, up",GO:BP,GO:0007417,central nervous system development,0.02124307325301594,892,300,42
+"Group4 expression only, up",GO:BP,GO:0030154,cell differentiation,0.02606011939733247,3669,300,114
+"Group4 expression only, up",GO:BP,GO:0048869,cellular developmental process,0.02644694679237833,3670,300,114
+"Group4 expression only, up",GO:BP,GO:0007416,synapse assembly,0.037831461370881475,221,300,18
+"SHH expression only, up",GO:BP,GO:0048731,system development,1.3041227258928666e-21,3386,455,207
+"SHH expression only, up",GO:BP,GO:0007275,multicellular organism development,9.362829314909005e-19,3931,455,221
+"SHH expression only, up",GO:BP,GO:0022008,neurogenesis,8.306164364923119e-16,1523,455,116
+"SHH expression only, up",GO:BP,GO:0007399,nervous system development,9.336962203529591e-16,2176,455,145
+"SHH expression only, up",GO:BP,GO:0048856,anatomical structure development,2.7725722657094097e-14,4903,455,244
+"SHH expression only, up",GO:BP,GO:0009653,anatomical structure morphogenesis,2.1031652946174914e-13,2330,455,146
+"SHH expression only, up",GO:BP,GO:0048513,animal organ development,7.422697494325596e-12,2573,455,152
+"SHH expression only, up",GO:BP,GO:0032502,developmental process,7.985373158110289e-12,5316,455,251
+"SHH expression only, up",GO:BP,GO:0048699,generation of neurons,1.2815506586826152e-11,1304,455,97
+"SHH expression only, up",GO:BP,GO:0007417,central nervous system development,3.2725284217544066e-11,892,455,76
+"SHH expression only, up",GO:BP,GO:0032501,multicellular organismal process,6.256463846785596e-10,5982,455,267
+"SHH expression only, up",GO:BP,GO:0030182,neuron differentiation,5.330435784190847e-09,1235,455,88
+"SHH expression only, up",GO:BP,GO:0030154,cell differentiation,1.5839470544753684e-08,3669,455,184
+"SHH expression only, up",GO:BP,GO:0048869,cellular developmental process,1.6266068446883304e-08,3670,455,184
+"SHH expression only, up",GO:BP,GO:0007155,cell adhesion,3.555112221810214e-08,1277,455,88
+"SHH expression only, up",GO:BP,GO:0051094,positive regulation of developmental process,5.677946409315374e-08,1113,455,80
+"SHH expression only, up",GO:BP,GO:0048666,neuron development,6.973244907418694e-08,990,455,74
+"SHH expression only, up",GO:BP,GO:0060322,head development,8.67687222359443e-08,673,455,58
+"SHH expression only, up",GO:BP,GO:0031175,neuron projection development,1.4722993216406623e-07,860,455,67
+"SHH expression only, up",GO:BP,GO:0007166,cell surface receptor signaling pathway,3.4879754912893726e-07,2343,455,130
+"SHH expression only, up",GO:BP,GO:0007420,brain development,5.989322160416169e-07,628,455,54
+"SHH expression only, up",GO:BP,GO:0016477,cell migration,6.486399609718074e-07,1301,455,86
+"SHH expression only, up",GO:BP,GO:0040012,regulation of locomotion,6.571508866851465e-07,889,455,67
+"SHH expression only, up",GO:BP,GO:0050793,regulation of developmental process,1.1714119244160357e-06,2055,455,117
+"SHH expression only, up",GO:BP,GO:0030334,regulation of cell migration,1.5563095602907332e-06,803,455,62
+"SHH expression only, up",GO:BP,GO:0009887,animal organ morphogenesis,2.034127528766435e-06,891,455,66
+"SHH expression only, up",GO:BP,GO:0045595,regulation of cell differentiation,2.4926601896145882e-06,1312,455,85
+"SHH expression only, up",REAC,REAC:R-HSA-1474244,Extracellular matrix organization,2.727951341125159e-06,267,455,29
+"SHH expression only, up",GO:BP,GO:0040011,locomotion,4.838184718856936e-06,1038,455,72
+"SHH expression only, up",GO:BP,GO:2000145,regulation of cell motility,5.3195046234083326e-06,848,455,63
+"SHH expression only, up",GO:BP,GO:0023052,signaling,8.267961038249e-06,5275,455,230
+"SHH expression only, up",GO:BP,GO:0048468,cell development,8.535274735186036e-06,2401,455,128
+"SHH expression only, up",GO:BP,GO:0007154,cell communication,8.559216651516331e-06,5307,455,231
+"SHH expression only, up",GO:BP,GO:0035295,tube development,1.511852458115317e-05,977,455,68
+"SHH expression only, up",GO:BP,GO:0072359,circulatory system development,1.9797697710986805e-05,1005,455,69
+"SHH expression only, up",GO:BP,GO:0051239,regulation of multicellular organismal process,3.594926297096669e-05,2506,455,130
+"SHH expression only, up",GO:BP,GO:0051960,regulation of nervous system development,3.7417834788556265e-05,378,455,37
+"SHH expression only, up",GO:BP,GO:0023051,regulation of signaling,3.7604113774518474e-05,2934,455,146
+"SHH expression only, up",GO:BP,GO:2000026,regulation of multicellular organismal development,4.2754630565496605e-05,1203,455,77
+"SHH expression only, up",KEGG,KEGG:04024,cAMP signaling pathway,4.596650072717564e-05,203,455,22
+"SHH expression only, up",GO:BP,GO:0071363,cellular response to growth factor stimulus,5.42673461861866e-05,628,455,50
+"SHH expression only, up",GO:BP,GO:0010646,regulation of cell communication,8.803764946704072e-05,2942,455,145
+"SHH expression only, up",GO:BP,GO:0007165,signal transduction,9.85384446232196e-05,4858,455,212
+"SHH expression only, up",GO:BP,GO:0048870,cell motility,0.00010199972678970138,1461,455,87
+"SHH expression only, up",GO:BP,GO:0045597,positive regulation of cell differentiation,0.00014095703534174,728,455,54
+"SHH expression only, up",KEGG,KEGG:04510,Focal adhesion,0.00016125640559760404,185,455,20
+"SHH expression only, up",GO:BP,GO:0070848,response to growth factor,0.00020213835039817186,653,455,50
+"SHH expression only, up",GO:BP,GO:0050767,regulation of neurogenesis,0.00022182110129795264,315,455,32
+"SHH expression only, up",GO:BP,GO:0048568,embryonic organ development,0.0002500272685747608,405,455,37
+"SHH expression only, up",KEGG,KEGG:04518,Integrin signaling,0.0002709572123315217,143,455,17
+"SHH expression only, up",KEGG,KEGG:00000,KEGG root term,0.0003949322502183347,6922,455,264
+"SHH expression only, up",GO:BP,GO:0021537,telencephalon development,0.0004238413376266022,240,455,27
+"SHH expression only, up",GO:BP,GO:0000902,cell morphogenesis,0.0004907078088042661,862,455,59
+"SHH expression only, up",GO:BP,GO:0050896,response to stimulus,0.0004971705194669846,6999,455,278
+"SHH expression only, up",REAC,REAC:R-HSA-9675108,Nervous system development,0.0005096834311370826,498,455,37
+"SHH expression only, up",GO:BP,GO:0023056,positive regulation of signaling,0.0006616922723653753,1519,455,87
+"SHH expression only, up",GO:BP,GO:0048732,gland development,0.0007018233832819645,384,455,35
+"SHH expression only, up",GO:BP,GO:0009888,tissue development,0.000744707615889133,1745,455,96
+"SHH expression only, up",GO:BP,GO:0120036,plasma membrane bounded cell projection organization,0.0009722831304091537,1267,455,76
+"SHH expression only, up",GO:BP,GO:0010647,positive regulation of cell communication,0.0013973237816352693,1519,455,86
+"SHH expression only, up",GO:BP,GO:0030030,cell projection organization,0.0015593726183611139,1305,455,77
+"SHH expression only, up",GO:BP,GO:0009966,regulation of signal transduction,0.0016193256579050657,2553,455,126
+"SHH expression only, up",GO:BP,GO:0009719,response to endogenous stimulus,0.0017664336629255293,1285,455,76
+"SHH expression only, up",GO:BP,GO:0007167,enzyme-linked receptor protein signaling pathway,0.001835484710954542,872,455,58
+"SHH expression only, up",GO:BP,GO:0048646,anatomical structure formation involved in morphogenesis,0.0024216363769379505,1060,455,66
+"SHH expression only, up",REAC,REAC:R-HSA-1266738,Developmental Biology,0.0026525641611382495,1159,455,64
+"SHH expression only, up",GO:BP,GO:0061564,axon development,0.0028378567393780463,444,455,37
+"SHH expression only, up",GO:BP,GO:0120039,plasma membrane bounded cell projection morphogenesis,0.002963426690176456,584,455,44
+"SHH expression only, up",GO:BP,GO:0048858,cell projection morphogenesis,0.0037883474808689814,589,455,44
+"SHH expression only, up",GO:BP,GO:0048812,neuron projection morphogenesis,0.0038830043344651485,569,455,43
+"SHH expression only, up",KEGG,KEGG:04340,Hedgehog signaling pathway,0.003962304587130221,53,455,9
+"SHH expression only, up",KEGG,KEGG:04020,Calcium signaling pathway,0.004001698200001374,229,455,20
+"SHH expression only, up",GO:BP,GO:0045596,negative regulation of cell differentiation,0.004080538245578286,570,455,43
+"SHH expression only, up",GO:BP,GO:0048518,positive regulation of biological process,0.004494042003515012,5035,455,211
+"SHH expression only, up",REAC,REAC:R-HSA-2129379,Molecules associated with elastic fibres,0.0049408180751810355,35,455,8
+"SHH expression only, up",GO:BP,GO:0051716,cellular response to stimulus,0.005131801041474128,5901,455,239
+"SHH expression only, up",REAC,REAC:R-HSA-3000178,ECM proteoglycans,0.0059876729744574005,71,455,11
+"SHH expression only, up",GO:BP,GO:0009967,positive regulation of signal transduction,0.006053901159855279,1348,455,77
+"SHH expression only, up",KEGG,KEGG:05200,Pathways in cancer,0.006421908470530622,484,455,32
+"SHH expression only, up",GO:BP,GO:0010720,positive regulation of cell development,0.006591568924647683,382,455,33
+"SHH expression only, up",GO:BP,GO:0048522,positive regulation of cellular process,0.007441644104689802,4704,455,199
+"SHH expression only, up",GO:BP,GO:0040017,positive regulation of locomotion,0.007504451618457431,501,455,39
+"SHH expression only, up",GO:BP,GO:0060284,regulation of cell development,0.008044476426019773,711,455,49
+"SHH expression only, up",REAC,REAC:R-HSA-422475,Axon guidance,0.008856251528169273,477,455,33
+"SHH expression only, up",GO:BP,GO:0007411,axon guidance,0.008939437125454143,210,455,23
+"SHH expression only, up",GO:BP,GO:0071495,cellular response to endogenous stimulus,0.009475738188676325,1076,455,65
+"SHH expression only, up",GO:BP,GO:0097485,neuron projection guidance,0.009747272793651583,211,455,23
+"SHH expression only, up",GO:BP,GO:0035924,cellular response to vascular endothelial growth factor stimulus,0.010130383540362437,107,455,16
+"SHH expression only, up",GO:BP,GO:0042063,gliogenesis,0.011707816112928104,299,455,28
+"SHH expression only, up",GO:BP,GO:0050769,positive regulation of neurogenesis,0.011784396023876754,197,455,22
+"SHH expression only, up",REAC,REAC:R-HSA-8940973,RUNX2 regulates osteoblast differentiation,0.012408030176049585,20,455,6
+"SHH expression only, up",KEGG,KEGG:05217,Basal cell carcinoma,0.014145265338668292,62,455,9
+"SHH expression only, up",KEGG,KEGG:04933,AGE-RAGE signaling pathway in diabetic complications,0.014150322809937431,91,455,11
+"SHH expression only, up",GO:BP,GO:0030900,forebrain development,0.01426701539159294,357,455,31
+"SHH expression only, up",KEGG,KEGG:04820,Cytoskeleton in muscle cells,0.014898989529327214,213,455,18
+"SHH expression only, up",GO:BP,GO:0035239,tube morphogenesis,0.015022851405087728,792,455,52
+"SHH expression only, up",GO:BP,GO:0007423,sensory organ development,0.01526350973158278,556,455,41
+"SHH expression only, up",GO:BP,GO:0040007,growth,0.015621845556152834,793,455,52
+"SHH expression only, up",KEGG,KEGG:04015,Rap1 signaling pathway,0.016644140544904994,196,455,17
+"SHH expression only, up",KEGG,KEGG:04713,Circadian entrainment,0.01723622323419739,93,455,11
+"SHH expression only, up",GO:BP,GO:0051962,positive regulation of nervous system development,0.017883403272547307,235,455,24
+"SHH expression only, up",KEGG,KEGG:04151,PI3K-Akt signaling pathway,0.019721776044321838,318,455,23
+"SHH expression only, up",REAC,REAC:R-HSA-1566948,Elastic fibre formation,0.02045011731229961,42,455,8
+"SHH expression only, up",KEGG,KEGG:02010,ABC transporters,0.020757989109221494,39,455,7
+"SHH expression only, up",GO:BP,GO:0051128,regulation of cellular component organization,0.020866929501636048,2026,455,102
+"SHH expression only, up",GO:BP,GO:0050789,regulation of biological process,0.02294869731179782,9215,455,337
+"SHH expression only, up",KEGG,KEGG:04310,Wnt signaling pathway,0.024244220122577893,165,455,15
+"SHH expression only, up",GO:BP,GO:0051093,negative regulation of developmental process,0.02513534919327573,783,455,51
+"SHH expression only, up",KEGG,KEGG:04360,Axon guidance,0.02590628399132755,166,455,15
+"SHH expression only, up",GO:BP,GO:0001944,vasculature development,0.026096810211810016,674,455,46
+"SHH expression only, up",GO:BP,GO:2000147,positive regulation of cell motility,0.028806012805423272,487,455,37
+"SHH expression only, up",GO:BP,GO:0007507,heart development,0.030266754246742907,529,455,39
+"SHH expression only, up",GO:BP,GO:0022612,gland morphogenesis,0.030393642069551727,102,455,15
+"SHH expression only, up",GO:BP,GO:0060078,regulation of postsynaptic membrane potential,0.030394849181782164,130,455,17
+"SHH expression only, up",GO:BP,GO:0031589,cell-substrate adhesion,0.03185054510740677,314,455,28
+"SHH expression only, up",KEGG,KEGG:05205,Proteoglycans in cancer,0.032162297520769455,188,455,16
+"SHH expression only, up",GO:BP,GO:0016049,cell growth,0.03344810301190911,410,455,33
+"SHH expression only, up",GO:BP,GO:0007169,cell surface receptor protein tyrosine kinase signaling pathway,0.0336302074041403,573,455,41
+"SHH expression only, up",REAC,REAC:R-HSA-162582,Signal Transduction,0.035083887586546895,2219,455,100
+"SHH expression only, up",GO:BP,GO:0022029,telencephalon cell migration,0.042574922572913385,55,455,11
+"SHH expression only, up",GO:BP,GO:0048708,astrocyte differentiation,0.04609430587131241,79,455,13
+"SHH expression only, up",GO:BP,GO:0072001,renal system development,0.048121268956194924,302,455,27
+"SHH expression only, up",GO:BP,GO:0008038,neuron recognition,0.04815951035684252,45,455,10
+"SHH methylation only, hypomethylated",GO:BP,GO:0050911,detection of chemical stimulus involved in sensory perception of smell,4.351460381394433e-55,233,633,88
+"SHH methylation only, hypomethylated",GO:BP,GO:0009593,detection of chemical stimulus,1.708766769548206e-53,296,633,96
+"SHH methylation only, hypomethylated",GO:BP,GO:0050907,detection of chemical stimulus involved in sensory perception,2.8462723386559483e-52,262,633,90
+"SHH methylation only, hypomethylated",REAC,REAC:R-HSA-9752946,Expression and translocation of olfactory receptors,3.763511702875633e-52,215,633,81
+"SHH methylation only, hypomethylated",GO:BP,GO:0007608,sensory perception of smell,5.587124851418457e-52,257,633,89
+"SHH methylation only, hypomethylated",KEGG,KEGG:04740,Olfactory transduction,7.1821551420629e-52,267,633,88
+"SHH methylation only, hypomethylated",REAC,REAC:R-HSA-381753,Olfactory Signaling Pathway,4.8050359677689377e-51,221,633,81
+"SHH methylation only, hypomethylated",GO:BP,GO:0007606,sensory perception of chemical stimulus,9.950367532296192e-50,307,633,94
+"SHH methylation only, hypomethylated",GO:BP,GO:0050906,detection of stimulus involved in sensory perception,8.82711242507544e-47,321,633,93
+"SHH methylation only, hypomethylated",GO:BP,GO:0051606,detection of stimulus,6.888852697640048e-44,429,633,103
+"SHH methylation only, hypomethylated",REAC,REAC:R-HSA-9709957,Sensory Perception,5.471279398471672e-39,390,633,91
+"SHH methylation only, hypomethylated",GO:BP,GO:0007600,sensory perception,1.5747942324442676e-34,697,633,118
+"SHH methylation only, hypomethylated",GO:BP,GO:0007186,G protein-coupled receptor signaling pathway,3.859261227209256e-28,960,633,130
+"SHH methylation only, hypomethylated",GO:BP,GO:0050877,nervous system process,1.00898835036038e-24,1148,633,138
+"SHH methylation only, hypomethylated",GO:BP,GO:0003008,system process,2.4627413608606284e-17,1846,633,168
+"SHH methylation only, hypomethylated",GO:BP,GO:0032501,multicellular organismal process,5.452092044324449e-10,5982,633,354
+"SHH methylation only, hypomethylated",GO:BP,GO:0007154,cell communication,2.926356311835074e-07,5307,633,313
+"SHH methylation only, hypomethylated",GO:BP,GO:0007165,signal transduction,3.4076767057666047e-07,4858,633,292
+"SHH methylation only, hypomethylated",GO:BP,GO:0023052,signaling,3.9602750821163403e-07,5275,633,311
+"SHH methylation only, hypomethylated",GO:BP,GO:0042221,response to chemical,3.4432989470426157e-06,3119,633,204
+"SHH methylation only, hypomethylated",GO:BP,GO:0050896,response to stimulus,1.3559238125396004e-05,6999,633,381
+"SHH methylation only, hypomethylated",KEGG,KEGG:05150,Staphylococcus aureus infection,0.0008564935390976059,69,633,13
+"SHH methylation only, hypomethylated",GO:BP,GO:0051716,cellular response to stimulus,0.0015955781565521441,5901,633,323
+"SHH methylation only, hypomethylated",KEGG,KEGG:04080,Neuroactive ligand-receptor interaction,0.006494866737903002,317,633,30
+"WNT expression only, up",GO:BP,GO:0009653,anatomical structure morphogenesis,3.645440381835787e-22,2330,491,174
+"WNT expression only, up",GO:BP,GO:0048731,system development,4.261600200875353e-22,3386,491,220
+"WNT expression only, up",GO:BP,GO:0007275,multicellular organism development,3.438484907791447e-21,3931,491,240
+"WNT expression only, up",GO:BP,GO:0048856,anatomical structure development,6.896609119310711e-18,4903,491,269
+"WNT expression only, up",GO:BP,GO:0032502,developmental process,9.888650521655848e-17,5316,491,281
+"WNT expression only, up",GO:BP,GO:0032501,multicellular organismal process,4.322455804369963e-15,5982,491,300
+"WNT expression only, up",GO:BP,GO:0007399,nervous system development,6.5108958151300675e-15,2176,491,151
+"WNT expression only, up",GO:BP,GO:0009887,animal organ morphogenesis,2.0328814595007685e-12,891,491,82
+"WNT expression only, up",GO:BP,GO:0048729,tissue morphogenesis,6.369473326866859e-11,560,491,60
+"WNT expression only, up",GO:BP,GO:0030182,neuron differentiation,6.628979450703076e-11,1235,491,97
+"WNT expression only, up",GO:BP,GO:0035239,tube morphogenesis,1.3059928967674424e-10,792,491,73
+"WNT expression only, up",GO:BP,GO:0048513,animal organ development,1.876392651344465e-10,2573,491,157
+"WNT expression only, up",GO:BP,GO:0048699,generation of neurons,2.8674066262746387e-10,1304,491,99
+"WNT expression only, up",GO:BP,GO:0048646,anatomical structure formation involved in morphogenesis,5.963034139463736e-10,1060,491,86
+"WNT expression only, up",GO:BP,GO:0009888,tissue development,7.088631397909387e-10,1745,491,119
+"WNT expression only, up",KEGG,KEGG:04310,Wnt signaling pathway,9.47618716336654e-10,165,491,27
+"WNT expression only, up",GO:BP,GO:0022008,neurogenesis,1.3000751012724284e-09,1523,491,108
+"WNT expression only, up",GO:BP,GO:0035295,tube development,3.635241803632632e-09,977,491,80
+"WNT expression only, up",GO:BP,GO:0072359,circulatory system development,1.6485235993838084e-08,1005,491,80
+"WNT expression only, up",GO:BP,GO:0060429,epithelium development,1.6627304751788018e-08,1084,491,84
+"WNT expression only, up",GO:BP,GO:0030154,cell differentiation,2.3168030529519165e-08,3669,491,195
+"WNT expression only, up",GO:BP,GO:0048869,cellular developmental process,2.3811629612342153e-08,3670,491,195
+"WNT expression only, up",GO:BP,GO:0048666,neuron development,5.8257405348496423e-08,990,491,78
+"WNT expression only, up",GO:BP,GO:0030030,cell projection organization,9.637184354598063e-08,1305,491,93
+"WNT expression only, up",GO:BP,GO:0007154,cell communication,1.5162581771578245e-07,5307,491,253
+"WNT expression only, up",GO:BP,GO:0031175,neuron projection development,2.2215629847609453e-07,860,491,70
+"WNT expression only, up",GO:BP,GO:0050793,regulation of developmental process,2.262885964419338e-07,2055,491,126
+"WNT expression only, up",GO:BP,GO:0120036,plasma membrane bounded cell projection organization,2.851214827732343e-07,1267,491,90
+"WNT expression only, up",GO:BP,GO:0007166,cell surface receptor signaling pathway,2.878363670173646e-07,2343,491,138
+"WNT expression only, up",GO:BP,GO:0002009,morphogenesis of an epithelium,4.2023403589336885e-07,457,491,47
+"WNT expression only, up",GO:BP,GO:0016055,Wnt signaling pathway,5.319656724706336e-07,395,491,43
+"WNT expression only, up",GO:BP,GO:0023052,signaling,9.364058554234318e-07,5275,491,249
+"WNT expression only, up",GO:BP,GO:0030111,regulation of Wnt signaling pathway,1.1472485946881091e-06,281,491,35
+"WNT expression only, up",GO:BP,GO:0060070,canonical Wnt signaling pathway,1.8281964092500932e-06,271,491,34
+"WNT expression only, up",GO:BP,GO:0003007,heart morphogenesis,2.70506471492609e-06,246,491,32
+"WNT expression only, up",GO:BP,GO:0023051,regulation of signaling,2.984312764961723e-06,2934,491,159
+"WNT expression only, up",GO:BP,GO:0048598,embryonic morphogenesis,4.949603141459861e-06,543,491,50
+"WNT expression only, up",GO:BP,GO:0034330,cell junction organization,5.15406885336043e-06,708,491,59
+"WNT expression only, up",GO:BP,GO:0001944,vasculature development,6.266028126953532e-06,674,491,57
+"WNT expression only, up",GO:BP,GO:0010646,regulation of cell communication,7.244487449346476e-06,2942,491,158
+"WNT expression only, up",GO:BP,GO:0051094,positive regulation of developmental process,7.527732553910692e-06,1113,491,79
+"WNT expression only, up",GO:BP,GO:0001568,blood vessel development,1.0035684216924491e-05,645,491,55
+"WNT expression only, up",GO:BP,GO:0007155,cell adhesion,1.4554758751890744e-05,1277,491,86
+"WNT expression only, up",REAC,REAC:R-HSA-1474244,Extracellular matrix organization,1.5104287498434637e-05,267,491,29
+"WNT expression only, up",GO:BP,GO:0060562,epithelial tube morphogenesis,1.9502801948558545e-05,311,491,35
+"WNT expression only, up",GO:BP,GO:0009790,embryo development,2.1474420832651195e-05,972,491,71
+"WNT expression only, up",GO:BP,GO:0042476,odontogenesis,3.2546075295229595e-05,110,491,20
+"WNT expression only, up",GO:BP,GO:0000902,cell morphogenesis,3.585673430916724e-05,862,491,65
+"WNT expression only, up",KEGG,KEGG:04390,Hippo signaling pathway,3.706003576788436e-05,143,491,19
+"WNT expression only, up",GO:BP,GO:0070848,response to growth factor,4.5514176153312645e-05,653,491,54
+"WNT expression only, up",GO:BP,GO:0060828,regulation of canonical Wnt signaling pathway,5.949550014392073e-05,218,491,28
+"WNT expression only, up",GO:BP,GO:0120039,plasma membrane bounded cell projection morphogenesis,6.240287170298611e-05,584,491,50
+"WNT expression only, up",GO:BP,GO:0048812,neuron projection morphogenesis,7.614604693526694e-05,569,491,49
+"WNT expression only, up",GO:BP,GO:0048858,cell projection morphogenesis,8.336890999814463e-05,589,491,50
+"WNT expression only, up",GO:BP,GO:0071363,cellular response to growth factor stimulus,9.157952514110359e-05,628,491,52
+"WNT expression only, up",GO:BP,GO:0009966,regulation of signal transduction,0.00012610320486425923,2553,491,138
+"WNT expression only, up",GO:BP,GO:0048732,gland development,0.00013674261826226232,384,491,38
+"WNT expression only, up",GO:BP,GO:0023056,positive regulation of signaling,0.00015929280988147618,1519,491,94
+"WNT expression only, up",GO:BP,GO:0048514,blood vessel morphogenesis,0.000186775596941922,566,491,48
+"WNT expression only, up",GO:BP,GO:0001501,skeletal system development,0.0002496992534173422,462,491,42
+"WNT expression only, up",GO:BP,GO:0048562,embryonic organ morphogenesis,0.0003146813166700501,265,491,30
+"WNT expression only, up",GO:BP,GO:0060485,mesenchyme development,0.00032613066430702475,281,491,31
+"WNT expression only, up",GO:BP,GO:0010647,positive regulation of cell communication,0.00033753092938481894,1519,491,93
+"WNT expression only, up",KEGG,KEGG:04512,ECM-receptor interaction,0.0004248120221376257,83,491,13
+"WNT expression only, up",GO:BP,GO:0034329,cell junction assembly,0.00042721932672292666,435,491,40
+"WNT expression only, up",GO:BP,GO:0051239,regulation of multicellular organismal process,0.00048156688786645094,2506,491,134
+"WNT expression only, up",GO:BP,GO:0072001,renal system development,0.0004969967356710337,302,491,32
+"WNT expression only, up",GO:BP,GO:0007507,heart development,0.0005396266775682441,529,491,45
+"WNT expression only, up",REAC,REAC:R-HSA-9796292,Formation of axial mesoderm,0.0005841302153465678,12,491,6
+"WNT expression only, up",KEGG,KEGG:05217,Basal cell carcinoma,0.0006853648614817585,62,491,11
+"WNT expression only, up",KEGG,KEGG:04550,Signaling pathways regulating pluripotency of stem cells,0.0008606718002184703,130,491,16
+"WNT expression only, up",GO:BP,GO:0061448,connective tissue development,0.0008628697018119185,261,491,29
+"WNT expression only, up",GO:BP,GO:0072073,kidney epithelium development,0.000864261763329681,145,491,21
+"WNT expression only, up",GO:BP,GO:0048667,cell morphogenesis involved in neuron differentiation,0.001069945383264903,504,491,43
+"WNT expression only, up",REAC,REAC:R-HSA-4411364,Binding of TCF/LEF:CTNNB1 to target gene promoters,0.0011588183448203013,8,491,5
+"WNT expression only, up",GO:BP,GO:0051216,cartilage development,0.001159289600964688,189,491,24
+"WNT expression only, up",GO:BP,GO:0065008,regulation of biological quality,0.0012865251638312608,2446,491,130
+"WNT expression only, up",GO:BP,GO:0048589,developmental growth,0.0016516357179489146,587,491,47
+"WNT expression only, up",REAC,REAC:R-HSA-9830674,Formation of the ureteric bud,0.0019297360790610516,21,491,7
+"WNT expression only, up",GO:BP,GO:0030198,extracellular matrix organization,0.001995744281368565,271,491,29
+"WNT expression only, up",KEGG,KEGG:05412,Arrhythmogenic right ventricular cardiomyopathy,0.002042417644615628,82,491,12
+"WNT expression only, up",GO:BP,GO:0043062,extracellular structure organization,0.0021649256357085434,272,491,29
+"WNT expression only, up",GO:BP,GO:0061564,axon development,0.0023010903145469384,444,491,39
+"WNT expression only, up",GO:BP,GO:0045229,external encapsulating structure organization,0.0023474221838399416,273,491,29
+"WNT expression only, up",GO:BP,GO:0048468,cell development,0.0026564873363039846,2401,491,127
+"WNT expression only, up",GO:BP,GO:0007389,pattern specification process,0.00269205026293083,393,491,36
+"WNT expression only, up",GO:BP,GO:0001822,kidney development,0.002701985364615977,291,491,30
+"WNT expression only, up",GO:BP,GO:0060560,developmental growth involved in morphogenesis,0.002885585743179861,213,491,25
+"WNT expression only, up",GO:BP,GO:0001525,angiogenesis,0.002986810856922497,485,491,41
+"WNT expression only, up",KEGG,KEGG:04519,Cadherin signaling,0.0031518676068242107,336,491,27
+"WNT expression only, up",GO:BP,GO:0030334,regulation of cell migration,0.0037159373850928776,803,491,57
+"WNT expression only, up",GO:BP,GO:0050808,synapse organization,0.003853116847008805,471,491,40
+"WNT expression only, up",GO:BP,GO:0030178,negative regulation of Wnt signaling pathway,0.0038740818604001115,144,491,20
+"WNT expression only, up",GO:BP,GO:0007409,axonogenesis,0.003948504207486887,399,491,36
+"WNT expression only, up",GO:BP,GO:0040012,regulation of locomotion,0.0041886512354365754,889,491,61
+"WNT expression only, up",REAC,REAC:R-HSA-9830369,Kidney development,0.004564381944198665,42,491,9
+"WNT expression only, up",GO:BP,GO:0007167,enzyme-linked receptor protein signaling pathway,0.004910245821061944,872,491,60
+"WNT expression only, up",GO:BP,GO:0048568,embryonic organ development,0.005739789471901702,405,491,36
+"WNT expression only, up",REAC,REAC:R-HSA-195721,Signaling by WNT,0.00590799727358065,265,491,24
+"WNT expression only, up",GO:BP,GO:0022603,regulation of anatomical structure morphogenesis,0.00596601485795123,712,491,52
+"WNT expression only, up",GO:BP,GO:0007423,sensory organ development,0.006495476112473226,556,491,44
+"WNT expression only, up",GO:BP,GO:0050803,regulation of synapse structure or activity,0.007337462256576254,255,491,27
+"WNT expression only, up",GO:BP,GO:0007165,signal transduction,0.007682187605812593,4858,491,218
+"WNT expression only, up",GO:BP,GO:0048839,inner ear development,0.008034427338740595,179,491,22
+"WNT expression only, up",GO:BP,GO:0016477,cell migration,0.008232428630007312,1301,491,79
+"WNT expression only, up",REAC,REAC:R-HSA-2129379,Molecules associated with elastic fibres,0.008772015623528683,35,491,8
+"WNT expression only, up",GO:BP,GO:0007411,axon guidance,0.008819700051471223,210,491,24
+"WNT expression only, up",GO:BP,GO:0040011,locomotion,0.009173818275857821,1038,491,67
+"WNT expression only, up",GO:BP,GO:0001823,mesonephros development,0.009404272218880424,99,491,16
+"WNT expression only, up",GO:BP,GO:0097485,neuron projection guidance,0.009644653392191832,211,491,24
+"WNT expression only, up",KEGG,KEGG:05224,Breast cancer,0.010020545470929045,142,491,15
+"WNT expression only, up",GO:BP,GO:0045595,regulation of cell differentiation,0.011652539216908482,1312,491,79
+"WNT expression only, up",GO:BP,GO:0048645,animal organ formation,0.012440045611088035,66,491,13
+"WNT expression only, up",KEGG,KEGG:00514,Other types of O-glycan biosynthesis,0.012910928510400555,34,491,7
+"WNT expression only, up",GO:BP,GO:0010092,specification of animal organ identity,0.013339993806074429,37,491,10
+"WNT expression only, up",GO:BP,GO:0090287,regulation of cellular response to growth factor stimulus,0.014251339294144677,280,491,28
+"WNT expression only, up",GO:BP,GO:0043408,regulation of MAPK cascade,0.014764441932986266,553,491,43
+"WNT expression only, up",GO:BP,GO:0090596,sensory organ morphogenesis,0.01601794860817257,265,491,27
+"WNT expression only, up",GO:BP,GO:0050807,regulation of synapse organization,0.016448032638979072,249,491,26
+"WNT expression only, up",GO:BP,GO:0009967,positive regulation of signal transduction,0.017517274263130746,1348,491,80
+"WNT expression only, up",REAC,REAC:R-HSA-201681,TCF dependent signaling in response to WNT,0.018706198979477045,179,491,18
+"WNT expression only, up",GO:BP,GO:0043583,ear development,0.020338789986973863,204,491,23
+"WNT expression only, up",GO:BP,GO:0090090,negative regulation of canonical Wnt signaling pathway,0.021567719494004253,118,491,17
+"WNT expression only, up",GO:BP,GO:0050896,response to stimulus,0.022057431795924256,6999,491,290
+"WNT expression only, up",GO:BP,GO:0007416,synapse assembly,0.0228346241053332,221,491,24
+"WNT expression only, up",GO:BP,GO:2000145,regulation of cell motility,0.022897135119616684,848,491,57
+"WNT expression only, up",GO:BP,GO:0051963,regulation of synapse assembly,0.022920439766468955,132,491,18
+"WNT expression only, up",GO:BP,GO:0003002,regionalization,0.02304397788096936,356,491,32
+"WNT expression only, up",GO:BP,GO:0043410,positive regulation of MAPK cascade,0.026036988840542074,394,491,34
+"WNT expression only, up",KEGG,KEGG:00000,KEGG root term,0.026348820206809075,6922,491,272
+"WNT expression only, up",GO:BP,GO:0001657,ureteric bud development,0.02691676863391789,94,491,15
+"WNT expression only, up",REAC,REAC:R-HSA-5173105,O-linked glycosylation,0.027934172096875758,91,491,12
+"WNT expression only, up",GO:BP,GO:0002062,chondrocyte differentiation,0.0281347936907971,107,491,16
+"WNT expression only, up",REAC,REAC:R-HSA-1266738,Developmental Biology,0.030231759017670366,1159,491,64
+"WNT expression only, up",GO:BP,GO:0072163,mesonephric epithelium development,0.030988994718318476,95,491,15
+"WNT expression only, up",GO:BP,GO:0072164,mesonephric tubule development,0.030988994718318476,95,491,15
+"WNT expression only, up",KEGG,KEGG:00512,Mucin type O-glycan biosynthesis,0.03180925324174947,28,491,6
+"WNT expression only, up",GO:BP,GO:0000165,MAPK cascade,0.03210341147756762,649,491,47
+"WNT expression only, up",GO:BP,GO:0001763,morphogenesis of a branching structure,0.0328827053203029,194,491,22
+"WNT expression only, up",REAC,REAC:R-HSA-1566948,Elastic fibre formation,0.03574988414589524,42,491,8
+"WNT expression only, up",KEGG,KEGG:05226,Gastric cancer,0.037899736323412245,143,491,14
+"WNT expression only, up",GO:BP,GO:0003206,cardiac chamber morphogenesis,0.03936285601835557,123,491,17
+"WNT expression only, up",GO:BP,GO:0035108,limb morphogenesis,0.04012018210092917,137,491,18
+"WNT expression only, up",GO:BP,GO:0035107,appendage morphogenesis,0.04012018210092917,137,491,18
+"WNT expression only, up",GO:BP,GO:0009719,response to endogenous stimulus,0.04141863548870165,1285,491,76
+"WNT expression only, up",REAC,REAC:R-HSA-8951430,RUNX3 regulates WNT signaling,0.0422731378637723,8,491,4
+"WNT methylation only, hypomethylated",GO:BP,GO:0050907,detection of chemical stimulus involved in sensory perception,2.106462212741065e-90,262,957,139
+"WNT methylation only, hypomethylated",GO:BP,GO:0050911,detection of chemical stimulus involved in sensory perception of smell,3.229884584379479e-89,233,957,131
+"WNT methylation only, hypomethylated",GO:BP,GO:0007608,sensory perception of smell,7.637816728746673e-87,257,957,135
+"WNT methylation only, hypomethylated",GO:BP,GO:0009593,detection of chemical stimulus,8.66724158242885e-86,296,957,143
+"WNT methylation only, hypomethylated",GO:BP,GO:0007606,sensory perception of chemical stimulus,2.483145249149829e-85,307,957,145
+"WNT methylation only, hypomethylated",KEGG,KEGG:04740,Olfactory transduction,6.5197009078917464e-83,267,957,132
+"WNT methylation only, hypomethylated",GO:BP,GO:0050906,detection of stimulus involved in sensory perception,2.5043836841005283e-76,321,957,140
+"WNT methylation only, hypomethylated",REAC,REAC:R-HSA-9752946,Expression and translocation of olfactory receptors,3.381924706452843e-76,215,957,115
+"WNT methylation only, hypomethylated",REAC,REAC:R-HSA-381753,Olfactory Signaling Pathway,1.190635246591514e-75,221,957,116
+"WNT methylation only, hypomethylated",GO:BP,GO:0051606,detection of stimulus,4.641497440108697e-69,429,957,153
+"WNT methylation only, hypomethylated",GO:BP,GO:0007600,sensory perception,6.961506010363181e-59,697,957,182
+"WNT methylation only, hypomethylated",REAC,REAC:R-HSA-9709957,Sensory Perception,2.228023967132625e-58,390,957,133
+"WNT methylation only, hypomethylated",GO:BP,GO:0007186,G protein-coupled receptor signaling pathway,1.531626320551624e-43,960,957,193
+"WNT methylation only, hypomethylated",GO:BP,GO:0050877,nervous system process,2.701579533462517e-33,1148,957,196
+"WNT methylation only, hypomethylated",GO:BP,GO:0003008,system process,1.745278689637631e-26,1846,957,249
+"WNT methylation only, hypomethylated",GO:BP,GO:0042221,response to chemical,1.1527976640104408e-15,3119,957,324
+"WNT methylation only, hypomethylated",GO:BP,GO:0006955,immune response,3.067653212155775e-08,1455,957,165
+"WNT methylation only, hypomethylated",GO:BP,GO:0050896,response to stimulus,4.0556146279108086e-08,6999,957,566
+"WNT methylation only, hypomethylated",GO:BP,GO:0042742,defense response to bacterium,4.341225026663089e-07,256,957,49
+"WNT methylation only, hypomethylated",GO:BP,GO:0140546,defense response to symbiont,1.4557986965303443e-06,849,957,107
+"WNT methylation only, hypomethylated",GO:BP,GO:0098542,defense response to other organism,4.1905300904105455e-06,864,957,107
+"WNT methylation only, hypomethylated",GO:BP,GO:0006952,defense response,4.441089725447415e-06,1497,957,161
+"WNT methylation only, hypomethylated",KEGG,KEGG:04610,Complement and coagulation cascades,9.508988274805817e-06,70,957,19
+"WNT methylation only, hypomethylated",KEGG,KEGG:00000,KEGG root term,3.9692272076459804e-05,6922,957,530
+"WNT methylation only, hypomethylated",GO:BP,GO:0006959,humoral immune response,6.606416962464363e-05,196,957,38
+"WNT methylation only, hypomethylated",GO:BP,GO:0045087,innate immune response,9.598733731707133e-05,787,957,96
+"WNT methylation only, hypomethylated",GO:BP,GO:0032501,multicellular organismal process,9.783299902169989e-05,5982,957,481
+"WNT methylation only, hypomethylated",REAC,REAC:R-HSA-6805567,Keratinization,0.00010091082393250565,161,957,30
+"WNT methylation only, hypomethylated",GO:BP,GO:0007165,signal transduction,0.00024710703551474397,4858,957,402
+"WNT methylation only, hypomethylated",GO:BP,GO:0051707,response to other organism,0.00045892996947248196,1260,957,134
+"WNT methylation only, hypomethylated",GO:BP,GO:0043207,response to external biotic stimulus,0.0005067312389045644,1262,957,134
+"WNT methylation only, hypomethylated",GO:BP,GO:0001906,cell killing,0.0007775339321382304,170,957,33
+"WNT methylation only, hypomethylated",GO:BP,GO:0009617,response to bacterium,0.0010161533565124265,556,957,72
+"WNT methylation only, hypomethylated",GO:BP,GO:0009607,response to biotic stimulus,0.0012576181110416185,1293,957,135
+"WNT methylation only, hypomethylated",GO:BP,GO:0009605,response to external stimulus,0.0024071784220516096,1954,957,186
+"WNT methylation only, hypomethylated",GO:BP,GO:0002376,immune system process,0.0035085278273962483,2121,957,198
+"WNT methylation only, hypomethylated",GO:BP,GO:0019731,antibacterial humoral response,0.0061616203382906885,46,957,15
+"WNT methylation only, hypomethylated",GO:BP,GO:0044419,biological process involved in interspecies interaction between organisms,0.011150470486232165,1404,957,140
+"WNT methylation only, hypomethylated",REAC,REAC:R-HSA-140877,Formation of Fibrin Clot (Clotting Cascade),0.032670168179825466,35,957,10
+"WNT methylation only, hypomethylated",GO:BP,GO:0051716,cellular response to stimulus,0.044797796181109496,5901,957,459
+"WNT methylation only, hypomethylated",KEGG,KEGG:04976,Bile secretion,0.046159470825670436,67,957,13

@@ -326,7 +326,42 @@ hypomethylated with expression up, or promoter hypermethylated with expression d
 GLI2 in SHH and OTX2 in Group 3 and Group 4 are concordant: their promoter is hypomethylated and they
 are strongly expressed in their subgroup. Most other drivers are strongly over-expressed without a
 promoter methylation change, which again says that drivers are switched by mutation or copy number,
-not by methylation. The concordant genes are the input to the pathway and therapy page."""),
+not by methylation. The concordant genes are the input to the pathway and therapy page.
+
+## The expression layer on its own
+
+Concordant genes are a minority. Every gene and subgroup falls into one of five categories:
+concordant; **expression only** (expression changed, promoter not); **methylation only** (promoter
+changed, expression not); both changed in the same direction; neither. The counts show how much each
+layer carries."""),
+    ("code", "pd.read_csv(TAB / 'expression_layer_counts.csv', index_col=0)"),
+    ("code", "display(Image(FIG / 'expression_layer_scatter.png'))"),
+    ("md", """**Expression-only genes outnumber concordant genes five to seven times.** They are the genes a
+subgroup switches on or off without touching the promoter: through a mutated or amplified driver,
+through enhancers, or through transcription factors that are themselves methylation-controlled.
+The drivers sit here, as expected: MYCN, PTCH1 and TP53 up in SHH, MYC up in Group 3, SNCAIP up
+in Group 4. So do the classic diagnostic markers. The 22-gene NanoString signature of Northcott et
+al. 2012, the assay used to subgroup clinical FFPE samples, is labelled in the figure: 15 of its
+genes are expression-only, 5 are concordant (EYA1, IMPG2, NRL, EOMES, RBM24), and only OAS1 is not
+differential here. The pipeline recovers the clinical signature without being told, and the split
+says which signature genes are methylation-controlled and which are not."""),
+    ("code", "pd.read_csv(TAB / 'nanostring_signature_check.csv')"),
+    ("code", "display(Image(FIG / 'expression_only_top_genes.png'))"),
+    ("md", """**Methylation-only genes are the largest group and mostly silent.** Over a thousand genes per
+subgroup change promoter methylation without a change in expression. Their enrichment is the same in
+every subgroup: olfactory receptors and other "detection of chemical stimulus" genes. These genes
+are not expressed in the cerebellum in any case. They lie in the large partially methylated domains
+whose subgroup-specific hypomethylation Hovestadt et al. 2014 described from whole-genome bisulfite
+sequencing. Their methylation reports genome organisation, not gene regulation, and a promoter change
+there should not be read as a switch.
+
+**What expression-only genes are enriched for.** Developmental and neurogenesis terms in WNT, SHH and
+Group 3; synaptic signalling in Group 4, which fits the neuronal lineage proposed for Group 4."""),
+    ("code", "enr = pd.read_csv(TAB / 'expression_layer_enrichment.csv')\n"
+             "enr.groupby('query').head(4)[['query', 'source', 'name', 'p_value', 'intersection_size', 'term_size']]"),
+    ("md", """The division of labour is now explicit. Methylation identifies the lineage and controls a limited set
+of lineage programs. Expression carries the driver output and the diagnostic markers. A classifier can
+be built on either; the biology needs both."""),
 ]
 
 # ----------------------------------------------------------------------------------------------
@@ -606,6 +641,15 @@ Twenty-nine symbols come from the 2011 Illumina manifest and are no longer curre
 HIST1H3E, SEPP1 and others); they have no name in the table. Oncogene and tumour suppressor labels
 come from pan-cancer curation and do not transfer automatically to a cerebellar tumour of childhood;
 the WNT feedback genes are the proof."""),
+    ("md", """## 5b. Cancer genes in the expression-only layer
+
+Page 5 showed that most differential expression happens without a promoter change. The cancer genes in
+that layer are the ones a methylation-only view would miss. They are listed per subgroup with their
+OncoKB type; the curated drivers among them are flagged. This is where MYC, MYCN, GLI1, PTCH1 and the
+beta-catenin targets AXIN2, LEF1 and LGR5 sit."""),
+    ("code", "eo = pd.read_csv(TAB / 'expression_only_genes.csv')\n"
+             "eo = eo[eo['oncokb_gene_type'].notna() & (eo['oncokb_gene_type'] != '')]\n"
+             "eo.sort_values(['group', 'expr_delta'], ascending=[True, False])[['group', 'gene', 'direction', 'expr_delta', 'oncokb_gene_type', 'curated_driver', 'nanostring_2012']].reset_index(drop=True)"),
     ("md", """## 6. Every annotated gene
 
 The full table, one row per gene: name, which analyses it appears in, cancer role and sources,
@@ -627,7 +671,10 @@ P7 = [
    subgroup and sit in genes of neuronal and developmental identity, not in the known drivers.
 3. **Methylation and expression.** Across all genes, promoter methylation barely tracks expression.
    At the model's top promoter sites it does, with a clearly negative correlation for most genes.
-   The classifier's explanations point at functional sites.
+   The classifier's explanations point at functional sites. Split by layer, expression-only changes
+   outnumber concordant ones five to seven times and carry the drivers and 15 of the 22 NanoString
+   signature genes; methylation-only changes are larger still and are dominated by silent olfactory
+   receptor clusters in partially methylated domains.
 4. **Pathways and therapy.** Concordant genes recover the Group 3 photoreceptor program, Wnt
    signalling in WNT and cell fate commitment in SHH. Few concordant genes have drugs, and those that do
    are mostly channels and stromal genes. The approved subgroup-specific drugs act on mutated drivers

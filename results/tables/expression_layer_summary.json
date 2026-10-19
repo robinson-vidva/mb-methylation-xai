@@ -1,0 +1,1152 @@
+{
+  "counts": {
+    "WNT": {
+      "concordant": 165,
+      "expression only": 934,
+      "methylation only": 1623,
+      "both, same direction": 51,
+      "neither": 12560
+    },
+    "SHH": {
+      "concordant": 129,
+      "expression only": 836,
+      "methylation only": 1432,
+      "both, same direction": 43,
+      "neither": 12893
+    },
+    "Group3": {
+      "concordant": 63,
+      "expression only": 447,
+      "methylation only": 1540,
+      "both, same direction": 14,
+      "neither": 13269
+    },
+    "Group4": {
+      "concordant": 78,
+      "expression only": 630,
+      "methylation only": 1450,
+      "both, same direction": 19,
+      "neither": 13156
+    }
+  },
+  "expression_only_up_per_group": {
+    "WNT": 510,
+    "SHH": 477,
+    "Group3": 221,
+    "Group4": 313
+  },
+  "expression_only_cancer_genes": {
+    "WNT": [
+      [
+        "WIF1",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "DKK2",
+        "expression up",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "PAX3",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "EPHA7",
+        "expression up",
+        "ONCOGENE_AND_TSG"
+      ],
+      [
+        "LGR5",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "DKK1",
+        "expression up",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "ALK",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "LEF1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "FOXA1",
+        "expression up",
+        "ONCOGENE_AND_TSG"
+      ],
+      [
+        "MAF",
+        "expression up",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "AXIN2",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "MYC",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "PTPRT",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "COL5A1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "FGFR2",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "SLIT2",
+        "expression up",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "CREB3L2",
+        "expression up",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "PMAIP1",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "ONECUT2",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "FANCC",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "FGFR1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "SMAD3",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "APLNR",
+        "expression up",
+        "ONCOGENE_AND_TSG"
+      ],
+      [
+        "NTRK1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "NOTCH2",
+        "expression up",
+        "ONCOGENE_AND_TSG"
+      ],
+      [
+        "XBP1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "MTHFD2",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "YAP1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "EPHB4",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "NQO1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "ELN",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "TLE1",
+        "expression up",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "POU3F2",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "COL2A1",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "CDH11",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "FGF2",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "PTPN14",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "ZNF292",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "PGBD5",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "ARID5B",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "EPHB1",
+        "expression down",
+        "ONCOGENE_AND_TSG"
+      ],
+      [
+        "ADARB2",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "RSPO2",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "NEGR1",
+        "expression down",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "MAP3K13",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "IGF2",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "DPYD",
+        "expression down",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "ALDH1A3",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "EBF1",
+        "expression down",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "MYB",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "MAGI2",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "NTRK3",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "UCHL1",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "SGK1",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "PRKCB",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "TLE2",
+        "expression down",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "ASXL3",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "TOX",
+        "expression down",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "ERBB4",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "RELN",
+        "expression down",
+        "INSUFFICIENT_EVIDENCE"
+      ]
+    ],
+    "SHH": [
+      [
+        "ALDH1A3",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "CXCR4",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "POU3F2",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "IGF2",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "MET",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "GAB1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "ROBO1",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "GRIN2A",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "PRKD1",
+        "expression up",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "GLI1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "MYCN",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "PTCH1",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "NTRK3",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "NOTCH2",
+        "expression up",
+        "ONCOGENE_AND_TSG"
+      ],
+      [
+        "EPHB4",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "FAT1",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "BCL11A",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "PBX1",
+        "expression up",
+        "ONCOGENE_AND_TSG"
+      ],
+      [
+        "ELN",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "LEF1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "DLL3",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "ETV6",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "SOX9",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "BTG2",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "PREX2",
+        "expression up",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "BARD1",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "CCND1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "YAP1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "PRKCB",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "MTHFD2",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "ZFP36L1",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "EGFR",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "COL1A1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "NEGR1",
+        "expression up",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "F3",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "TCF7L2",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "INPP4B",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "TLE4",
+        "expression up",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "FLT4",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "MPEG1",
+        "expression up",
+        "NEITHER"
+      ],
+      [
+        "WWTR1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "FGF14",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "BCL2",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "ATIC",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "LRP1B",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "PDGFRB",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "MAP3K1",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "TP53",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "BCL6",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "FSTL1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "CACNA1D",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "ERBB4",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "ACVR1",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "REV3L",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "MYB",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "RYBP",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "MLLT3",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "HIP1",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "MYC",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "NTRK2",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "LGR5",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "EPHB1",
+        "expression down",
+        "ONCOGENE_AND_TSG"
+      ],
+      [
+        "MAP3K13",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "TRAF3",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "APLNR",
+        "expression down",
+        "ONCOGENE_AND_TSG"
+      ],
+      [
+        "SGK1",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "MAL2",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "RSPO3",
+        "expression down",
+        "ONCOGENE"
+      ]
+    ],
+    "Group3": [
+      [
+        "MYC",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "BCL11B",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "PTPN13",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "JAZF1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "SGK1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "NRG1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "LGR5",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "PAX3",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "FGFR1",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "CXCR4",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "ZBTB20",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "MYCN",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "WIF1",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "KLF3",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "RUNX1T1",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "PRKCB",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "CACNA1D",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "SOX9",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "GAB1",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "LEF1",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "TLE1",
+        "expression down",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "ETV5",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "EGFR",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "NTRK3",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "FGF9",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "FGF14",
+        "expression down",
+        "TSG"
+      ]
+    ],
+    "Group4": [
+      [
+        "RSPO3",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "SGK1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "MAL2",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "EPHB1",
+        "expression up",
+        "ONCOGENE_AND_TSG"
+      ],
+      [
+        "MYB",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "ERBB4",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "RSPO2",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "EBF1",
+        "expression up",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "CDH1",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "MLLT3",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "TLE1",
+        "expression up",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "SLIT3",
+        "expression up",
+        "TSG"
+      ],
+      [
+        "NTRK2",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "RUNX1T1",
+        "expression up",
+        "ONCOGENE"
+      ],
+      [
+        "TNFRSF9",
+        "expression up",
+        "NEITHER"
+      ],
+      [
+        "PMAIP1",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "GAB1",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "EIF3E",
+        "expression down",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "AFF1",
+        "expression down",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "COL1A1",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "MAF",
+        "expression down",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "LGR5",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "GLI1",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "FAT1",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "PLK2",
+        "expression down",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "MAP3K1",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "YAP1",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "PRKD1",
+        "expression down",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "TP53",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "MYC",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "ELN",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "BARD1",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "MYCN",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "IGF2",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "DLL3",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "TCF7L2",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "WIF1",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "TLE4",
+        "expression down",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "ALK",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "DKK2",
+        "expression down",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "HDAC1",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "BTG2",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "CREB3L2",
+        "expression down",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      [
+        "MET",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "EPHB4",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "LEF1",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "NOTCH2",
+        "expression down",
+        "ONCOGENE_AND_TSG"
+      ],
+      [
+        "MTHFD2",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "PTPN13",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "EPHA7",
+        "expression down",
+        "ONCOGENE_AND_TSG"
+      ],
+      [
+        "PBX1",
+        "expression down",
+        "ONCOGENE_AND_TSG"
+      ],
+      [
+        "GRIN2A",
+        "expression down",
+        "TSG"
+      ],
+      [
+        "PAX3",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "POU3F2",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "CXCR4",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "ALDH1A3",
+        "expression down",
+        "ONCOGENE"
+      ],
+      [
+        "ROBO1",
+        "expression down",
+        "TSG"
+      ]
+    ]
+  },
+  "curated_drivers_expression_only": {
+    "WNT": [],
+    "SHH": [
+      [
+        "MYCN",
+        "expression up"
+      ],
+      [
+        "PTCH1",
+        "expression up"
+      ],
+      [
+        "TP53",
+        "expression up"
+      ]
+    ],
+    "Group3": [
+      [
+        "MYC",
+        "expression up"
+      ]
+    ],
+    "Group4": [
+      [
+        "SNCAIP",
+        "expression up"
+      ],
+      [
+        "MYCN",
+        "expression down"
+      ]
+    ]
+  },
+  "nanostring_2012_category_counts": {
+    "both, same direction": 1,
+    "concordant": 5,
+    "expression only": 15,
+    "neither": 1
+  },
+  "nanostring_2012_in_own_group": 21,
+  "enriched_terms_per_query": {
+    "Group3 expression only, up": 28,
+    "Group3 methylation only, hypomethylated": 108,
+    "Group4 expression only, up": 52,
+    "SHH expression only, up": 123,
+    "SHH methylation only, hypomethylated": 24,
+    "WNT expression only, up": 146,
+    "WNT methylation only, hypomethylated": 41
+  }
+}

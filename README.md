@@ -58,6 +58,9 @@ scripts/07_networks.py    gene clusters, co-methylation network, KEGG pathway fl
 scripts/08_gene_annotation.py  gene names, oncogene and tumour suppressor status (OncoKB, COSMIC), Reactome
                           pathways, PubMed counts in medulloblastoma, and the reading of each methylation
                           change against the gene's role
+scripts/09_expression_layer.py  five categories per gene and subgroup (concordant, expression only,
+                          methylation only, same direction, neither), enrichment per layer, cancer genes
+                          and the Northcott 2012 NanoString signature in the expression-only layer
 scripts/make_report.py    writes the nine report notebooks; run_all.sh executes them and exports
                           them to docs/ as HTML
 ```
@@ -214,6 +217,15 @@ This is the part the matched expression data makes possible.
    one oncogene switched on in Group 3. Tables: `results/tables/gene_annotation.csv`,
    `results/tables/gene_regulation_concordant.csv`.
 
+8. **The expression layer on its own.** Expression-only changes outnumber concordant genes five to
+   seven times per subgroup (934 in WNT, 836 in SHH, 447 in Group 3, 630 in Group 4). They carry the
+   drivers (MYCN, PTCH1, TP53 in SHH; MYC in Group 3; SNCAIP in Group 4) and the clinical markers:
+   of the 22-gene NanoString signature of Northcott et al. 2012, 15 genes are expression-only, 5 are
+   concordant and only OAS1 is not differential. Methylation-only changes are larger still, above a
+   thousand genes per subgroup, and are dominated by silent olfactory receptor clusters, the
+   partially methylated domains of Hovestadt et al. 2014. Tables: `results/tables/expression_layer_*`,
+   `results/tables/nanostring_signature_check.csv`.
+
 ### Related work
 
 A published R package, MBMethPred (Sharif Rahmani et al. 2023, Frontiers in Genetics,
@@ -240,8 +252,8 @@ The numbers above come from the run that produced `results/`, on Linux (x86_64, 
 wheel). The pipeline was rerun from the same code, seeds and GEO files on a second machine
 (Windows 11, AMD Ryzen 5 5500U, PyTorch 2.14.1 CPU wheel, MKL and oneDNN) and the tables from that
 run are in `results_windows/tables/`. The QC tables (`qc_*`), the Open Targets tables (`therapy_*`) and the cluster, network and
-pathway tables (`gene_clusters*`, `network_*`, `pathway_*`) and the gene annotation tables (`gene_annotation*`,
-`gene_regulation_*`, `gene_literature_*`) in `results/` were computed on the Windows machine; they depend only on deterministic steps and on
+pathway tables (`gene_clusters*`, `network_*`, `pathway_*`), the gene annotation tables (`gene_annotation*`,
+`gene_regulation_*`, `gene_literature_*`) and the expression layer tables (`expression_*`, `nanostring_*`) in `results/` were computed on the Windows machine; they depend only on deterministic steps and on
 the concordant gene list, which was identical on both machines. Everything computed by scikit-learn, scipy and statsmodels
 reproduced exactly: preprocessing, logistic regression and random forest cross-validation,
 the differential analysis, the concordant genes, the pathway enrichment and the driver gene
@@ -297,6 +309,8 @@ deterministic backend, and would report the spread instead of one number.
   tumours. Nature 2018. https://doi.org/10.1038/nature26000
 - Sundararajan M, Taly A, Yan Q. Axiomatic attribution for deep networks. ICML 2017.
 - Raudvere U et al. g:Profiler. Nucleic Acids Res 2019. https://doi.org/10.1093/nar/gkz369
+- Northcott PA et al. Rapid, reliable, and reproducible molecular sub-grouping of clinical
+  medulloblastoma samples. Acta Neuropathol 2012. https://doi.org/10.1007/s00401-011-0899-7
 - Hovestadt V et al. Decoding the regulatory landscape of medulloblastoma using DNA methylation
   sequencing. Nature 2014. https://doi.org/10.1038/nature13268
 - Lindsey JC et al. Cross-species epigenetics identifies a critical role for VAV1 in SHH subgroup

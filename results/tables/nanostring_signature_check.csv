@@ -1,0 +1,23 @@
+group,gene,category,expr_delta,meth_delta,expr_fdr,meth_fdr
+WNT,WIF1,expression only,7.0722,0.0994,0.0,0.0
+WNT,TNC,expression only,5.3229,0.0173,0.0,0.1245
+WNT,GAD1,expression only,5.6701,-0.0265,0.0,0.0
+WNT,DKK2,expression only,5.5576,0.0044,0.0,0.0
+WNT,EMX2,expression only,4.804,-0.0096,0.0,0.0
+SHH,PDLIM3,expression only,5.3732,-0.0021,0.0,0.3269
+SHH,EYA1,concordant,5.0429,-0.3294,0.0,0.0
+SHH,HHIP,expression only,5.0397,-0.0904,0.0,0.0
+SHH,ATOH1,expression only,5.7672,0.0155,0.0,0.0656
+SHH,SFRP1,"both, same direction",3.8088,0.2069,0.0,0.0
+Group3,IMPG2,concordant,3.7491,-0.5395,0.0,0.0
+Group3,GABRA5,expression only,3.7435,-0.09,0.0,0.0
+Group3,EYS,expression only,3.4346,-0.048,0.0,0.0
+Group3,NRL,concordant,2.6698,-0.2148,0.0,0.0
+Group3,MAB21L2,expression only,2.4307,-0.0962,0.0,0.0004
+Group3,NPR3,expression only,3.2492,-0.007,0.0,0.0
+Group4,KCNA1,expression only,2.38,-0.0024,0.0,0.0001
+Group4,EOMES,concordant,3.5604,-0.1754,0.0,0.0
+Group4,KHDRBS2,expression only,3.8905,-0.0828,0.0,0.0
+Group4,RBM24,concordant,3.2617,-0.1519,0.0,0.0
+Group4,UNC5D,expression only,3.5972,0.01,0.0,0.0
+Group4,OAS1,neither,0.3003,-0.0051,0.0,0.0599

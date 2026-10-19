@@ -11,6 +11,7 @@ python scripts/05_integrate.py
 python scripts/06_therapy.py
 python scripts/07_networks.py
 python scripts/08_gene_annotation.py
+python scripts/09_expression_layer.py
 python scripts/make_report.py
 for nb in notebooks/0*.ipynb; do
   python -m nbconvert --to notebook --execute --inplace "$nb"
