@@ -219,7 +219,20 @@ This is the part the matched expression data makes possible.
 A published R package, MBMethPred (Sharif Rahmani et al. 2023, Frontiers in Genetics,
 https://doi.org/10.3389/fgene.2023.1233657), classifies the four subgroups from the same GSE85212
 cohort. It is cited as prior work. The subtype task, the gene-by-gene test against expression,
-calibration, sparse coverage and the drug lookup are not part of it.
+calibration, sparse coverage and the drug lookup are not part of it. Tuerxun et al. 2026 integrated
+the same two GEO series for a prognostic model (https://doi.org/10.1177/20503121251386139); survival
+is not analysed here.
+
+### Literature check
+
+Three observations were checked against PubMed (page 9 has the detail). The demethylation-driven
+Group 3 photoreceptor program is consistent with enhancer-level findings (Hovestadt et al. 2014,
+Chen et al. 2025) and with the tumour-associated photoreceptor signature of Gudenas et al. 2026;
+the side-by-side contrast with the mutation-driven Hedgehog and Wnt targets, at promoter level in the
+same tumours, was not found in the searched literature. The known SHH hypomethylation of VAV1
+(Lindsey et al. 2014) is present in the data. ZNRF3 over-expression as a WNT marker is known
+(Vriend et al. 2019, 2020); the promoter hypomethylation of RNF43, ZNRF3, APCDD1 and SP5 in WNT
+tumours was not found. None of this is a novelty claim; an independent cohort would be the next step.
 
 ## Reproducibility
 
@@ -284,6 +297,25 @@ deterministic backend, and would report the spread instead of one number.
   tumours. Nature 2018. https://doi.org/10.1038/nature26000
 - Sundararajan M, Taly A, Yan Q. Axiomatic attribution for deep networks. ICML 2017.
 - Raudvere U et al. g:Profiler. Nucleic Acids Res 2019. https://doi.org/10.1093/nar/gkz369
+- Hovestadt V et al. Decoding the regulatory landscape of medulloblastoma using DNA methylation
+  sequencing. Nature 2014. https://doi.org/10.1038/nature13268
+- Lindsey JC et al. Cross-species epigenetics identifies a critical role for VAV1 in SHH subgroup
+  medulloblastoma maintenance. Oncogene 2015. https://doi.org/10.1038/onc.2014.405
+- Chen et al. Targeting TET3 suppresses group 3 medulloblastoma stemness and progression via
+  impairing hypomethylation of Otx2 super-enhancer. Cell Rep Med 2025.
+  https://doi.org/10.1016/j.xcrm.2025.102474
+- Gudenas et al. A tumor-associated photoreceptor signature unifies distinct central nervous system
+  malignancies. Cancer Cell 2026. https://doi.org/10.1016/j.ccell.2026.02.010
+- Vriend J et al. Differential expression of genes for ubiquitin ligases in medulloblastoma subtypes.
+  Cerebellum 2019. https://doi.org/10.1007/s12311-019-1009-y
+- Vriend J et al. Ubiquitin ligases and medulloblastoma. Biochim Biophys Acta Mol Basis Dis 2020.
+  https://doi.org/10.1016/j.bbadis.2020.165839
+- Desterke C et al. Single-cell RNA sequencing reveals LEF1-driven Wnt pathway activation as a shared
+  oncogenic program in hepatoblastoma and medulloblastoma. Curr Oncol 2025.
+  https://doi.org/10.3390/curroncol32010035
+- Tuerxun et al. Exploring the prognostic molecular mechanisms of medulloblastoma through
+  methylation-transcriptome integration. SAGE Open Med 2026. https://doi.org/10.1177/20503121251386139
+- Sharif Rahmani E et al. MBMethPred. Front Genet 2023. https://doi.org/10.3389/fgene.2023.1233657
 
 ## License
 

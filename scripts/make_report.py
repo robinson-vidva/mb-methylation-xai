@@ -567,12 +567,14 @@ classifier works on FFPE blocks from another laboratory.
 is the one that looks wrong. Six tumour suppressors are switched on: RNF43, ZNRF3, APCDD1, ZFHX3,
 EPHA3 and SLFN11. RNF43 and ZNRF3 are E3 ubiquitin ligases that remove Frizzled receptors from the
 cell surface; APCDD1 is a membrane Wnt inhibitor. All three are transcriptional targets of
-beta-catenin, together with AXIN2, NKD1, NOTUM and DKK1 from page 7. They form the negative feedback
+beta-catenin, as are AXIN2, NKD1, NOTUM and DKK1 from page 7. They form the negative feedback
 loop of the pathway: when Wnt signalling fires, the cell induces its own brakes. In WNT
 medulloblastoma, CTNNB1 carries a mutation in the degradation motif, so beta-catenin is stable no
-matter what happens at the receptor. The brakes are induced, hypomethylated and expressed, and they
-have nothing to act on. "Tumour suppressor switched on" is here the signature of a pathway stuck on
-downstream of the point where the suppressor acts. The one tumour suppressor silenced, SFRP1, a
+matter what happens at the receptor. The brakes are induced and have nothing to act on. The
+methylation layer splits them in two: RNF43, ZNRF3, APCDD1 and SP5 are hypomethylated as well as
+expressed, while AXIN2, NKD1, NOTUM and DKK1 are expressed with no promoter change. "Tumour
+suppressor switched on" is here the signature of a pathway stuck on downstream of the point where
+the suppressor acts. The one tumour suppressor silenced, SFRP1, a
 secreted Wnt antagonist, is the classic promoter hypermethylation event of Wnt-driven cancers, and
 has ten medulloblastoma papers. The oncogenes switched on, SYK and STAT4, are immune signalling
 kinases and transcription factors with no medulloblastoma literature; they may reflect the immune
@@ -634,6 +636,47 @@ P7 = [
    the signature of activation by mutation, while the Group 3 photoreceptor program is hypomethylated
    and expressed along the whole chain, the signature of activation by demethylation. Methylation marks
    lineage programs and microenvironment; mutation marks the current drug targets.
+
+## Literature check on the three candidate observations
+
+Three observations looked as if they might be new. Each was checked against PubMed on 2026-10-18.
+The verdicts are limited to what the searches returned.
+
+1. **Two modes of pathway activation.** Hedgehog and Wnt targets are over-expressed in SHH and WNT
+   tumours with flat promoter methylation; the Group 3 photoreceptor program is hypomethylated and
+   expressed along the whole chain. The Group 3 half is anticipated. Hovestadt et al. 2014 showed
+   from whole-genome bisulfite sequencing that hypomethylation tracks expression in medulloblastoma
+   and that focal low-methylation regions mark subgroup-specific transcription factor networks
+   (https://doi.org/10.1038/nature13268). Chen et al. 2025 showed that enhancer hypomethylation,
+   in particular of the OTX2 super-enhancer through TET3, sustains Group 3 tumours
+   (https://doi.org/10.1016/j.xcrm.2025.102474). Gudenas et al. 2026 described a tumour-associated
+   photoreceptor signature shared by Group 3 medulloblastoma, pineoblastoma and retinoblastoma,
+   whose constituents are selective dependencies (https://doi.org/10.1016/j.ccell.2026.02.010).
+   What the searches did not return is the side-by-side contrast: the same tumours, promoter
+   level, three pathways, mutation-driven targets with flat promoters against a
+   demethylation-driven program. That contrast is consistent with the literature and, as far as
+   these searches go, not described in it. An independent check supports the approach: Lindsey et
+   al. 2014 reported regional hypomethylation of VAV1 with elevated expression as a conserved
+   feature of SHH tumours (https://doi.org/10.1038/onc.2014.405). In this cohort VAV1 promoter beta
+   is 0.50 lower in SHH tumours with expression modestly up, below the two-fold threshold used
+   here, so the event is present in the data and was missed only by the threshold.
+2. **Explanations landing on functional sites.** No paper was found that validates the attributions
+   of a methylation classifier against expression in the same tumours. The search was narrow and
+   this is a methods observation; it is reported here without a novelty claim.
+3. **The WNT feedback genes.** The expression half is known. Vriend et al. 2019 and 2020 found that
+   ZNRF3 over-expression alone predicts the WNT subgroup in the Pfister and Cavalli cohorts
+   (https://doi.org/10.1007/s12311-019-1009-y, https://doi.org/10.1016/j.bbadis.2020.165839), and
+   Desterke et al. 2025 listed Wnt pathway regulators among the LEF1 targets active in WNT
+   medulloblastoma (https://doi.org/10.3390/curroncol32010035). The promoter methylation state of
+   these genes, RNF43, ZNRF3, APCDD1 and SP5 hypomethylated in WNT tumours while AXIN2, NKD1, NOTUM
+   and DKK1 are expressed with no promoter change, was not found in the searched literature. It is
+   a small observation with a textbook mechanism behind it, and it would need an independent cohort
+   before it is more than that.
+
+One directly related study appeared in the search: Tuerxun et al. 2026 integrated the same two
+GEO series, GSE85212 and GSE85217, for a prognostic model with limma and ChAMP
+(https://doi.org/10.1177/20503121251386139). Its focus is survival, which this project does not
+analyse, and it is cited as related work.
 
 ## What this project does not show
 
